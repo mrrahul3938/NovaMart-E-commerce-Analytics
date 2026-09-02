@@ -1,0 +1,2001 @@
+product_id,product_name,category,subcategory,brand,unit_cost,list_price,product_status
+20001,FitPro Product 20001,Sports,Fitness,StyleHub,832.64,1162.0,Active
+20002,PureCare Product 20002,Fashion,Men,UrbanNest,1208.44,2647.74,Discontinued
+20003,UrbanNest Product 20003,Sports,Outdoor,SmartBuy,240.02,321.77,Active
+20004,SmartBuy Product 20004,Electronics,Computing,StyleHub,36083.73,47600.72,Active
+20005,PureCare Product 20005,Beauty,Skincare,SmartBuy,3033.1,4318.77,Discontinued
+20006,StyleHub Product 20006,Fashion,Men,FitPro,4477.62,6745.27,Discontinued
+20007,SmartBuy Product 20007,Electronics,Mobile Accessories,UrbanNest,10440.42,23122.25,Active
+20008,UrbanNest Product 20008,Sports,Fitness,SmartBuy,4597.57,8434.11,Active
+20009,HomeEase Product 20009,Fashion,Men,PureCare,1806.76,2894.27,Active
+20010,NovaTech Product 20010,Home & Kitchen,Kitchen,ReadMore,1927.47,3693.3,Active
+20011,UrbanNest Product 20011,Books,Non-Fiction,FitPro,1022.52,2190.11,Active
+20012,PureCare Product 20012,Sports,Outdoor,SmartBuy,6169.62,9266.3,Discontinued
+20013,StyleHub Product 20013,Electronics,Audio,UrbanNest,22127.14,45766.19,Active
+20014,StyleHub Product 20014,Books,Non-Fiction,StyleHub,845.69,1324.48,Active
+20015,StyleHub Product 20015,Beauty,Haircare,UrbanNest,2720.03,3585.55,Active
+20016,NovaTech Product 20016,Home & Kitchen,Appliances,PureCare,2092.0,3626.67,Active
+20017,SmartBuy Product 20017,Sports,Fitness,FitPro,3928.1,7513.28,Active
+20018,StyleHub Product 20018,Sports,Sportswear,NovaTech,5660.54,11869.43,Active
+20019,NovaTech Product 20019,Sports,Outdoor,StyleHub,2354.16,3603.66,Active
+20020,ReadMore Product 20020,Electronics,Mobile Accessories,HomeEase,23891.2,31526.79,Active
+20021,UrbanNest Product 20021,Books,Education,StyleHub,241.72,366.24,Active
+20022,NovaTech Product 20022,Electronics,Mobile Accessories,ReadMore,16476.14,31714.89,Active
+20023,FitPro Product 20023,Books,Non-Fiction,UrbanNest,1751.99,2484.8,Discontinued
+20024,NovaTech Product 20024,Books,Fiction,UrbanNest,114.06,188.71,Discontinued
+20025,ReadMore Product 20025,Home & Kitchen,Home Decor,PureCare,3179.15,4769.9,Active
+20026,NovaTech Product 20026,Sports,Outdoor,NovaTech,852.67,1123.6,Active
+20027,PureCare Product 20027,Beauty,Haircare,StyleHub,1953.58,2908.6,Active
+20028,ReadMore Product 20028,Beauty,Personal Care,NovaTech,233.53,346.04,Active
+20029,ReadMore Product 20029,Beauty,Haircare,UrbanNest,857.36,1185.91,Active
+20030,FitPro Product 20030, Books ,Non-Fiction,ReadMore,253.98,395.65,Active
+20031,ReadMore Product 20031,Electronics,Computing,UrbanNest,27846.35,36786.18,Active
+20032,StyleHub Product 20032,Fashion,Men,UrbanNest,899.37,1476.74,Active
+20033,PureCare Product 20033,Home & Kitchen,Appliances,PureCare,4526.28,7742.35,Active
+20034,ReadMore Product 20034,Electronics,Computing,UrbanNest,25629.114,24408.68,Active
+20035,NovaTech Product 20035,Electronics,Audio,ReadMore,27035.61,40867.79,Active
+20036,UrbanNest Product 20036,Home & Kitchen,Kitchen,HomeEase,5794.37,12771.78,Active
+20037,SmartBuy Product 20037,Fashion,Men,PureCare,1783.64,3214.79,Active
+20038,HomeEase Product 20038,Electronics,Audio,FitPro,20430.16,35495.6,Active
+20039,FitPro Product 20039,Sports,Outdoor,StyleHub,2659.84,3834.27,Discontinued
+20040,ReadMore Product 20040,Fashion,Women,StyleHub,4476.38,9744.69,Active
+20041,ReadMore Product 20041, Home & Kitchen ,Appliances,UrbanNest,12800.1,18123.45,Active
+20042,NovaTech Product 20042,Books,Non-Fiction,NovaTech,661.64,870.47,Active
+20043,UrbanNest Product 20043,Electronics,Audio,ReadMore,20017.55,33421.32,Active
+20044,HomeEase Product 20044,Beauty,Skincare,StyleHub,1600.74,2559.5,Active
+20045,StyleHub Product 20045,Fashion,Women,FitPro,3705.42,5869.12,Active
+20046,StyleHub Product 20046,Electronics,Computing,PureCare,13350.57,23473.9,Active
+20047,ReadMore Product 20047,Sports,Outdoor,PureCare,5787.54,8750.3,Active
+20048,NovaTech Product 20048,Fashion,Women,PureCare,4406.71,7067.99,Discontinued
+20049,SmartBuy Product 20049,Home & Kitchen,Kitchen,PureCare,1231.04,1890.74,Discontinued
+20050,UrbanNest Product 20050,Home & Kitchen,Appliances,NovaTech,6241.61,11250.66,Active
+20051,HomeEase Product 20051,Fashion,Footwear,StyleHub,1168.81,2334.52,Discontinued
+20052,SmartBuy Product 20052,Electronics,Mobile Accessories,HomeEase,14713.66,20357.79,Active
+20053,NovaTech Product 20053,Electronics,Audio,UrbanNest,26786.13,47065.4,Discontinued
+20054,HomeEase Product 20054,Sports,Sportswear,NovaTech,2507.81,-4178.36,Active
+20055,NovaTech Product 20055,Home & Kitchen,Kitchen,UrbanNest,10339.49,14989.77,Active
+20056,NovaTech Product 20056,Beauty,Personal Care,NovaTech,2655.7,3696.67,Active
+20057,PureCare Product 20057,Books,Education,UrbanNest,498.42,705.48,Active
+20058,NovaTech Product 20058,Home & Kitchen,Appliances,HomeEase,266.84,471.62,Discontinued
+20059,HomeEase Product 20059,Beauty,Skincare,UrbanNest,1025.5,2144.38,Active
+20060,FitPro Product 20060,Sports,Fitness,UrbanNest,2175.0,3456.42,Active
+20061,SmartBuy Product 20061,Home & Kitchen,Appliances,HomeEase,4056.03,5869.46,Active
+20062,HomeEase Product 20062,Beauty,Personal Care,HomeEase,3781.27,5923.48,Active
+20063,UrbanNest Product 20063,Books,Education,FitPro,415.38,833.46,Active
+20064,StyleHub Product 20064,Home & Kitchen,Appliances,StyleHub,606.81,1211.43,Active
+20065,HomeEase Product 20065,Electronics,Computing,HomeEase,15053.62,25260.31,Active
+20066,UrbanNest Product 20066,Books,Education,ReadMore,1113.0,1876.45,Discontinued
+20067,SmartBuy Product 20067,Fashion,Footwear,ReadMore,4479.39,7897.42,Discontinued
+20068,HomeEase Product 20068,Home & Kitchen,Kitchen,ReadMore,7112.93,10253.49,Discontinued
+20069,NovaTech Product 20069,Sports,Fitness,StyleHub,7833.79,10682.81,Active
+20070,PureCare Product 20070,Sports,Fitness,PureCare,1390.02,2304.1,Discontinued
+20071,NovaTech Product 20071,Beauty,Personal Care,StyleHub,734.48,964.71,Active
+20072,UrbanNest Product 20072,Home & Kitchen,Home Decor,NovaTech,1808.46,2323.02,Active
+20073,SmartBuy Product 20073,Fashion,Men,PureCare,342.29,515.56,Discontinued
+20074,ReadMore Product 20074,Books,Education,PureCare,1135.31,1924.62,Discontinued
+20075,FitPro Product 20075,Fashion,Footwear,SmartBuy,3768.4,5314.27,Discontinued
+20076,HomeEase Product 20076,Fashion,Women,SmartBuy,4077.92,8554.19,Active
+20077,FitPro Product 20077,Beauty,Haircare,FitPro,1888.95,3437.34,Active
+20078,UrbanNest Product 20078,Home & Kitchen,Home Decor,NovaTech,550.98,755.96,Discontinued
+20079,SmartBuy Product 20079,Books,Non-Fiction,HomeEase,423.18,721.99,Discontinued
+20080,SmartBuy Product 20080,books,Fiction,SmartBuy,169.91,222.26,Active
+20081,PureCare Product 20081,Fashion,Footwear,NovaTech,6169.03,8009.2,Active
+20082,ReadMore Product 20082,Fashion,Men,FitPro,2826.61,4066.51,Active
+20083,UrbanNest Product 20083,home & kitchen,Appliances,FitPro,9663.89,13155.89,Active
+20084,PureCare Product 20084,Home & Kitchen,Home Decor,PureCare,1712.72,3526.51,Discontinued
+20085,SmartBuy Product 20085,Electronics,Audio,HomeEase,18899.31,30439.73,Active
+20086,FitPro Product 20086,Electronics,Mobile Accessories,SmartBuy,5484.78,7336.28,Active
+20087,UrbanNest Product 20087,Electronics,Audio,ReadMore,10351.97,17153.33,Active
+20088,ReadMore Product 20088,Electronics,Audio,ReadMore,28095.31,41288.04,Discontinued
+20089,NovaTech Product 20089,Books,Non-Fiction,NovaTech,524.28,1100.68,Active
+20090,UrbanNest Product 20090,Books,Education,StyleHub,724.77,948.83,Discontinued
+20091,FitPro Product 20091,Fashion,Men,NovaTech,2139.5,3859.37,Active
+20092,ReadMore Product 20092,Electronics,Mobile Accessories,FitPro,31356.6,46124.53,Discontinued
+20093,StyleHub Product 20093,Fashion,Women,ReadMore,816.16,1138.04,Active
+20094,PureCare Product 20094,Sports,Sportswear,ReadMore,1830.27,3566.23,Active
+20095,HomeEase Product 20095,Sports,Outdoor,UrbanNest,4216.86,7634.53,Active
+20096,ReadMore Product 20096,Fashion,Women,UrbanNest,2983.13,5866.08,Discontinued
+20097,HomeEase Product 20097,Home & Kitchen,Kitchen,ReadMore,4687.52,8251.51,Discontinued
+20098,FitPro Product 20098,Beauty,Haircare,FitPro,2921.82,3952.29,Active
+20099,PureCare Product 20099,Home & Kitchen,Appliances,FitPro,8676.67,19220.35,Active
+20100,SmartBuy Product 20100,Books,Non-Fiction,UrbanNest,1041.94,2131.57,Active
+20101,StyleHub Product 20101,Home & Kitchen,Home Decor,ReadMore,4419.82,6105.33,Active
+20102,FitPro Product 20102,Beauty,Personal Care,FitPro,2460.33,4072.24,Active
+20103,PureCare Product 20103,Beauty,Personal Care,NovaTech,2668.9,5588.62,Discontinued
+20104,HomeEase Product 20104,Beauty,Haircare,SmartBuy,1410.41,2108.45,Active
+20105,NovaTech Product 20105,Electronics,Computing,SmartBuy,4107.4,6075.86,Active
+20106,PureCare Product 20106,Books,Non-Fiction,PureCare,918.1,1345.55,Active
+20107,SmartBuy Product 20107,Books,Non-Fiction,PureCare,289.29,606.86,Active
+20108,StyleHub Product 20108,Fashion,Women,UrbanNest,2111.93,3363.85,Active
+20109,ReadMore Product 20109,Beauty,Haircare,UrbanNest,1299.55,1937.54,Active
+20110,SmartBuy Product 20110,Sports,Sportswear,SmartBuy,1778.22,3572.36,Discontinued
+20111,UrbanNest Product 20111,Home & Kitchen,Home Decor,StyleHub,1985.44,3749.75,Discontinued
+20112,HomeEase Product 20112,Books,Fiction,HomeEase,913.73,1844.55,Active
+20113,StyleHub Product 20113,Books,Education,StyleHub,941.68,1421.01,Active
+20114,HomeEase Product 20114,Beauty,Personal Care,PureCare,1934.98,4028.85,Active
+20115,NovaTech Product 20115,Home & Kitchen,Kitchen,HomeEase,1951.47,3885.15,Active
+20116,HomeEase Product 20116,Books,Fiction,UrbanNest,445.02,663.59,Discontinued
+20117,StyleHub Product 20117,Home & Kitchen,Kitchen,StyleHub,10204.74,13468.41,Active
+20118,StyleHub Product 20118,Books,Non-Fiction,SmartBuy,152.81,213.42,Active
+20119,ReadMore Product 20119,Books,Non-Fiction,FitPro,1369.46,1843.82,Active
+20120,FitPro Product 20120,Sports,Fitness,ReadMore,5198.96,9539.62,Discontinued
+20121,ReadMore Product 20121,Fashion,Women,StyleHub,5815.56,7603.97,Discontinued
+20122,FitPro Product 20122,Electronics,Audio,NovaTech,2380.23,4966.59,Active
+20123,NovaTech Product 20123,Fashion,Women,FitPro,650.31,1341.6,Active
+20124,StyleHub Product 20124,Home & Kitchen,Appliances,NovaTech,8097.15,12976.3,Active
+20125,UrbanNest Product 20125,Fashion,Men,PureCare,3926.91,7162.54,Active
+20126,PureCare Product 20126,Beauty,Haircare,UrbanNest,1723.19,2643.25,Active
+20127,UrbanNest Product 20127,Electronics,Audio,SmartBuy,411.96,735.56,Active
+20128,PureCare Product 20128,Fashion,Footwear,UrbanNest,1673.34,3575.31,Active
+20129,StyleHub Product 20129,Electronics,Computing,NovaTech,3561.9,5173.18,Active
+20130,NovaTech Product 20130,Beauty,Haircare,PureCare,407.87,578.14,Active
+20131,FitPro Product 20131,Home & Kitchen,Kitchen,PureCare,8332.76,12122.69,Discontinued
+20132,FitPro Product 20132,Fashion,Men,HomeEase,1732.52,2938.13,Active
+20133,NovaTech Product 20133,Sports,Outdoor,ReadMore,4681.25,9887.68,Discontinued
+20134,StyleHub Product 20134,books,Fiction,NovaTech,81.28,145.57,Active
+20135,StyleHub Product 20135,Beauty,Skincare,SmartBuy,794.41,1378.06,Active
+20136,StyleHub Product 20136,Beauty,Skincare,SmartBuy,2715.99,4968.47,Active
+20137,FitPro Product 20137,Fashion,Women,FitPro,3507.59,7535.34,Discontinued
+20138,ReadMore Product 20138,Fashion,Men,HomeEase,6594.96,8793.11,Active
+20139,NovaTech Product 20139,Sports,Outdoor,NovaTech,1622.17,2494.27,Discontinued
+20140,SmartBuy Product 20140, Home & Kitchen ,Home Decor,UrbanNest,13632.27,19748.24,Active
+20141,SmartBuy Product 20141,Electronics,Audio,HomeEase,14131.87,23211.19,Active
+20142,SmartBuy Product 20142,Books,Education,SmartBuy,365.12,752.45,Active
+20143,StyleHub Product 20143,Electronics,Audio,PureCare,2393.24,3478.5,Discontinued
+20144,NovaTech Product 20144,Home & Kitchen,Home Decor,SmartBuy,2611.43,4590.95,Active
+20145,FitPro Product 20145,Beauty,Haircare,FitPro,693.61,1507.65,Discontinued
+20146,HomeEase Product 20146,Sports,Fitness,StyleHub,3964.2,5892.39,Active
+20147,ReadMore Product 20147,Fashion,Men,PureCare,4782.61,6794.43,Active
+20148,HomeEase Product 20148,Beauty,Haircare,NovaTech,1185.55,2483.57,Active
+20149,UrbanNest Product 20149,Beauty,Skincare,HomeEase,1824.03,3433.44,Active
+20150,FitPro Product 20150,Books,Education,StyleHub,1029.79,1381.64,Active
+20151,NovaTech Product 20151,Electronics,Mobile Accessories,NovaTech,2569.21,5148.79,Active
+20152,StyleHub Product 20152,Home & Kitchen,Appliances,SmartBuy,2910.37,5801.66,Active
+20153,ReadMore Product 20153,Electronics,Audio,UrbanNest,20812.21,26979.78,Active
+20154,FitPro Product 20154,Electronics,Audio,FitPro,5759.35,11092.26,Active
+20155,StyleHub Product 20155,Fashion,Women,PureCare,2822.57,4465.52,Discontinued
+20156,ReadMore Product 20156,Books,Non-Fiction,SmartBuy,1217.4,2348.95,Discontinued
+20157,ReadMore Product 20157,Home & Kitchen,Appliances,SmartBuy,3036.87,5324.45,Active
+20158,FitPro Product 20158,Beauty,Skincare,PureCare,1891.02,2989.43,Active
+20159,SmartBuy Product 20159,Sports,Fitness,FitPro,5877.01,7542.48,Discontinued
+20160,UrbanNest Product 20160,Sports,Fitness,UrbanNest,2099.2,4213.0,Active
+20161,SmartBuy Product 20161,Electronics,Audio,HomeEase,2081.76,2988.97,Active
+20162,PureCare Product 20162,Beauty,Haircare,SmartBuy,4098.39,5370.51,Active
+20163,NovaTech Product 20163,Books,Non-Fiction,HomeEase,1304.01,2266.17,Active
+20164,NovaTech Product 20164,Beauty,Skincare,HomeEase,1928.82,2846.09,Active
+20165,SmartBuy Product 20165,Home & Kitchen,Appliances,ReadMore,4742.94,6748.62,Discontinued
+20166,HomeEase Product 20166,Electronics,Mobile Accessories,HomeEase,10656.98,21202.12,Active
+20167,HomeEase Product 20167,Home & Kitchen,Appliances,ReadMore,685.51,1344.93,Active
+20168,SmartBuy Product 20168,Books,Education,NovaTech,1584.8,2193.75,Active
+20169,FitPro Product 20169,Books,Education,ReadMore,1366.69,2479.82,Active
+20170,ReadMore Product 20170,Fashion,Women,UrbanNest,2367.28,3077.37,Active
+20171,StyleHub Product 20171,Sports,Outdoor,ReadMore,5649.72,8856.95,Active
+20172,PureCare Product 20172,Beauty,Skincare,HomeEase,156.89,263.66,Active
+20173,FitPro Product 20173,Fashion,Men,NovaTech,1157.44,1949.63,Active
+20174,NovaTech Product 20174,Electronics,Computing,StyleHub,23614.27,42518.38,Active
+20175,ReadMore Product 20175,Home & Kitchen,Appliances,ReadMore,3110.96,5689.03,Discontinued
+20176,NovaTech Product 20176,Electronics,Computing,FitPro,4104.35,7960.65,Active
+20177,HomeEase Product 20177,Books,Education,UrbanNest,377.72,594.68,Active
+20178,ReadMore Product 20178,Beauty,Skincare,ReadMore,176.72,231.42,Active
+20179,SmartBuy Product 20179,Fashion,Footwear,UrbanNest,5629.64,7606.1,Active
+20180,HomeEase Product 20180,Beauty,Personal Care,UrbanNest,3709.59,5587.97,Active
+20181,FitPro Product 20181,Electronics,Audio,FitPro,25578.49,36333.39,Active
+20182,NovaTech Product 20182,Electronics,Mobile Accessories,PureCare,4316.75,9013.29,Discontinued
+20183,ReadMore Product 20183,Fashion,Footwear,PureCare,6201.04,8300.79,Discontinued
+20184,UrbanNest Product 20184,Books,Fiction,NovaTech,230.98,339.09,Discontinued
+20185,UrbanNest Product 20185,Electronics,Mobile Accessories,PureCare,1185.52,2246.49,Active
+20186,ReadMore Product 20186,Sports,Fitness,UrbanNest,1685.47,3123.27,Discontinued
+20187,SmartBuy Product 20187,Home & Kitchen,Kitchen,NovaTech,10308.76,18785.98,Active
+20188,UrbanNest Product 20188,Sports,Sportswear,PureCare,1967.84,2649.85,Discontinued
+20189,HomeEase Product 20189,Fashion,Women,NovaTech,3644.61,6056.2,Active
+20190,SmartBuy Product 20190,Sports,Fitness,NovaTech,2919.98,6228.57,Discontinued
+20191,ReadMore Product 20191,Beauty,Skincare,ReadMore,1945.3,3659.07,Active
+20192,NovaTech Product 20192,Fashion,Footwear,StyleHub,531.7,864.71,Active
+20193,PureCare Product 20193,Fashion,Women,PureCare,3638.59,6139.98,Discontinued
+20194,UrbanNest Product 20194,Home & Kitchen,Kitchen,SmartBuy,10391.42,15511.28,Discontinued
+20195,SmartBuy Product 20195,Books,Non-Fiction,PureCare,691.21,896.07,Active
+20196,UrbanNest Product 20196,Fashion,Footwear,ReadMore,3293.8,6954.94,Discontinued
+20197,PureCare Product 20197, Beauty ,Personal Care,UrbanNest,2441.72,4176.01,Active
+20198,SmartBuy Product 20198,Beauty,Personal Care,SmartBuy,640.19,1170.71,Active
+20199,SmartBuy Product 20199,Electronics,Audio,StyleHub,32978.59,43722.09,Active
+20200,SmartBuy Product 20200,Home & Kitchen,Home Decor,FitPro,10463.66,13888.89,Active
+20201,StyleHub Product 20201,Sports,Outdoor,FitPro,3115.35,5362.87,Active
+20202,StyleHub Product 20202,Home & Kitchen,Appliances,FitPro,1887.06,3820.44,Active
+20203,ReadMore Product 20203,Books,Education,StyleHub,486.39,801.23,Active
+20204,PureCare Product 20204,Electronics,Mobile Accessories,NovaTech,5620.6,8107.07,Active
+20205,FitPro Product 20205,Sports,Outdoor,PureCare,2671.04,4571.04,Active
+20206,ReadMore Product 20206,Fashion,Men,PureCare,4932.35,9502.99,Active
+20207,StyleHub Product 20207,Beauty,Personal Care,PureCare,2405.51,4375.18,Active
+20208,UrbanNest Product 20208,Home & Kitchen,Home Decor,UrbanNest,1256.69,2742.57,Discontinued
+20209,SmartBuy Product 20209,Books,Education,ReadMore,522.6,800.0,Active
+20210,PureCare Product 20210,Electronics,Computing,ReadMore,25109.56,48912.77,Active
+20211,UrbanNest Product 20211,Sports,Outdoor,SmartBuy,5088.3,6530.4,Active
+20212,SmartBuy Product 20212,Fashion,Men,UrbanNest,1035.88,1832.22,Active
+20213,ReadMore Product 20213,Home & Kitchen,Appliances,UrbanNest,9218.22,13284.6,Active
+20214,PureCare Product 20214,Books,Fiction,PureCare,1242.1,1649.61,Discontinued
+20215,StyleHub Product 20215,Sports,Outdoor,StyleHub,4089.96,8151.78,Active
+20216,FitPro Product 20216,Beauty,Personal Care,SmartBuy,1195.42,2120.16,Discontinued
+20217,PureCare Product 20217,Electronics,Mobile Accessories,FitPro,2190.73,-3128.25,Active
+20218,SmartBuy Product 20218,Home & Kitchen,Home Decor,FitPro,236.4,388.51,Active
+20219,PureCare Product 20219,Sports,Fitness,UrbanNest,7052.93,9855.06,Active
+20220,SmartBuy Product 20220,Electronics,Mobile Accessories,HomeEase,28118.26,42344.33,Active
+20221,PureCare Product 20221,Fashion,Footwear,HomeEase,4133.42,8524.2,Active
+20222,FitPro Product 20222,Books,Fiction,PureCare,1332.22,1997.45,Active
+20223,HomeEase Product 20223,Beauty,Haircare,SmartBuy,3195.95,4520.35,Active
+20224,FitPro Product 20224,Electronics,Mobile Accessories,UrbanNest,12577.64,20509.78,Active
+20225,FitPro Product 20225,Books,Non-Fiction,UrbanNest,565.01,859.89,Active
+20226,FitPro Product 20226,Sports,Fitness,SmartBuy,2788.18,3983.22,Active
+20227,HomeEase Product 20227,Fashion,Footwear,HomeEase,5104.74,8870.62,Active
+20228,SmartBuy Product 20228,Sports,Sportswear,SmartBuy,1993.13,3402.95,Active
+20229,ReadMore Product 20229,Electronics,Audio,UrbanNest,26287.31,46989.87,Active
+20230,PureCare Product 20230,Electronics,Mobile Accessories,UrbanNest,7007.52,13227.92,Active
+20231,FitPro Product 20231,Electronics,Audio,PureCare,16883.66,24901.54,Active
+20232,UrbanNest Product 20232,Sports,Fitness,NovaTech,3511.95,6997.41,Active
+20233,UrbanNest Product 20233,Home & Kitchen,Home Decor,HomeEase,10367.98,15368.99,Discontinued
+20234,FitPro Product 20234,Beauty,Haircare,SmartBuy,1477.64,3260.15,Active
+20235,ReadMore Product 20235,Beauty,Personal Care,PureCare,373.89,559.42,Active
+20236,SmartBuy Product 20236,Fashion,Women,HomeEase,4828.67,9786.4,Active
+20237,StyleHub Product 20237,Home & Kitchen,Kitchen,PureCare,9985.04,14311.96,Discontinued
+20238,StyleHub Product 20238,Books,Fiction,ReadMore,717.57,1036.86,Active
+20239,PureCare Product 20239,Fashion,Men,FitPro,1577.91,2654.44,Active
+20240,FitPro Product 20240,Beauty,Haircare,HomeEase,2118.93,4035.95,Discontinued
+20241,NovaTech Product 20241,Home & Kitchen,Appliances,FitPro,3003.81,5107.55,Discontinued
+20242,FitPro Product 20242,Sports,Outdoor,PureCare,925.17,1778.01,Active
+20243,SmartBuy Product 20243,Books,Fiction,UrbanNest,1633.91,2117.18,Active
+20244,PureCare Product 20244,Books,Fiction,FitPro,504.19,676.6,Active
+20245,SmartBuy Product 20245,Sports,Sportswear,NovaTech,1602.89,2374.42,Active
+20246,ReadMore Product 20246,Books,Non-Fiction,NovaTech,648.55,1389.86,Active
+20247,HomeEase Product 20247,Sports,Sportswear,ReadMore,7671.3,11037.26,Discontinued
+20248,NovaTech Product 20248,Sports,Fitness,PureCare,6044.21,8467.22,Active
+20249,SmartBuy Product 20249,Electronics,Mobile Accessories,StyleHub,1791.39,2418.52,Active
+20250,SmartBuy Product 20250,Sports,Fitness,StyleHub,8089.77,10944.31,Active
+20251,PureCare Product 20251,Beauty,Skincare,UrbanNest,1463.37,2720.16,Active
+20252,NovaTech Product 20252,Home & Kitchen,Kitchen,ReadMore,10331.32,14038.07,Discontinued
+20253,NovaTech Product 20253,Books,Non-Fiction,StyleHub,373.54,650.75,Active
+20254,NovaTech Product 20254,Books,Non-Fiction,FitPro,492.74,878.52,Active
+20255,PureCare Product 20255,Electronics,Computing,StyleHub,32574.7,48442.66,Discontinued
+20256,StyleHub Product 20256,Electronics,Audio,SmartBuy,13307.93,19984.01,Discontinued
+20257,PureCare Product 20257,Electronics,Audio,StyleHub,8937.36,12437.77,Active
+20258,FitPro Product 20258,Books,Education,FitPro,912.97,1815.32,Active
+20259,FitPro Product 20259,Home & Kitchen,Kitchen,UrbanNest,9037.266,8606.92,Active
+20260,StyleHub Product 20260,Books,Non-Fiction,NovaTech,1416.78,2102.38,Active
+20261,SmartBuy Product 20261,Beauty,Skincare,HomeEase,2160.34,4573.52,Active
+20262,NovaTech Product 20262,Electronics,Mobile Accessories,SmartBuy,24998.38,47316.04,Active
+20263,SmartBuy Product 20263,Sports,Sportswear,StyleHub,4934.29,10278.94,Active
+20264,StyleHub Product 20264,Sports,Fitness,UrbanNest,7986.62,10746.16,Discontinued
+20265,UrbanNest Product 20265,Beauty,Skincare,SmartBuy,2820.96,5941.2,Discontinued
+20266,HomeEase Product 20266,Beauty,Skincare,SmartBuy,924.05,1711.48,Active
+20267,NovaTech Product 20267,Books,Non-Fiction,ReadMore,758.03,1481.05,Discontinued
+20268,NovaTech Product 20268,Sports,Fitness,FitPro,6567.59,10168.93,Discontinued
+20269,StyleHub Product 20269,Fashion,Women,NovaTech,1023.8,1400.42,Discontinued
+20270,PureCare Product 20270,Beauty,Skincare,FitPro,2272.54,2925.79,Discontinued
+20271,StyleHub Product 20271,Fashion,Footwear,SmartBuy,3323.4,5734.55,Active
+20272,PureCare Product 20272,Home & Kitchen,Appliances,SmartBuy,10312.86,19956.99,Discontinued
+20273,UrbanNest Product 20273,Beauty,Personal Care,SmartBuy,898.4010000000001,855.62,Discontinued
+20274,ReadMore Product 20274,Fashion,Women,ReadMore,3255.47,6614.54,Active
+20275,ReadMore Product 20275,Fashion,Men,FitPro,2918.69,4330.7,Active
+20276,UrbanNest Product 20276,Home & Kitchen,Kitchen,StyleHub,3158.58,6001.95,Discontinued
+20277,FitPro Product 20277,Beauty,Skincare,FitPro,832.17,1256.51,Active
+20278,StyleHub Product 20278,Books,Non-Fiction,HomeEase,912.38,1766.61,Active
+20279,StyleHub Product 20279,Books,Fiction,SmartBuy,1279.17,1842.02,Discontinued
+20280,StyleHub Product 20280,Sports,Sportswear,StyleHub,4952.65,8907.63,Active
+20281,ReadMore Product 20281,Books,Non-Fiction,ReadMore,779.81,1127.12,Active
+20282,StyleHub Product 20282,Electronics,Audio,SmartBuy,1233.47,2614.54,Active
+20283,FitPro Product 20283,Beauty,Haircare,HomeEase,1786.1,2611.48,Discontinued
+20284,HomeEase Product 20284,Sports,Fitness,SmartBuy,4139.46,5564.8,Discontinued
+20285,FitPro Product 20285,Fashion,Men,HomeEase,3056.81,5024.92,Discontinued
+20286,FitPro Product 20286,Home & Kitchen,Home Decor,SmartBuy,1888.79,3563.25,Active
+20287,NovaTech Product 20287,Fashion,Women,SmartBuy,9460.7415,9010.23,Active
+20288,SmartBuy Product 20288,Beauty,Skincare,ReadMore,1362.63,1889.87,Active
+20289,NovaTech Product 20289,Sports,Outdoor,SmartBuy,4320.68,7728.9,Active
+20290,SmartBuy Product 20290,Beauty,Skincare,PureCare,1937.11,3129.25,Discontinued
+20291,NovaTech Product 20291,Electronics,Audio,SmartBuy,29786.05,42663.66,Active
+20292,PureCare Product 20292,Fashion,Women,PureCare,6817.21,9241.44,Active
+20293,ReadMore Product 20293,Electronics,Computing,HomeEase,4855.94,8896.0,Active
+20294,UrbanNest Product 20294,Beauty,Skincare,PureCare,1963.0,2979.31,Discontinued
+20295,UrbanNest Product 20295,Fashion,Men,StyleHub,4412.85,6782.81,Active
+20296,UrbanNest Product 20296,Beauty,Personal Care,HomeEase,2906.36,4788.96,Discontinued
+20297,HomeEase Product 20297,Fashion,Footwear,HomeEase,1000.66,1698.15,Active
+20298,ReadMore Product 20298,Home & Kitchen,Home Decor,PureCare,5733.36,9338.4,Discontinued
+20299,SmartBuy Product 20299,Electronics,Mobile Accessories,PureCare,13732.4,19327.77,Active
+20300,StyleHub Product 20300,Electronics,Computing,NovaTech,32815.27,45226.2,Active
+20301,StyleHub Product 20301,Fashion,Women,ReadMore,4378.76,8611.51,Active
+20302,FitPro Product 20302,Fashion,Women,FitPro,3957.77,6383.69,Discontinued
+20303,HomeEase Product 20303,Home & Kitchen,Appliances,SmartBuy,8799.84,14748.87,Active
+20304,ReadMore Product 20304,Sports,Outdoor,UrbanNest,7639.36,10585.61,Active
+20305,SmartBuy Product 20305,Sports,Outdoor,PureCare,5023.54,9658.43,Discontinued
+20306,HomeEase Product 20306,Home & Kitchen,Home Decor,StyleHub,444.85,622.01,Active
+20307,StyleHub Product 20307,Sports,Sportswear,StyleHub,6142.73,8130.31,Active
+20308,HomeEase Product 20308,Books,Non-Fiction,NovaTech,1578.25,2147.11,Active
+20309,FitPro Product 20309,Electronics,Computing,SmartBuy,23309.38,35030.95,Active
+20310,UrbanNest Product 20310,Fashion,Women,SmartBuy,333.87,553.16,Active
+20311,PureCare Product 20311,Fashion,Men,UrbanNest,3650.72,5012.15,Active
+20312,SmartBuy Product 20312,Beauty,Skincare,UrbanNest,346.92,465.39,Active
+20313,UrbanNest Product 20313,Electronics,Computing,PureCare,17648.02,34615.41,Active
+20314,UrbanNest Product 20314,Home & Kitchen,Home Decor,UrbanNest,8537.11,14004.85,Active
+20315,PureCare Product 20315,Home & Kitchen,Kitchen,HomeEase,3298.93,7175.26,Active
+20316,ReadMore Product 20316,Beauty,Haircare,HomeEase,409.0,818.77,Active
+20317,StyleHub Product 20317,Sports,Outdoor,UrbanNest,6161.12,9685.77,Active
+20318,ReadMore Product 20318,Electronics,Mobile Accessories,PureCare,18015.13,27505.11,Active
+20319,NovaTech Product 20319,Fashion,Men,ReadMore,2388.67,4829.24,Active
+20320,HomeEase Product 20320,Fashion,Men,HomeEase,589.66,1257.66,Active
+20321,HomeEase Product 20321,Fashion,Footwear,StyleHub,7461.1,9804.0,Active
+20322,NovaTech Product 20322,Books,Non-Fiction,UrbanNest,1139.58,2455.75,Active
+20323,PureCare Product 20323,Home & Kitchen,Kitchen,NovaTech,10204.94,19444.51,Active
+20324,StyleHub Product 20324,Beauty,Personal Care,PureCare,118.7,185.26,Active
+20325,FitPro Product 20325,Fashion,Footwear,UrbanNest,2103.82,3299.2,Active
+20326,StyleHub Product 20326,Books,Non-Fiction,FitPro,1060.19,2274.94,Active
+20327,ReadMore Product 20327,Beauty,Skincare,HomeEase,496.19,873.03,Active
+20328,StyleHub Product 20328,Electronics,Audio,NovaTech,20293.79,32815.85,Active
+20329,StyleHub Product 20329,Sports,Outdoor,UrbanNest,3910.18,5024.17,Active
+20330,PureCare Product 20330,Fashion,Footwear,HomeEase,3423.71,5483.26,Discontinued
+20331,StyleHub Product 20331,Books,Education,SmartBuy,1271.22,1873.0,Discontinued
+20332,ReadMore Product 20332,Electronics,Audio,StyleHub,20476.67,40509.23,Discontinued
+20333,SmartBuy Product 20333,Books,Education,ReadMore,1416.15,2335.94,Active
+20334,FitPro Product 20334,Fashion,Footwear,PureCare,2557.5,4940.32,Discontinued
+20335,HomeEase Product 20335,Home & Kitchen,Appliances,NovaTech,4861.61,6927.19,Active
+20336,ReadMore Product 20336,Books,Non-Fiction,StyleHub,565.29,1019.44,Active
+20337,SmartBuy Product 20337,Sports,Outdoor,ReadMore,4578.03,6758.57,Discontinued
+20338,StyleHub Product 20338,Fashion,Women,HomeEase,2679.82,3865.82,Active
+20339,NovaTech Product 20339,Sports,Sportswear,HomeEase,4380.04,7445.71,Active
+20340,ReadMore Product 20340,Books,Education,HomeEase,1355.83,2034.07,Active
+20341,StyleHub Product 20341,Fashion,Men,StyleHub,3447.31,4924.16,Discontinued
+20342,NovaTech Product 20342,Home & Kitchen,Home Decor,UrbanNest,10255.19,15706.48,Active
+20343,UrbanNest Product 20343,Sports,Sportswear,ReadMore,1314.66,2325.26,Active
+20344,UrbanNest Product 20344,Electronics,Mobile Accessories,StyleHub,14336.06,24135.24,Discontinued
+20345,UrbanNest Product 20345,Fashion,Women,StyleHub,1909.34,4095.85,Active
+20346,SmartBuy Product 20346,Beauty,Skincare,PureCare,177.71,240.26,Active
+20347,StyleHub Product 20347,Home & Kitchen,Kitchen,FitPro,5856.0,10545.66,Discontinued
+20348,StyleHub Product 20348,Electronics,Audio,SmartBuy,27807.08,36577.28,Discontinued
+20349,FitPro Product 20349,Books,Fiction,PureCare,189.75,345.95,Active
+20350,PureCare Product 20350,Fashion,Women,StyleHub,4195.15,5380.95,Discontinued
+20351,NovaTech Product 20351,Electronics,Audio,PureCare,22523.0,44366.1,Active
+20352,UrbanNest Product 20352,Home & Kitchen,Kitchen,FitPro,8886.29,16487.01,Discontinued
+20353,HomeEase Product 20353,Electronics,Audio,PureCare,31398.09,41343.54,Active
+20354,ReadMore Product 20354,Home & Kitchen,Home Decor,PureCare,3212.87,5082.65,Discontinued
+20355,HomeEase Product 20355,Fashion,Footwear,NovaTech,4254.93,7134.05,Active
+20356,HomeEase Product 20356,home & kitchen,Kitchen,HomeEase,1868.27,2476.44,Active
+20357,HomeEase Product 20357,Beauty,Haircare,SmartBuy,563.94,875.23,Discontinued
+20358,NovaTech Product 20358,Electronics,Computing,FitPro,17563.9,24328.18,Active
+20359,PureCare Product 20359,Sports,Sportswear,ReadMore,2039.52,2638.68,Active
+20360,ReadMore Product 20360,Fashion,Footwear,NovaTech,2503.56,4690.37,Discontinued
+20361,StyleHub Product 20361,Books,Non-Fiction,NovaTech,1340.71,1743.5,Active
+20362,PureCare Product 20362,Beauty,Skincare,FitPro,3273.66,5233.74,Active
+20363,UrbanNest Product 20363,Books,Fiction,PureCare,662.74,970.14,Active
+20364,StyleHub Product 20364,Home & Kitchen,Appliances,UrbanNest,8799.13,-18000.76,Active
+20365,FitPro Product 20365,Sports,Fitness,PureCare,6107.58,9948.56,Discontinued
+20366,StyleHub Product 20366,Electronics,Mobile Accessories,NovaTech,27701.3,37854.07,Discontinued
+20367,SmartBuy Product 20367,Fashion,Women,ReadMore,210.76,349.61,Active
+20368,NovaTech Product 20368,Beauty,Skincare,ReadMore,416.89,646.11,Active
+20369,ReadMore Product 20369,Beauty,Skincare,HomeEase,1371.7515,1306.43,Active
+20370,UrbanNest Product 20370,Electronics,Audio,FitPro,29980.54,44397.82,Active
+20371,HomeEase Product 20371,Home & Kitchen,Kitchen,HomeEase,4976.91,7511.0,Active
+20372,StyleHub Product 20372,Books,Fiction,NovaTech,148.0,190.93,Discontinued
+20373,UrbanNest Product 20373,Beauty,Haircare,UrbanNest,3256.55,4820.32,Active
+20374,FitPro Product 20374,Home & Kitchen,Home Decor,HomeEase,2526.51,4406.67,Active
+20375,HomeEase Product 20375,Electronics,Audio,SmartBuy,30005.94,41522.34,Active
+20376,HomeEase Product 20376,Beauty,Skincare,HomeEase,2677.79,4959.9,Active
+20377,UrbanNest Product 20377,Home & Kitchen,Appliances,ReadMore,1018.1,1430.87,Active
+20378,SmartBuy Product 20378,Books,Fiction,UrbanNest,990.21,1486.39,Discontinued
+20379,StyleHub Product 20379,Beauty,Skincare,UrbanNest,159.49,257.49,Active
+20380,ReadMore Product 20380,Electronics,Audio,SmartBuy,16402.18,22852.42,Active
+20381,PureCare Product 20381,Electronics,Mobile Accessories,PureCare,13847.83,17903.13,Active
+20382,SmartBuy Product 20382,Sports,Sportswear,FitPro,1884.11,4155.65,Discontinued
+20383,HomeEase Product 20383,Sports,Outdoor,PureCare,2972.61,5391.06,Active
+20384,UrbanNest Product 20384,Home & Kitchen,Home Decor,StyleHub,7102.73,10011.2,Discontinued
+20385,PureCare Product 20385,Fashion,Footwear,PureCare,3756.39,5701.25,Active
+20386,PureCare Product 20386,Electronics,Mobile Accessories,SmartBuy,26895.37,42265.74,Discontinued
+20387,SmartBuy Product 20387,Beauty,Personal Care,StyleHub,1355.79,1771.61,Active
+20388,SmartBuy Product 20388,Fashion,Women,UrbanNest,3991.59,6441.58,Active
+20389,PureCare Product 20389,Home & Kitchen,Kitchen,UrbanNest,6080.88,9869.38,Discontinued
+20390,StyleHub Product 20390,Sports,Fitness,SmartBuy,182.52,332.93,Active
+20391,SmartBuy Product 20391,Electronics,Computing,PureCare,35646.78,46682.12,Active
+20392,NovaTech Product 20392,Books,Non-Fiction,ReadMore,134.81,191.62,Active
+20393,SmartBuy Product 20393,Fashion,Footwear,PureCare,465.21,731.81,Active
+20394,StyleHub Product 20394,Beauty,Haircare,UrbanNest,2108.03,3373.71,Active
+20395,HomeEase Product 20395,Fashion,Women,PureCare,4581.5,7760.31,Discontinued
+20396,FitPro Product 20396,Books,Education,PureCare,312.72,510.26,Active
+20397,SmartBuy Product 20397,Electronics,Audio,FitPro,13368.86,18631.57,Active
+20398,UrbanNest Product 20398,Beauty,Haircare,HomeEase,671.64,866.99,Active
+20399,SmartBuy Product 20399,Beauty,Personal Care,NovaTech,3601.63,4709.04,Discontinued
+20400,UrbanNest Product 20400,Books,Fiction,NovaTech,71.31,116.29,Active
+20401,FitPro Product 20401,Fashion,Footwear,UrbanNest,5073.91,7217.74,Active
+20402,SmartBuy Product 20402,Beauty,Personal Care,PureCare,409.65,600.2,Active
+20403,StyleHub Product 20403,Electronics,Audio,ReadMore,21762.67,39803.75,Active
+20404,FitPro Product 20404,Home & Kitchen,Home Decor,SmartBuy,3260.11,4487.71,Active
+20405,PureCare Product 20405,Sports,Fitness,SmartBuy,3025.83,5781.14,Active
+20406,FitPro Product 20406,Home & Kitchen,Appliances,HomeEase,3683.67,7289.27,Active
+20407,StyleHub Product 20407,Sports,Outdoor,ReadMore,2400.24,4980.23,Discontinued
+20408,ReadMore Product 20408,Sports,Sportswear,NovaTech,6792.86,8732.31,Discontinued
+20409,ReadMore Product 20409,Electronics,Mobile Accessories,PureCare,13575.45,19145.39,Discontinued
+20410,PureCare Product 20410,Sports,Sportswear,ReadMore,4873.2,6912.47,Active
+20411,HomeEase Product 20411,beauty,Skincare,StyleHub,1894.07,2909.78,Discontinued
+20412,SmartBuy Product 20412,Sports,Sportswear,SmartBuy,1275.32,2384.22,Active
+20413,StyleHub Product 20413,Fashion,Men,ReadMore,5852.03,9279.52,Active
+20414,PureCare Product 20414,Electronics,Mobile Accessories,UrbanNest,13033.4,23495.94,Active
+20415,SmartBuy Product 20415,Beauty,Skincare,SmartBuy,382.9,673.72,Discontinued
+20416,HomeEase Product 20416,Fashion,Footwear,StyleHub,2292.84,3392.33,Active
+20417,ReadMore Product 20417,Beauty,Personal Care,HomeEase,967.11,1491.85,Active
+20418,StyleHub Product 20418,Beauty,Haircare,PureCare,374.31,508.85,Active
+20419,StyleHub Product 20419,Fashion,Footwear,UrbanNest,1275.49,1805.99,Discontinued
+20420,ReadMore Product 20420,Sports,Fitness,UrbanNest,967.43,1928.37,Active
+20421,NovaTech Product 20421,Sports,Fitness,StyleHub,745.65,1641.45,Active
+20422,StyleHub Product 20422,Electronics,Mobile Accessories,SmartBuy,6097.54,8065.13,Active
+20423,SmartBuy Product 20423,Home & Kitchen,Kitchen,HomeEase,4468.99,6643.08,Discontinued
+20424,FitPro Product 20424,Electronics,Computing,HomeEase,5037.89,7776.67,Active
+20425,StyleHub Product 20425,Electronics,Computing,UrbanNest,2056.25,3185.03,Active
+20426,HomeEase Product 20426,Electronics,Audio,StyleHub,25303.52,38658.9,Active
+20427,NovaTech Product 20427,Electronics,Audio,FitPro,21354.62,32723.83,Discontinued
+20428,SmartBuy Product 20428,Sports,Outdoor,SmartBuy,1416.15,2806.33,Active
+20429,FitPro Product 20429,Electronics,Mobile Accessories,UrbanNest,19427.8,42412.14,Active
+20430,FitPro Product 20430,Books,Education,SmartBuy,642.71,1362.39,Discontinued
+20431,HomeEase Product 20431,Books,Education,UrbanNest,729.82,1270.72,Active
+20432,SmartBuy Product 20432,Fashion,Men,StyleHub,1352.39,2244.18,Active
+20433,ReadMore Product 20433,Electronics,Mobile Accessories,NovaTech,333.92,708.1,Active
+20434,UrbanNest Product 20434,Home & Kitchen,Home Decor,NovaTech,13923.88,18291.96,Active
+20435,SmartBuy Product 20435,Books,Education,NovaTech,1324.13,2183.91,Active
+20436,UrbanNest Product 20436,Fashion,Men,ReadMore,4655.51,8708.3,Discontinued
+20437,FitPro Product 20437,Books,Education,SmartBuy,309.68,563.65,Discontinued
+20438,StyleHub Product 20438,Sports,Fitness,HomeEase,2004.52,4256.48,Active
+20439,UrbanNest Product 20439,fashion,Footwear,HomeEase,2733.78,5492.87,Active
+20440,HomeEase Product 20440,Beauty,Personal Care,HomeEase,1510.52,3137.73,Active
+20441,StyleHub Product 20441,Books,Education,FitPro,1081.55,1528.97,Active
+20442,ReadMore Product 20442,Electronics,Computing,HomeEase,22164.41,32454.77,Active
+20443,SmartBuy Product 20443,Books,Fiction,ReadMore,1449.05,2078.69,Discontinued
+20444,SmartBuy Product 20444,Books,Non-Fiction,ReadMore,688.54,1307.88,Active
+20445,NovaTech Product 20445,Sports,Fitness,SmartBuy,5342.1,9349.76,Active
+20446,UrbanNest Product 20446,Home & Kitchen,Kitchen,UrbanNest,8626.95,18614.62,Active
+20447,UrbanNest Product 20447,Electronics,Audio,HomeEase,14892.66,31941.31,Active
+20448,UrbanNest Product 20448,Books,Non-Fiction,UrbanNest,361.34,738.76,Active
+20449,SmartBuy Product 20449,Home & Kitchen,Appliances,ReadMore,12006.87,17511.75,Active
+20450,FitPro Product 20450,Home & Kitchen,Home Decor,ReadMore,3242.53,5383.82,Active
+20451,ReadMore Product 20451,Sports,Fitness,ReadMore,1453.45,3154.06,Active
+20452,NovaTech Product 20452,Electronics,Audio,ReadMore,14644.55,28070.49,Active
+20453,FitPro Product 20453,Home & Kitchen,Appliances,FitPro,346.75,556.75,Active
+20454,StyleHub Product 20454,Books,Education,SmartBuy,244.91,403.05,Active
+20455,HomeEase Product 20455,Sports,Outdoor,PureCare,4867.82,6726.45,Discontinued
+20456,StyleHub Product 20456,Books,Non-Fiction,PureCare,1253.68,1671.78,Discontinued
+20457,ReadMore Product 20457,Sports,Fitness,HomeEase,5493.82,9530.63,Active
+20458,HomeEase Product 20458,Beauty,Haircare,NovaTech,3149.58,4129.1,Active
+20459,SmartBuy Product 20459,Sports,Outdoor,FitPro,986.03,2037.93,Active
+20460,SmartBuy Product 20460,Beauty,Personal Care,UrbanNest,208.83,378.39,Discontinued
+20461,SmartBuy Product 20461,Books,Fiction,HomeEase,1137.52,2450.28,Active
+20462,PureCare Product 20462,Sports,Sportswear,StyleHub,2170.4,4556.59,Discontinued
+20463,FitPro Product 20463,Electronics,Computing,NovaTech,15487.66,28233.92,Discontinued
+20464,HomeEase Product 20464,Books,Non-Fiction,ReadMore,206.56,304.99,Active
+20465,FitPro Product 20465,Sports,Fitness,ReadMore,1397.01,2380.45,Active
+20466,FitPro Product 20466,Beauty,Personal Care,SmartBuy,1832.8,3138.09,Active
+20467,NovaTech Product 20467,Beauty,Skincare,HomeEase,4043.68,5942.72,Active
+20468,ReadMore Product 20468,Fashion,Footwear,PureCare,2656.17,4074.32,Active
+20469,SmartBuy Product 20469,Sports,Fitness,PureCare,5293.13,7026.48,Active
+20470,FitPro Product 20470,Books,Education,StyleHub,73.51,130.16,Active
+20471,NovaTech Product 20471,Fashion,Women,ReadMore,6407.69,8433.4,Active
+20472,ReadMore Product 20472,Fashion,Women,StyleHub,2773.49,4284.73,Active
+20473,PureCare Product 20473,Beauty,Haircare,PureCare,2131.94,-4459.7,Active
+20474,HomeEase Product 20474,Home & Kitchen,Kitchen,StyleHub,6156.53,9064.76,Active
+20475,SmartBuy Product 20475,sports,Sportswear,FitPro,2815.98,4250.73,Active
+20476,SmartBuy Product 20476,Beauty,Haircare,StyleHub,3045.18,4559.24,Discontinued
+20477,NovaTech Product 20477,Home & Kitchen,Appliances,PureCare,1235.05,2345.51,Active
+20478,HomeEase Product 20478,Home & Kitchen,Home Decor,ReadMore,13970.18,18479.91,Active
+20479,NovaTech Product 20479,Fashion,Women,SmartBuy,3330.73,4666.86,Active
+20480,HomeEase Product 20480,Fashion,Footwear,PureCare,3372.5,6275.7,Active
+20481,UrbanNest Product 20481,Fashion,Men,PureCare,218.86,302.75,Discontinued
+20482,HomeEase Product 20482,Beauty,Haircare,StyleHub,2400.86,4407.21,Active
+20483,SmartBuy Product 20483,Sports,Outdoor,HomeEase,4499.1,8193.82,Discontinued
+20484,PureCare Product 20484,Beauty,Haircare,ReadMore,923.05,1502.45,Active
+20485,StyleHub Product 20485,Electronics,Mobile Accessories,StyleHub,13842.37,27076.64,Active
+20486,SmartBuy Product 20486,Electronics,Mobile Accessories,UrbanNest,20208.63,27695.08,Active
+20487,NovaTech Product 20487,Electronics,Mobile Accessories,FitPro,18751.11,25629.99,Active
+20488,PureCare Product 20488,Books,Fiction,NovaTech,1039.93,1491.81,Active
+20489,UrbanNest Product 20489,Books,Fiction,SmartBuy,1060.54,1492.03,Active
+20490,StyleHub Product 20490,Electronics,Mobile Accessories,ReadMore,1535.47,2631.08,Active
+20491,HomeEase Product 20491,Home & Kitchen,Kitchen,PureCare,3894.43,7289.58,Active
+20492,StyleHub Product 20492,Electronics,Computing,HomeEase,36922.74,47700.28,Active
+20493,FitPro Product 20493,Sports,Outdoor,FitPro,1030.39,1914.53,Active
+20494,SmartBuy Product 20494,Home & Kitchen,Appliances,ReadMore,7015.78,13391.33,Active
+20495,UrbanNest Product 20495,Electronics,Audio,HomeEase,24543.33,33897.18,Active
+20496,FitPro Product 20496,Sports,Fitness,NovaTech,7165.9,10176.94,Active
+20497,SmartBuy Product 20497,Fashion,Women,NovaTech,1921.17,2488.83,Active
+20498,StyleHub Product 20498,Beauty,Personal Care,UrbanNest,934.94,1606.38,Active
+20499,SmartBuy Product 20499,Books,Education,FitPro,727.02,1142.14,Active
+20500,HomeEase Product 20500,Sports,Fitness,HomeEase,1617.33,2905.31,Discontinued
+20501,HomeEase Product 20501,Electronics,Audio,HomeEase,31401.73,48873.53,Discontinued
+20502,NovaTech Product 20502,Fashion,Women,UrbanNest,1240.76,2652.95,Active
+20503,ReadMore Product 20503,Beauty,Personal Care,ReadMore,319.78,485.44,Active
+20504,SmartBuy Product 20504,Books,Fiction,UrbanNest,795.66,1395.55,Active
+20505,ReadMore Product 20505,Beauty,Skincare,ReadMore,2208.94,3542.23,Active
+20506,PureCare Product 20506,Sports,Sportswear,HomeEase,4089.28,5727.52,Discontinued
+20507,UrbanNest Product 20507,Books,Non-Fiction,PureCare,1697.07,2253.06,Active
+20508,NovaTech Product 20508,Books,Non-Fiction,HomeEase,440.32,707.48,Discontinued
+20509,ReadMore Product 20509,Beauty,Skincare,NovaTech,1941.84,2809.77,Active
+20510,ReadMore Product 20510,Beauty,Skincare,NovaTech,123.26,175.08,Active
+20511,StyleHub Product 20511,Electronics,Computing,StyleHub,11815.14,24132.34,Active
+20512,PureCare Product 20512,Beauty,Skincare,NovaTech,1798.39,3701.01,Active
+20513,UrbanNest Product 20513,Books,Fiction,PureCare,977.47,1257.61,Active
+20514,NovaTech Product 20514,Fashion,Men,PureCare,6944.85,9983.79,Active
+20515,ReadMore Product 20515,Home & Kitchen,Kitchen,NovaTech,10235.52,18014.08,Discontinued
+20516,HomeEase Product 20516,Home & Kitchen,Home Decor,SmartBuy,2121.78,3646.07,Active
+20517,NovaTech Product 20517,Books,Non-Fiction,StyleHub,872.35,1681.53,Active
+20518,FitPro Product 20518,Beauty,Skincare,SmartBuy,4619.73,5933.91,Active
+20519,SmartBuy Product 20519,Sports,Outdoor,FitPro,1900.32,2949.26,Active
+20520,NovaTech Product 20520,Home & Kitchen,Appliances,StyleHub,8681.81,17279.83,Discontinued
+20521,SmartBuy Product 20521,Fashion,Women,StyleHub,3150.54,5157.14,Active
+20522,FitPro Product 20522,Sports,Fitness,UrbanNest,3711.44,5222.55,Active
+20523,FitPro Product 20523,Books,Education,SmartBuy,1086.78,1509.22,Discontinued
+20524,HomeEase Product 20524,Fashion,Men,ReadMore,2022.32,3696.01,Active
+20525,UrbanNest Product 20525,Sports,Outdoor,UrbanNest,6296.93,10842.0,Active
+20526,FitPro Product 20526,Beauty,Haircare,ReadMore,1559.12,3307.55,Active
+20527,PureCare Product 20527,Home & Kitchen,Kitchen,FitPro,2229.59,4872.21,Active
+20528,SmartBuy Product 20528,Home & Kitchen,Kitchen,FitPro,7947.97,13105.84,Discontinued
+20529,UrbanNest Product 20529,Books,Fiction,PureCare,464.15,686.94,Active
+20530,HomeEase Product 20530,Fashion,Women,HomeEase,3267.64,5323.85,Active
+20531,PureCare Product 20531,Home & Kitchen,Appliances,FitPro,7992.52,11376.91,Discontinued
+20532,FitPro Product 20532, Beauty ,Skincare,StyleHub,3181.63,4677.63,Active
+20533,StyleHub Product 20533,Sports,Sportswear,NovaTech,405.31,539.13,Active
+20534,StyleHub Product 20534,Electronics,Audio,HomeEase,22561.99,35204.73,Active
+20535,NovaTech Product 20535,Home & Kitchen,Appliances,ReadMore,1768.98,3379.08,Active
+20536,StyleHub Product 20536,Electronics,Audio,StyleHub,29856.26,39821.17,Discontinued
+20537,HomeEase Product 20537,Fashion,Men,HomeEase,3424.14,5851.69,Active
+20538,SmartBuy Product 20538,Electronics,Mobile Accessories,NovaTech,32640.447,31086.14,Active
+20539,StyleHub Product 20539,Home & Kitchen,Kitchen,PureCare,3221.98,6462.59,Active
+20540,PureCare Product 20540,Electronics,Audio,UrbanNest,31475.84,45408.61,Active
+20541,PureCare Product 20541,Fashion,Men,NovaTech,341.18,753.79,Active
+20542,StyleHub Product 20542, Home & Kitchen ,Home Decor,ReadMore,10954.74,14313.75,Active
+20543,PureCare Product 20543,Electronics,Computing,FitPro,19822.29,42004.71,Active
+20544,FitPro Product 20544,Electronics,Mobile Accessories,HomeEase,6195.71,10128.14,Active
+20545,FitPro Product 20545,Sports,Sportswear,UrbanNest,5225.63,7133.5,Active
+20546,ReadMore Product 20546,Fashion,Men,SmartBuy,1136.47,2400.84,Discontinued
+20547,StyleHub Product 20547,Home & Kitchen,Appliances,FitPro,9154.95,17605.19,Discontinued
+20548,StyleHub Product 20548,Electronics,Mobile Accessories,UrbanNest,14154.93,24489.24,Active
+20549,UrbanNest Product 20549,Sports,Sportswear,FitPro,5666.37,7921.24,Active
+20550,PureCare Product 20550,Beauty,Haircare,NovaTech,1724.23,2625.92,Active
+20551,ReadMore Product 20551,Sports,Fitness,HomeEase,7077.46,9787.36,Active
+20552,FitPro Product 20552,Home & Kitchen,Kitchen,SmartBuy,1928.29,2940.43,Active
+20553,HomeEase Product 20553,Books,Fiction,FitPro,1137.41,2384.3,Active
+20554,UrbanNest Product 20554,Books,Fiction,HomeEase,174.41,292.78,Discontinued
+20555,HomeEase Product 20555,Books,Education,HomeEase,1547.68,2029.25,Active
+20556,ReadMore Product 20556,Electronics,Audio,UrbanNest,13778.11,23874.68,Active
+20557,PureCare Product 20557,Fashion,Footwear,SmartBuy,1577.14,2169.15,Active
+20558,UrbanNest Product 20558,Fashion,Women,PureCare,4926.45,6858.71,Discontinued
+20559,UrbanNest Product 20559,Beauty,Skincare,NovaTech,3459.74,5637.7,Discontinued
+20560,UrbanNest Product 20560,Sports,Fitness,ReadMore,5509.99,10145.43,Active
+20561,PureCare Product 20561,Sports,Sportswear,FitPro,3083.27,6494.3,Active
+20562,StyleHub Product 20562,Home & Kitchen,Home Decor,HomeEase,10493.45,15623.63,Active
+20563,ReadMore Product 20563,Electronics,Audio,ReadMore,33059.54,47666.53,Active
+20564,NovaTech Product 20564,Fashion,Men,StyleHub,2089.01,4422.16,Active
+20565,SmartBuy Product 20565,Fashion,Footwear,UrbanNest,1842.5,3563.43,Active
+20566,HomeEase Product 20566,Fashion,Women,FitPro,5546.92,7775.16,Discontinued
+20567,UrbanNest Product 20567,Beauty,Skincare,ReadMore,502.07,820.42,Discontinued
+20568,StyleHub Product 20568,Fashion,Men,SmartBuy,2887.98,3971.11,Active
+20569,ReadMore Product 20569,Sports,Outdoor,PureCare,3713.39,7117.42,Discontinued
+20570,ReadMore Product 20570,Beauty,Skincare,PureCare,4050.45,5726.25,Discontinued
+20571,FitPro Product 20571,Home & Kitchen,Kitchen,SmartBuy,2390.57,3104.9,Discontinued
+20572,SmartBuy Product 20572,Electronics,Computing,SmartBuy,13737.39,23633.25,Active
+20573,HomeEase Product 20573,Home & Kitchen,Kitchen,HomeEase,969.59,1400.78,Active
+20574,SmartBuy Product 20574,Books,Education,HomeEase,1064.85,2008.56,Active
+20575,PureCare Product 20575,Beauty,Personal Care,NovaTech,3834.78,5046.31,Discontinued
+20576,PureCare Product 20576,Electronics,Mobile Accessories,SmartBuy,11843.91,16833.2,Active
+20577,StyleHub Product 20577,Beauty,Haircare,NovaTech,4198.12,5601.59,Active
+20578,PureCare Product 20578,Sports,Outdoor,StyleHub,5942.28,8137.93,Active
+20579,FitPro Product 20579,Beauty,Skincare,SmartBuy,1045.72,2014.81,Active
+20580,HomeEase Product 20580,Sports,Outdoor,HomeEase,7396.16,10806.62,Active
+20581,StyleHub Product 20581,Books,Non-Fiction,NovaTech,1424.34,2085.0,Active
+20582,UrbanNest Product 20582,Electronics,Audio,HomeEase,23337.57,30968.39,Active
+20583,HomeEase Product 20583,Electronics,Computing,HomeEase,28285.27,38918.72,Discontinued
+20584,SmartBuy Product 20584,Sports,Sportswear,StyleHub,1955.87,3197.83,Active
+20585,NovaTech Product 20585,Fashion,Footwear,FitPro,1190.99,2126.44,Active
+20586,ReadMore Product 20586,Fashion,Men,FitPro,4129.92,7048.82,Active
+20587,FitPro Product 20587,Sports,Fitness,SmartBuy,618.47,939.51,Active
+20588,HomeEase Product 20588,Electronics,Computing,HomeEase,15034.08,22349.57,Active
+20589,FitPro Product 20589,Beauty,Skincare,HomeEase,3190.39,5706.43,Active
+20590,PureCare Product 20590,Home & Kitchen,Kitchen,PureCare,2072.26,3689.18,Active
+20591,StyleHub Product 20591,Sports,Fitness,NovaTech,1846.35,3694.42,Discontinued
+20592,FitPro Product 20592,Beauty,Haircare,PureCare,865.56,1548.74,Discontinued
+20593,StyleHub Product 20593,Sports,Sportswear,PureCare,5273.81,7217.05,Active
+20594,PureCare Product 20594,Beauty,Skincare,StyleHub,821.81,1385.61,Active
+20595,HomeEase Product 20595,Home & Kitchen,Home Decor,PureCare,5271.35,8507.82,Active
+20596,NovaTech Product 20596,Home & Kitchen,Home Decor,FitPro,9433.49,15898.32,Active
+20597,HomeEase Product 20597,Beauty,Haircare,UrbanNest,3650.89,4719.55,Active
+20598,ReadMore Product 20598,Beauty,Personal Care,FitPro,1072.69,2124.22,Active
+20599,UrbanNest Product 20599,Beauty,Skincare,PureCare,1119.2,1797.36,Discontinued
+20600,StyleHub Product 20600,Electronics,Audio,SmartBuy,19777.3,35318.01,Active
+20601,ReadMore Product 20601,Books,Education,HomeEase,456.92,800.53,Active
+20602,HomeEase Product 20602,Home & Kitchen,Home Decor,UrbanNest,8926.33,19093.55,Discontinued
+20603,ReadMore Product 20603,Electronics,Computing,PureCare,4048.45,6943.37,Active
+20604,StyleHub Product 20604,Books,Fiction,PureCare,1149.13,1926.17,Active
+20605,UrbanNest Product 20605,Beauty,Haircare,NovaTech,1419.63,2112.87,Active
+20606,HomeEase Product 20606,Home & Kitchen,Home Decor,FitPro,11671.44,16478.7,Discontinued
+20607,PureCare Product 20607,Sports,Sportswear,StyleHub,3621.03,5693.86,Discontinued
+20608,HomeEase Product 20608,Fashion,Men,SmartBuy,2905.54,3768.91,Discontinued
+20609,NovaTech Product 20609,Beauty,Skincare,NovaTech,549.64,975.35,Discontinued
+20610,SmartBuy Product 20610,Fashion,Men,NovaTech,540.69,822.21,Active
+20611,FitPro Product 20611,Beauty,Haircare,NovaTech,2418.83,3586.32,Discontinued
+20612,HomeEase Product 20612,Beauty,Personal Care,SmartBuy,3760.31,5541.32,Active
+20613,FitPro Product 20613,Electronics,Audio,FitPro,14398.27,23821.42,Active
+20614,SmartBuy Product 20614,Beauty,Personal Care,StyleHub,2922.57,3815.85,Active
+20615,FitPro Product 20615,Fashion,Women,StyleHub,4273.77,7481.93,Active
+20616,StyleHub Product 20616,Beauty,Haircare,HomeEase,398.61,544.52,Active
+20617,PureCare Product 20617,Home & Kitchen,Home Decor,NovaTech,11915.77,15800.97,Active
+20618,UrbanNest Product 20618,Sports,Sportswear,UrbanNest,7204.46,9551.24,Active
+20619,ReadMore Product 20619,Home & Kitchen,Home Decor,SmartBuy,6547.0,13518.11,Discontinued
+20620,HomeEase Product 20620,Beauty,Haircare,PureCare,1855.21,2498.79,Active
+20621,ReadMore Product 20621,Fashion,Footwear,PureCare,6733.27,9053.78,Active
+20622,ReadMore Product 20622,Fashion,Footwear,UrbanNest,4567.29,7285.31,Active
+20623,SmartBuy Product 20623,Fashion,Women,ReadMore,3684.27,5433.68,Active
+20624,ReadMore Product 20624,Beauty,Personal Care,ReadMore,3389.37,4499.65,Active
+20625,StyleHub Product 20625,Electronics,Computing,UrbanNest,25430.04,40297.11,Active
+20626,SmartBuy Product 20626,Electronics,Audio,FitPro,4551.2,7894.2,Discontinued
+20627,SmartBuy Product 20627,Sports,Sportswear,ReadMore,5888.52,11171.15,Active
+20628,ReadMore Product 20628,Books,Non-Fiction,HomeEase,106.57,143.12,Active
+20629,FitPro Product 20629,Home & Kitchen,Appliances,FitPro,6532.92,12309.73,Active
+20630,NovaTech Product 20630,Home & Kitchen,Kitchen,SmartBuy,1688.33,3573.02,Active
+20631,StyleHub Product 20631,Sports,Fitness,FitPro,4194.96,7852.1,Active
+20632,SmartBuy Product 20632,Sports,Fitness,SmartBuy,4212.58,5473.91,Discontinued
+20633,ReadMore Product 20633,Sports,Fitness,StyleHub,5930.53,9524.6,Active
+20634,NovaTech Product 20634,Sports,Fitness,NovaTech,227.7,418.25,Discontinued
+20635,UrbanNest Product 20635,Books,Fiction,StyleHub,1450.03,2428.71,Active
+20636,HomeEase Product 20636,Electronics,Computing,ReadMore,1090.24,1434.63,Active
+20637,StyleHub Product 20637,Beauty,Personal Care,PureCare,2260.01,4685.46,Active
+20638,SmartBuy Product 20638,Beauty,Haircare,ReadMore,3116.38,5516.55,Active
+20639,PureCare Product 20639,Fashion,Men,ReadMore,3874.15,6770.68,Active
+20640,SmartBuy Product 20640,Electronics,Computing,SmartBuy,1528.81,3128.85,Active
+20641,StyleHub Product 20641,Sports,Sportswear,NovaTech,3520.69,7191.41,Active
+20642,UrbanNest Product 20642,Books,Fiction,FitPro,1219.23,2229.65,Active
+20643,UrbanNest Product 20643,Fashion,Men,HomeEase,3308.23,5492.99,Discontinued
+20644,SmartBuy Product 20644,Beauty,Skincare,FitPro,622.72,1302.37,Discontinued
+20645,StyleHub Product 20645,Home & Kitchen,Kitchen,SmartBuy,6987.21,14790.77,Active
+20646,SmartBuy Product 20646,Books,Non-Fiction,ReadMore,1604.98,2142.72,Active
+20647,HomeEase Product 20647,Fashion,Men,HomeEase,3507.18,7252.0,Active
+20648,UrbanNest Product 20648,fashion,Footwear,UrbanNest,3917.4,5112.85,Discontinued
+20649,HomeEase Product 20649,Electronics,Audio,PureCare,24370.93,45235.12,Discontinued
+20650,HomeEase Product 20650,Fashion,Women,UrbanNest,3000.34,4406.38,Active
+20651,UrbanNest Product 20651,Books,Non-Fiction,StyleHub,667.05,966.75,Active
+20652,SmartBuy Product 20652,Fashion,Men,SmartBuy,4368.16,5767.2,Active
+20653,StyleHub Product 20653,Electronics,Audio,ReadMore,29657.01,41309.36,Discontinued
+20654,StyleHub Product 20654,Books,Fiction,PureCare,1213.94,1595.62,Active
+20655,StyleHub Product 20655,Beauty,Skincare,StyleHub,786.88,1059.49,Discontinued
+20656,UrbanNest Product 20656,Books,Non-Fiction,HomeEase,491.07,678.55,Active
+20657,HomeEase Product 20657,Home & Kitchen,Kitchen,NovaTech,9829.34,18751.91,Active
+20658,ReadMore Product 20658,Beauty,Personal Care,ReadMore,1081.09,1928.22,Active
+20659,FitPro Product 20659,Books,Non-Fiction,SmartBuy,1624.56,2151.14,Discontinued
+20660,FitPro Product 20660,Sports,Fitness,UrbanNest,1255.67,1736.34,Discontinued
+20661,UrbanNest Product 20661,Beauty,Skincare,FitPro,909.55,1206.21,Discontinued
+20662,PureCare Product 20662,Fashion,Men,ReadMore,5145.24,7351.92,Active
+20663,NovaTech Product 20663,Home & Kitchen,Home Decor,FitPro,13777.15,17780.57,Active
+20664,FitPro Product 20664,Fashion,Men,StyleHub,1883.62,2870.45,Active
+20665,StyleHub Product 20665,Beauty,Skincare,SmartBuy,2205.25,4124.05,Active
+20666,SmartBuy Product 20666,Books,Non-Fiction,PureCare,1012.89,1713.13,Active
+20667,FitPro Product 20667,Beauty,Personal Care,PureCare,969.73,2103.27,Active
+20668,ReadMore Product 20668,Books,Fiction,SmartBuy,1267.43,1946.02,Active
+20669,NovaTech Product 20669,fashion,Women,ReadMore,915.43,1608.25,Active
+20670,StyleHub Product 20670,Sports,Outdoor,NovaTech,2834.41,4748.47,Active
+20671,PureCare Product 20671,Electronics,Mobile Accessories,SmartBuy,9131.52,11871.61,Active
+20672,SmartBuy Product 20672,Beauty,Personal Care,PureCare,2180.0835,2076.27,Active
+20673,StyleHub Product 20673,Books,Fiction,UrbanNest,530.89,832.17,Active
+20674,SmartBuy Product 20674,Sports,Outdoor,HomeEase,4259.71,6729.52,Active
+20675,NovaTech Product 20675,Home & Kitchen,Appliances,StyleHub,7220.93,12763.12,Active
+20676,UrbanNest Product 20676,Sports,Fitness,HomeEase,4821.42,7495.55,Discontinued
+20677,UrbanNest Product 20677,Sports,Fitness,HomeEase,3965.74,8072.17,Discontinued
+20678,FitPro Product 20678,Books,Non-Fiction,FitPro,711.67,1546.21,Active
+20679,SmartBuy Product 20679,Sports,Outdoor,HomeEase,1695.4,2648.58,Active
+20680,NovaTech Product 20680,Electronics,Mobile Accessories,FitPro,3686.36,5979.38,Active
+20681,ReadMore Product 20681,Electronics,Mobile Accessories,StyleHub,2840.06,5586.25,Active
+20682,NovaTech Product 20682,Books,Fiction,FitPro,965.71,1415.86,Discontinued
+20683,HomeEase Product 20683,sports,Outdoor,SmartBuy,3107.86,4878.37,Active
+20684,StyleHub Product 20684,Books,Non-Fiction,FitPro,1420.43,2336.17,Discontinued
+20685,SmartBuy Product 20685,Books,Fiction,NovaTech,552.55,778.59,Active
+20686,ReadMore Product 20686,Sports,Fitness,StyleHub,4876.76,9715.85,Active
+20687,NovaTech Product 20687,Fashion,Women,ReadMore,4635.06,7542.83,Discontinued
+20688,StyleHub Product 20688,Books,Education,NovaTech,803.76,1757.22,Active
+20689,StyleHub Product 20689,Fashion,Men,PureCare,7092.38,9495.23,Discontinued
+20690,PureCare Product 20690,Electronics,Audio,StyleHub,29088.8,41954.06,Active
+20691,SmartBuy Product 20691,Home & Kitchen,Home Decor,SmartBuy,13081.98,19227.64,Active
+20692,HomeEase Product 20692,Fashion,Women,StyleHub,5314.42,6979.08,Active
+20693,NovaTech Product 20693,Fashion,Women,UrbanNest,2866.5,3792.34,Discontinued
+20694,FitPro Product 20694,Home & Kitchen,Kitchen,FitPro,964.4,1447.99,Discontinued
+20695,PureCare Product 20695,Fashion,Footwear,UrbanNest,2635.27,3755.6,Active
+20696,SmartBuy Product 20696,Sports,Sportswear,HomeEase,3929.45,7696.79,Active
+20697,SmartBuy Product 20697,Fashion,Men,PureCare,5363.51,7678.05,Active
+20698,HomeEase Product 20698,Electronics,Computing,FitPro,12711.33,18540.31,Discontinued
+20699,FitPro Product 20699,Fashion,Men,StyleHub,4554.64,6669.06,Active
+20700,SmartBuy Product 20700,Electronics,Audio,FitPro,12442.7,26722.67,Active
+20701,SmartBuy Product 20701,Home & Kitchen,Kitchen,PureCare,2106.61,3012.95,Active
+20702,NovaTech Product 20702,Home & Kitchen,Kitchen,ReadMore,4070.79,6026.09,Active
+20703,SmartBuy Product 20703,Sports,Outdoor,UrbanNest,4672.04,8832.84,Active
+20704,HomeEase Product 20704,Fashion,Women,UrbanNest,5808.47,7600.27,Active
+20705,NovaTech Product 20705,Electronics,Mobile Accessories,ReadMore,13131.49,19776.37,Discontinued
+20706,UrbanNest Product 20706,Sports,Outdoor,FitPro,4785.03,6848.26,Active
+20707,SmartBuy Product 20707,Sports,Fitness,PureCare,7101.81,10264.93,Active
+20708,FitPro Product 20708,Fashion,Footwear,SmartBuy,3936.96,8028.3,Active
+20709,NovaTech Product 20709,Sports,Fitness,StyleHub,6631.91,10470.74,Discontinued
+20710,StyleHub Product 20710,Beauty,Skincare,PureCare,2115.59,3585.59,Active
+20711,HomeEase Product 20711,Home & Kitchen,Appliances,SmartBuy,11333.37,18065.14,Active
+20712,SmartBuy Product 20712,Sports,Sportswear,UrbanNest,7550.91,11750.31,Active
+20713,FitPro Product 20713,Electronics,Audio,StyleHub,22793.5,34539.55,Active
+20714,HomeEase Product 20714,Fashion,Men,StyleHub,6041.37,8186.63,Active
+20715,ReadMore Product 20715,Books,Fiction,HomeEase,1469.77,2416.17,Active
+20716,UrbanNest Product 20716,Electronics,Mobile Accessories,NovaTech,1143.85,1771.11,Discontinued
+20717,NovaTech Product 20717,Home & Kitchen,Home Decor,UrbanNest,7578.29,14806.79,Active
+20718,PureCare Product 20718,Electronics,Computing,SmartBuy,3579.73,6744.54,Active
+20719,HomeEase Product 20719,Beauty,Skincare,StyleHub,716.39,918.78,Active
+20720,UrbanNest Product 20720,Beauty,Haircare,SmartBuy,370.98,798.47,Discontinued
+20721,HomeEase Product 20721,Sports,Fitness,PureCare,5443.77,9728.69,Discontinued
+20722,ReadMore Product 20722, Books ,Non-Fiction,ReadMore,1111.79,1660.08,Discontinued
+20723,UrbanNest Product 20723,Sports,Sportswear,UrbanNest,1079.41,2082.95,Active
+20724,ReadMore Product 20724,Fashion,Women,SmartBuy,503.28,-1052.57,Active
+20725,PureCare Product 20725,Home & Kitchen,Appliances,UrbanNest,2941.95,4429.09,Discontinued
+20726,ReadMore Product 20726,Electronics,Computing,NovaTech,8532.2,15559.72,Discontinued
+20727,PureCare Product 20727,Home & Kitchen,Kitchen,HomeEase,2451.78,3337.14,Active
+20728,NovaTech Product 20728,Fashion,Footwear,UrbanNest,4267.47,6608.27,Active
+20729,PureCare Product 20729,Fashion,Footwear,ReadMore,2624.0,4640.38,Active
+20730,SmartBuy Product 20730,Electronics,Audio,ReadMore,16205.3,33327.79,Active
+20731,SmartBuy Product 20731,Books,Fiction,SmartBuy,1208.29,1733.38,Active
+20732,SmartBuy Product 20732,Home & Kitchen,Kitchen,PureCare,11038.68,14665.6,Active
+20733,FitPro Product 20733,Electronics,Computing,UrbanNest,5031.29,8801.14,Active
+20734,NovaTech Product 20734,Books,Fiction,FitPro,627.49,943.54,Active
+20735,SmartBuy Product 20735,Books,Non-Fiction,StyleHub,203.78,269.63,Active
+20736,StyleHub Product 20736,Home & Kitchen,Appliances,UrbanNest,9810.39,14376.61,Active
+20737,SmartBuy Product 20737,Sports,Sportswear,SmartBuy,2500.37,4209.87,Active
+20738,NovaTech Product 20738,Books,Non-Fiction,NovaTech,693.92,1125.95,Active
+20739,FitPro Product 20739,Sports,Outdoor,ReadMore,4675.03,6794.92,Active
+20740,NovaTech Product 20740,Fashion,Women,StyleHub,525.26,1059.15,Active
+20741,SmartBuy Product 20741,Books,Education,SmartBuy,997.97,1416.72,Discontinued
+20742,HomeEase Product 20742,Home & Kitchen,Kitchen,SmartBuy,7408.53,12918.24,Discontinued
+20743,ReadMore Product 20743,Beauty,Personal Care,PureCare,1738.63,2663.3,Discontinued
+20744,SmartBuy Product 20744,Electronics,Mobile Accessories,HomeEase,27943.48,37519.24,Discontinued
+20745,ReadMore Product 20745,Electronics,Computing,PureCare,16934.3,23528.72,Active
+20746,PureCare Product 20746,Home & Kitchen,Kitchen,UrbanNest,1453.03,2691.46,Active
+20747,StyleHub Product 20747,Beauty,Personal Care,ReadMore,1122.69,2195.6,Active
+20748,SmartBuy Product 20748,Electronics,Mobile Accessories,HomeEase,17333.54,29314.79,Active
+20749,SmartBuy Product 20749,Books,Education,SmartBuy,1600.87,2411.09,Active
+20750,ReadMore Product 20750,Fashion,Footwear,HomeEase,907.2,1906.12,Active
+20751,NovaTech Product 20751,Fashion,Footwear,SmartBuy,811.1,1044.08,Active
+20752,HomeEase Product 20752,Electronics,Audio,PureCare,19910.17,26339.33,Active
+20753,FitPro Product 20753,Beauty,Skincare,StyleHub,419.27,849.9,Discontinued
+20754,PureCare Product 20754,Books,Non-Fiction,ReadMore,1011.85,2183.17,Active
+20755,ReadMore Product 20755,Electronics,Mobile Accessories,StyleHub,1658.55,2306.4,Active
+20756,NovaTech Product 20756,Electronics,Mobile Accessories,UrbanNest,6552.67,13996.71,Discontinued
+20757,FitPro Product 20757,Sports,Fitness,UrbanNest,4240.54,8932.03,Active
+20758,PureCare Product 20758,Beauty,Skincare,UrbanNest,1782.5,2777.57,Discontinued
+20759,SmartBuy Product 20759,Home & Kitchen,Kitchen,PureCare,4802.39,9674.0,Active
+20760,FitPro Product 20760,Books,Education,PureCare,1660.26,2492.45,Active
+20761,UrbanNest Product 20761,Fashion,Men,ReadMore,2756.44,4420.84,Discontinued
+20762,ReadMore Product 20762,Beauty,Haircare,StyleHub,3008.28,5131.99,Discontinued
+20763,PureCare Product 20763,Books,Education,SmartBuy,867.48,1662.35,Discontinued
+20764,FitPro Product 20764,Electronics,Mobile Accessories,PureCare,22359.63,47464.92,Discontinued
+20765,PureCare Product 20765,Fashion,Men,StyleHub,1638.19,2227.26,Active
+20766,StyleHub Product 20766,Fashion,Men,PureCare,3911.55,5836.71,Active
+20767,PureCare Product 20767,Sports,Sportswear,UrbanNest,1376.51,2280.15,Active
+20768,HomeEase Product 20768,Fashion,Men,PureCare,1525.99,2190.15,Active
+20769,FitPro Product 20769,Beauty,Personal Care,SmartBuy,1054.89,1601.57,Active
+20770,StyleHub Product 20770,Fashion,Women,StyleHub,5485.15,9839.32,Discontinued
+20771,HomeEase Product 20771,Books,Education,HomeEase,1672.06,2392.53,Active
+20772,StyleHub Product 20772,Sports,Fitness,SmartBuy,7108.43,10737.21,Discontinued
+20773,HomeEase Product 20773,Electronics,Audio,SmartBuy,9227.85,20335.53,Active
+20774,SmartBuy Product 20774,Sports,Outdoor,StyleHub,4650.66,9889.3,Active
+20775,FitPro Product 20775,Books,Fiction,UrbanNest,84.26,122.57,Active
+20776,FitPro Product 20776,Sports,Fitness,SmartBuy,5281.81,7181.47,Active
+20777,ReadMore Product 20777,Beauty,Haircare,FitPro,1703.58,2532.17,Active
+20778,PureCare Product 20778,Books,Education,PureCare,1787.36,2383.83,Active
+20779,PureCare Product 20779,Electronics,Audio,PureCare,10971.45,15345.57,Discontinued
+20780,NovaTech Product 20780,Beauty,Haircare,NovaTech,3539.37,5355.43,Discontinued
+20781,StyleHub Product 20781, Books ,Education,ReadMore,1187.65,2448.38,Active
+20782,HomeEase Product 20782,Sports,Outdoor,UrbanNest,5727.39,11677.47,Discontinued
+20783,PureCare Product 20783,Home & Kitchen,Kitchen,StyleHub,9422.61,19156.93,Active
+20784,UrbanNest Product 20784,Sports,Fitness,SmartBuy,5287.4,9500.4,Active
+20785,NovaTech Product 20785,Books,Non-Fiction,SmartBuy,406.73,625.91,Active
+20786,UrbanNest Product 20786,Beauty,Haircare,PureCare,2139.59,3563.04,Active
+20787,UrbanNest Product 20787,Home & Kitchen,Appliances,NovaTech,8314.21,11415.04,Active
+20788,HomeEase Product 20788,Sports,Fitness,StyleHub,7208.03,10967.99,Discontinued
+20789,StyleHub Product 20789,Beauty,Haircare,HomeEase,1185.26,1705.4,Active
+20790,SmartBuy Product 20790,Home & Kitchen,Kitchen,HomeEase,512.78,993.63,Discontinued
+20791,UrbanNest Product 20791,Beauty,Skincare,ReadMore,1974.85,3436.62,Active
+20792,PureCare Product 20792,Home & Kitchen,Home Decor,PureCare,4948.19,6417.62,Discontinued
+20793,StyleHub Product 20793,Books,Non-Fiction,FitPro,1336.18,1825.94,Active
+20794,StyleHub Product 20794,Beauty,Personal Care,FitPro,433.64,831.45,Discontinued
+20795,HomeEase Product 20795,Beauty,Personal Care,StyleHub,2662.98,3756.65,Active
+20796,StyleHub Product 20796,Electronics,Computing,FitPro,21285.84,36893.99,Discontinued
+20797,StyleHub Product 20797, Beauty ,Skincare,HomeEase,1139.02,1545.85,Active
+20798,ReadMore Product 20798,Beauty,Personal Care,PureCare,454.19,586.02,Active
+20799,SmartBuy Product 20799,Books,Education,StyleHub,584.62,1189.32,Discontinued
+20800,UrbanNest Product 20800,Books,Fiction,SmartBuy,1148.5,2290.09,Active
+20801,NovaTech Product 20801,Sports,Outdoor,UrbanNest,5104.46,10785.34,Active
+20802,NovaTech Product 20802,Beauty,Skincare,FitPro,779.47,1304.32,Active
+20803,SmartBuy Product 20803,Fashion,Footwear,SmartBuy,1204.31,1972.3,Active
+20804,SmartBuy Product 20804,Home & Kitchen,Appliances,SmartBuy,5416.7,7856.3,Active
+20805,FitPro Product 20805,Sports,Outdoor,StyleHub,1819.31,2903.87,Active
+20806,ReadMore Product 20806,Books,Non-Fiction,NovaTech,854.74,1672.15,Active
+20807,SmartBuy Product 20807,Electronics,Audio,SmartBuy,15246.13,33014.73,Active
+20808,FitPro Product 20808,Home & Kitchen,Appliances,UrbanNest,1469.53,2771.85,Discontinued
+20809,StyleHub Product 20809,Beauty,Skincare,PureCare,1531.89,3340.94,Active
+20810,PureCare Product 20810,Home & Kitchen,Kitchen,HomeEase,4173.35,6966.49,Active
+20811,ReadMore Product 20811,Home & Kitchen,Appliances,SmartBuy,2996.28,4941.45,Active
+20812,SmartBuy Product 20812,Sports,Outdoor,HomeEase,1603.91,2538.33,Discontinued
+20813,ReadMore Product 20813,Sports,Sportswear,UrbanNest,2679.43,4564.84,Discontinued
+20814,NovaTech Product 20814,Fashion,Men,HomeEase,882.79,1630.29,Active
+20815,ReadMore Product 20815,Beauty,Skincare,ReadMore,927.75,1829.05,Active
+20816,HomeEase Product 20816,Electronics,Computing,FitPro,23907.78,31695.67,Active
+20817,FitPro Product 20817,Electronics,Computing,SmartBuy,3768.77,5784.04,Active
+20818,NovaTech Product 20818,Electronics,Mobile Accessories,FitPro,10394.25,21731.58,Active
+20819,SmartBuy Product 20819,Beauty,Skincare,StyleHub,3670.05,5595.33,Active
+20820,FitPro Product 20820,Electronics,Mobile Accessories,PureCare,21036.7,27922.69,Active
+20821,HomeEase Product 20821,Books,Education,HomeEase,1079.03,1759.97,Active
+20822,PureCare Product 20822,Books,Non-Fiction,SmartBuy,1163.02,1648.31,Discontinued
+20823,StyleHub Product 20823,Home & Kitchen,Appliances,StyleHub,7264.69,11466.03,Active
+20824,ReadMore Product 20824,Sports,Outdoor,ReadMore,4145.21,5571.13,Discontinued
+20825,StyleHub Product 20825,Fashion,Footwear,ReadMore,3718.96,5453.3,Active
+20826,NovaTech Product 20826,Fashion,Footwear,NovaTech,3460.47,6393.02,Discontinued
+20827,HomeEase Product 20827,Fashion,Women,PureCare,2440.49,4773.86,Active
+20828,NovaTech Product 20828,Beauty,Skincare,SmartBuy,957.88,1367.65,Active
+20829,HomeEase Product 20829,Books,Fiction,SmartBuy,477.87,649.8,Active
+20830,PureCare Product 20830,sports,Fitness,SmartBuy,1550.13,2631.51,Active
+20831,NovaTech Product 20831,Books,Non-Fiction,NovaTech,970.3,1851.09,Active
+20832,StyleHub Product 20832,Books,Non-Fiction,PureCare,782.79,1299.64,Discontinued
+20833,SmartBuy Product 20833,Home & Kitchen,Kitchen,ReadMore,1512.48,2187.11,Active
+20834,UrbanNest Product 20834,Fashion,Footwear,UrbanNest,3368.9,4397.04,Discontinued
+20835,ReadMore Product 20835,Fashion,Women,HomeEase,1396.82,2099.89,Discontinued
+20836,StyleHub Product 20836,Books,Education,FitPro,1323.39,2243.21,Active
+20837,SmartBuy Product 20837,Home & Kitchen,Kitchen,SmartBuy,5179.43,8649.37,Active
+20838,NovaTech Product 20838,Home & Kitchen,Appliances,NovaTech,2379.88,4283.25,Active
+20839,StyleHub Product 20839,Fashion,Men,ReadMore,1127.04,1465.5,Active
+20840,SmartBuy Product 20840,Home & Kitchen,Appliances,FitPro,9142.08,13337.64,Active
+20841,SmartBuy Product 20841,Home & Kitchen,Home Decor,StyleHub,11991.91,16329.54,Active
+20842,SmartBuy Product 20842,Fashion,Men,StyleHub,1051.68,1852.91,Active
+20843,NovaTech Product 20843,Sports,Outdoor,FitPro,6431.2,10602.1,Active
+20844,FitPro Product 20844,Sports,Sportswear,NovaTech,3355.03,6058.78,Active
+20845,ReadMore Product 20845,Fashion,Women,StyleHub,2891.49,5096.95,Active
+20846,PureCare Product 20846,Sports,Sportswear,UrbanNest,6310.77,9153.24,Discontinued
+20847,StyleHub Product 20847,Books,Education,NovaTech,1105.28,1470.0,Discontinued
+20848,ReadMore Product 20848,Home & Kitchen,Kitchen,UrbanNest,9185.06,12576.22,Active
+20849,HomeEase Product 20849,Beauty,Skincare,SmartBuy,3080.06,-4727.03,Discontinued
+20850,NovaTech Product 20850,Sports,Outdoor,UrbanNest,1153.4,2165.64,Discontinued
+20851,UrbanNest Product 20851,Electronics,Audio,SmartBuy,453.25,607.11,Active
+20852,HomeEase Product 20852,Fashion,Footwear,UrbanNest,2894.34,5883.9,Active
+20853,PureCare Product 20853,Books,Non-Fiction,PureCare,903.52,1895.27,Active
+20854,ReadMore Product 20854,Sports,Outdoor,PureCare,4598.99,8255.96,Active
+20855,SmartBuy Product 20855,Sports,Outdoor,HomeEase,2011.84,4029.67,Active
+20856,SmartBuy Product 20856,Sports,Fitness,SmartBuy,1252.94,2094.71,Active
+20857,SmartBuy Product 20857,Books,Non-Fiction,ReadMore,78.32,131.92,Active
+20858,FitPro Product 20858,Home & Kitchen,Kitchen,PureCare,9846.93,17689.78,Discontinued
+20859,ReadMore Product 20859,Fashion,Footwear,ReadMore,1286.15,2321.67,Discontinued
+20860,SmartBuy Product 20860,Books,Education,FitPro,653.54,854.72,Active
+20861,SmartBuy Product 20861,Books,Fiction,StyleHub,538.3,1142.67,Active
+20862,UrbanNest Product 20862,Home & Kitchen,Kitchen,PureCare,5768.14,8624.58,Active
+20863,UrbanNest Product 20863,Fashion,Men,UrbanNest,1671.81,2689.73,Discontinued
+20864,PureCare Product 20864,Beauty,Haircare,HomeEase,2664.33,4374.14,Active
+20865,FitPro Product 20865,Beauty,Skincare,FitPro,1982.39,2838.33,Discontinued
+20866,PureCare Product 20866,Sports,Outdoor,SmartBuy,4906.89,10432.63,Active
+20867,SmartBuy Product 20867,Home & Kitchen,Appliances,SmartBuy,8763.846000000001,8346.52,Discontinued
+20868,ReadMore Product 20868,Fashion,Men,PureCare,5826.52,9743.06,Active
+20869,NovaTech Product 20869,Sports,Sportswear,SmartBuy,5804.68,10976.39,Active
+20870,SmartBuy Product 20870,Fashion,Men,FitPro,2601.56,3892.83,Active
+20871,HomeEase Product 20871,Fashion,Footwear,ReadMore,2123.93,2794.49,Active
+20872,NovaTech Product 20872,Books,Fiction,PureCare,928.59,1384.28,Active
+20873,UrbanNest Product 20873,Books,Education,UrbanNest,1082.57,1577.85,Active
+20874,PureCare Product 20874,Fashion,Footwear,StyleHub,1616.67,3415.21,Discontinued
+20875,NovaTech Product 20875,Home & Kitchen,Kitchen,ReadMore,3112.1,6693.73,Active
+20876,PureCare Product 20876,Electronics,Mobile Accessories,StyleHub,11108.88,14997.99,Discontinued
+20877,NovaTech Product 20877,Sports,Fitness,SmartBuy,5663.48,8611.25,Active
+20878,NovaTech Product 20878,Electronics,Computing,ReadMore,30874.03,40632.08,Active
+20879,FitPro Product 20879,Home & Kitchen,Home Decor,PureCare,10969.83,17836.58,Active
+20880,StyleHub Product 20880,Beauty,Skincare,ReadMore,1290.45,2337.23,Discontinued
+20881,UrbanNest Product 20881,Beauty,Haircare,HomeEase,968.94,1826.35,Active
+20882,ReadMore Product 20882,Electronics,Audio,StyleHub,7656.02,13810.42,Discontinued
+20883,ReadMore Product 20883,Electronics,Computing,NovaTech,26940.69,46806.23,Active
+20884,FitPro Product 20884,Home & Kitchen,Kitchen,StyleHub,2327.98,4761.51,Active
+20885,UrbanNest Product 20885,Home & Kitchen,Kitchen,FitPro,507.62,807.16,Discontinued
+20886,HomeEase Product 20886,Sports,Sportswear,NovaTech,245.99,377.58,Discontinued
+20887,SmartBuy Product 20887,Beauty,Skincare,FitPro,1018.75,2218.26,Active
+20888,SmartBuy Product 20888,Fashion,Footwear,UrbanNest,1476.71,2597.57,Active
+20889,PureCare Product 20889,Fashion,Footwear,HomeEase,480.59,841.19,Discontinued
+20890,FitPro Product 20890,Beauty,Skincare,HomeEase,3296.61,4859.47,Active
+20891,SmartBuy Product 20891,Home & Kitchen,Kitchen,FitPro,14305.1,19423.85,Discontinued
+20892,FitPro Product 20892,Beauty,Haircare,NovaTech,3311.15,5300.98,Active
+20893,StyleHub Product 20893,Fashion,Women,StyleHub,3064.84,6136.98,Discontinued
+20894,NovaTech Product 20894,Sports,Sportswear,HomeEase,3965.54,6111.53,Active
+20895,UrbanNest Product 20895,Books,Fiction,UrbanNest,251.87,530.44,Active
+20896,HomeEase Product 20896,Beauty,Haircare,PureCare,1580.21,2612.32,Active
+20897,SmartBuy Product 20897,Beauty,Skincare,StyleHub,991.63,1413.61,Active
+20898,ReadMore Product 20898,Fashion,Women,UrbanNest,1664.48,2395.06,Discontinued
+20899,SmartBuy Product 20899,Fashion,Men,StyleHub,4343.05,9039.57,Active
+20900,ReadMore Product 20900,Home & Kitchen,Kitchen,StyleHub,7350.78,15323.73,Active
+20901,StyleHub Product 20901,Beauty,Haircare,HomeEase,407.01,543.95,Active
+20902,SmartBuy Product 20902,Electronics,Mobile Accessories,NovaTech,4327.31,8605.81,Discontinued
+20903,FitPro Product 20903,Fashion,Women,FitPro,4448.84,6274.07,Active
+20904,NovaTech Product 20904,Books,Non-Fiction,PureCare,294.48,595.53,Discontinued
+20905,FitPro Product 20905,Fashion,Men,NovaTech,816.51,1372.27,Active
+20906,PureCare Product 20906,Books,Non-Fiction,HomeEase,379.01,806.61,Active
+20907,SmartBuy Product 20907,Books,Fiction,SmartBuy,1080.38,1686.93,Active
+20908,HomeEase Product 20908,Sports,Fitness,PureCare,1901.78,3797.8,Active
+20909,HomeEase Product 20909,Home & Kitchen,Appliances,SmartBuy,3245.44,5966.39,Discontinued
+20910,SmartBuy Product 20910,Electronics,Mobile Accessories,PureCare,6585.3,10433.13,Active
+20911,PureCare Product 20911,Electronics,Mobile Accessories,NovaTech,1374.15,1807.0,Discontinued
+20912,StyleHub Product 20912,Sports,Outdoor,FitPro,4430.06,8376.7,Active
+20913,FitPro Product 20913,Home & Kitchen,Home Decor,HomeEase,7364.23,9556.89,Active
+20914,HomeEase Product 20914,Sports,Fitness,FitPro,2302.41,3122.29,Active
+20915,PureCare Product 20915,Beauty,Personal Care,HomeEase,1640.85,2689.13,Discontinued
+20916,HomeEase Product 20916,Electronics,Computing,ReadMore,17739.73,23440.98,Active
+20917,SmartBuy Product 20917,Electronics,Mobile Accessories,NovaTech,15614.12,-21201.15,Active
+20918,PureCare Product 20918,Books,Education,PureCare,644.64,876.92,Active
+20919,NovaTech Product 20919,Home & Kitchen,Kitchen,UrbanNest,2803.77,-4184.41,Discontinued
+20920,StyleHub Product 20920,Home & Kitchen,Appliances,UrbanNest,4978.24,10342.54,Discontinued
+20921,NovaTech Product 20921,Books,Education,FitPro,441.81,575.02,Active
+20922,ReadMore Product 20922,Books,Non-Fiction,ReadMore,946.48,1669.66,Active
+20923,NovaTech Product 20923,Beauty,Haircare,PureCare,2106.23,4676.5,Active
+20924,NovaTech Product 20924,Fashion,Women,UrbanNest,7174.33,9777.34,Active
+20925,UrbanNest Product 20925,Fashion,Women,FitPro,744.69,1523.17,Active
+20926,ReadMore Product 20926,Fashion,Men,PureCare,4871.17,7581.62,Discontinued
+20927,SmartBuy Product 20927,Electronics,Mobile Accessories,StyleHub,25347.32,36298.37,Active
+20928,NovaTech Product 20928,Electronics,Mobile Accessories,PureCare,25266.61,38038.24,Discontinued
+20929,SmartBuy Product 20929,Home & Kitchen,Kitchen,PureCare,231.95,471.73,Discontinued
+20930,SmartBuy Product 20930,Home & Kitchen,Home Decor,UrbanNest,3969.87,8778.47,Discontinued
+20931,SmartBuy Product 20931,Fashion,Men,FitPro,4692.45,6642.06,Discontinued
+20932,ReadMore Product 20932,Books,Fiction,UrbanNest,584.14,754.54,Active
+20933,PureCare Product 20933,Beauty,Skincare,SmartBuy,2738.69,4096.38,Active
+20934,PureCare Product 20934,Electronics,Computing,ReadMore,13032.41,25521.24,Active
+20935,FitPro Product 20935,Beauty,Skincare,FitPro,506.6,953.99,Active
+20936,NovaTech Product 20936,Beauty,Personal Care,StyleHub,304.03,473.18,Active
+20937,StyleHub Product 20937,Books,Fiction,PureCare,188.54,283.7,Active
+20938,NovaTech Product 20938,Home & Kitchen,Home Decor,HomeEase,10444.14,13867.53,Active
+20939,FitPro Product 20939,Sports,Fitness,StyleHub,732.95,1522.38,Active
+20940,PureCare Product 20940,Beauty,Personal Care,PureCare,1508.7,2187.25,Discontinued
+20941,HomeEase Product 20941,Sports,Outdoor,SmartBuy,2312.79,3678.92,Active
+20942,PureCare Product 20942,Sports,Outdoor,PureCare,3096.57,6029.04,Active
+20943,UrbanNest Product 20943,Books,Fiction,NovaTech,550.54,944.58,Active
+20944,FitPro Product 20944,Electronics,Audio,PureCare,26388.65,37343.89,Discontinued
+20945,FitPro Product 20945,Books,Non-Fiction,ReadMore,630.82,1170.34,Active
+20946,UrbanNest Product 20946,Beauty,Personal Care,SmartBuy,2308.27,4455.69,Active
+20947,SmartBuy Product 20947,Home & Kitchen,Appliances,NovaTech,9789.21,14422.14,Discontinued
+20948,ReadMore Product 20948,Beauty,Personal Care,SmartBuy,2050.72,3558.32,Discontinued
+20949,HomeEase Product 20949,Books,Fiction,PureCare,603.72,857.44,Discontinued
+20950,FitPro Product 20950,Sports,Sportswear,ReadMore,1105.48,1488.61,Active
+20951,HomeEase Product 20951,Home & Kitchen,Kitchen,ReadMore,6847.36,8886.82,Discontinued
+20952,PureCare Product 20952,Fashion,Women,NovaTech,3059.18,4518.39,Discontinued
+20953,ReadMore Product 20953,Home & Kitchen,Kitchen,UrbanNest,12677.99,17116.04,Discontinued
+20954,SmartBuy Product 20954,Sports,Fitness,UrbanNest,4388.72,6240.97,Active
+20955,PureCare Product 20955,Home & Kitchen,Appliances,HomeEase,407.54,800.0,Active
+20956,ReadMore Product 20956,Books,Non-Fiction,FitPro,1201.51,1568.68,Active
+20957,PureCare Product 20957,Beauty,Haircare,StyleHub,2154.93,4222.58,Active
+20958,PureCare Product 20958,Sports,Outdoor,FitPro,1777.45,3155.4,Discontinued
+20959,ReadMore Product 20959,Home & Kitchen,Appliances,NovaTech,2745.3,5421.86,Active
+20960,StyleHub Product 20960,Home & Kitchen,Appliances,ReadMore,11507.65,19606.93,Active
+20961,UrbanNest Product 20961,Beauty,Skincare,FitPro,2233.46,4035.43,Active
+20962,NovaTech Product 20962,Beauty,Personal Care,UrbanNest,2578.43,4422.83,Active
+20963,PureCare Product 20963,Books,Non-Fiction,StyleHub,756.28,1282.94,Discontinued
+20964,ReadMore Product 20964,Home & Kitchen,Home Decor,ReadMore,4465.55,6671.13,Active
+20965,NovaTech Product 20965,Books,Education,StyleHub,81.74,175.98,Active
+20966,NovaTech Product 20966,Electronics,Audio,PureCare,33155.77,44748.92,Active
+20967,HomeEase Product 20967,Beauty,Personal Care,StyleHub,2474.09,4998.85,Active
+20968,HomeEase Product 20968,Fashion,Footwear,FitPro,3994.91,6511.91,Discontinued
+20969,NovaTech Product 20969,Electronics,Computing,UrbanNest,4785.55,8853.15,Active
+20970,PureCare Product 20970,Home & Kitchen,Home Decor,HomeEase,7680.07,15666.75,Active
+20971,NovaTech Product 20971,Fashion,Women,NovaTech,1743.93,2356.44,Active
+20972,NovaTech Product 20972,Home & Kitchen,Appliances,PureCare,698.88,1073.64,Active
+20973,FitPro Product 20973,Sports,Outdoor,SmartBuy,5244.76,6915.84,Active
+20974,ReadMore Product 20974,Fashion,Women,SmartBuy,964.69,1767.52,Active
+20975,FitPro Product 20975,Beauty,Skincare,NovaTech,3346.65,4956.86,Active
+20976,FitPro Product 20976,Sports,Sportswear,FitPro,3226.66,6027.05,Discontinued
+20977,ReadMore Product 20977, Sports ,Fitness,UrbanNest,2157.85,3505.2,Active
+20978,StyleHub Product 20978,Beauty,Personal Care,SmartBuy,1966.44,3768.12,Active
+20979,ReadMore Product 20979, Electronics ,Computing,StyleHub,22179.85,46003.76,Active
+20980,UrbanNest Product 20980,Electronics,Audio,NovaTech,32724.98,48106.8,Discontinued
+20981,HomeEase Product 20981,Electronics,Audio,NovaTech,18971.67,39568.19,Active
+20982,ReadMore Product 20982,Books,Fiction,ReadMore,1056.28,2147.62,Discontinued
+20983,FitPro Product 20983,Books,Non-Fiction,SmartBuy,841.5,1213.01,Active
+20984,FitPro Product 20984,Sports,Outdoor,NovaTech,166.67,320.5,Active
+20985,FitPro Product 20985,Home & Kitchen,Appliances,SmartBuy,6041.18,11207.41,Active
+20986,ReadMore Product 20986,Home & Kitchen,Home Decor,PureCare,4210.64,5600.86,Discontinued
+20987,StyleHub Product 20987,Books,Non-Fiction,ReadMore,339.63,464.28,Active
+20988,StyleHub Product 20988,Home & Kitchen,Appliances,SmartBuy,5361.28,7377.9,Discontinued
+20989,NovaTech Product 20989,Books,Fiction,HomeEase,142.84,280.85,Active
+20990,UrbanNest Product 20990,Sports,Sportswear,ReadMore,7571.96,9778.25,Discontinued
+20991,PureCare Product 20991,Electronics,Mobile Accessories,StyleHub,15554.97,31405.96,Active
+20992,PureCare Product 20992,Home & Kitchen,Home Decor,StyleHub,2647.72,4598.21,Active
+20993,HomeEase Product 20993,Fashion,Footwear,FitPro,801.98,1260.25,Active
+20994,ReadMore Product 20994,Sports,Fitness,UrbanNest,2753.1,6017.93,Active
+20995,StyleHub Product 20995,Home & Kitchen,Kitchen,NovaTech,10103.26,19391.1,Discontinued
+20996,FitPro Product 20996,Fashion,Footwear,PureCare,1456.84,3074.09,Active
+20997,SmartBuy Product 20997,Fashion,Women,ReadMore,2748.02,4483.38,Active
+20998,UrbanNest Product 20998,Home & Kitchen,Home Decor,HomeEase,4209.43,7660.89,Active
+20999,StyleHub Product 20999,Fashion,Women,UrbanNest,3387.16,4681.07,Active
+21000,SmartBuy Product 21000,Electronics,Mobile Accessories,NovaTech,9461.59,13917.13,Active
+21001,ReadMore Product 21001,Sports,Fitness,ReadMore,5462.4,7207.24,Active
+21002,NovaTech Product 21002,Fashion,Men,StyleHub,3396.45,5923.5,Active
+21003,PureCare Product 21003,Home & Kitchen,Kitchen,UrbanNest,6162.46,8401.13,Active
+21004,NovaTech Product 21004,Electronics,Audio,HomeEase,29089.95,45087.72,Active
+21005,UrbanNest Product 21005,Home & Kitchen,Home Decor,ReadMore,11503.82,19686.78,Discontinued
+21006,FitPro Product 21006,Beauty,Haircare,ReadMore,3983.94,5449.83,Discontinued
+21007,StyleHub Product 21007,Home & Kitchen,Home Decor,HomeEase,14134.46,19436.77,Active
+21008,ReadMore Product 21008,Beauty,Personal Care,PureCare,2618.57,3434.22,Discontinued
+21009,PureCare Product 21009,Electronics,Mobile Accessories,NovaTech,18543.86,32628.54,Active
+21010,HomeEase Product 21010,Beauty,Personal Care,NovaTech,1116.12,1819.94,Active
+21011,ReadMore Product 21011,Sports,Fitness,NovaTech,4052.23,6253.17,Active
+21012,PureCare Product 21012,Fashion,Footwear,SmartBuy,4859.95,6538.64,Active
+21013,FitPro Product 21013,beauty,Haircare,PureCare,2650.13,3627.77,Active
+21014,PureCare Product 21014,Fashion,Women,UrbanNest,4634.37,7374.85,Active
+21015,FitPro Product 21015,Sports,Fitness,FitPro,1396.89,2329.7,Discontinued
+21016,PureCare Product 21016,Electronics,Computing,UrbanNest,334.42,575.38,Discontinued
+21017,FitPro Product 21017,Books,Fiction,PureCare,961.61,2062.11,Discontinued
+21018,NovaTech Product 21018,Books,Education,UrbanNest,1376.85,2153.29,Active
+21019,ReadMore Product 21019,Electronics,Audio,FitPro,16163.26,21553.06,Active
+21020,PureCare Product 21020,Home & Kitchen,Appliances,NovaTech,7051.12,11815.41,Active
+21021,NovaTech Product 21021,Books,Education,FitPro,1259.06,2101.16,Active
+21022,ReadMore Product 21022,Home & Kitchen,Kitchen,ReadMore,910.42,1301.94,Discontinued
+21023,SmartBuy Product 21023,Sports,Fitness,HomeEase,2523.62,5368.97,Active
+21024,UrbanNest Product 21024,Electronics,Computing,SmartBuy,1384.07,2341.76,Active
+21025,StyleHub Product 21025,Books,Non-Fiction,NovaTech,1331.24,2001.57,Active
+21026,FitPro Product 21026,Books,Fiction,FitPro,1473.18,2255.48,Active
+21027,FitPro Product 21027,Beauty,Personal Care,PureCare,1943.39,4308.25,Active
+21028,UrbanNest Product 21028,Home & Kitchen,Kitchen,StyleHub,805.53,1098.6,Active
+21029,StyleHub Product 21029,Books,Education,UrbanNest,970.97,1889.32,Active
+21030,UrbanNest Product 21030,Home & Kitchen,Appliances,NovaTech,3516.7,7017.24,Discontinued
+21031,NovaTech Product 21031,Fashion,Women,ReadMore,5509.03,8623.83,Active
+21032,StyleHub Product 21032,Sports,Fitness,FitPro,3220.72,6078.1,Active
+21033,UrbanNest Product 21033,Fashion,Women,SmartBuy,985.53,1906.96,Active
+21034,SmartBuy Product 21034,Electronics,Mobile Accessories,PureCare,34067.76,43869.29,Discontinued
+21035,PureCare Product 21035,Electronics,Computing,PureCare,21372.02,27982.72,Active
+21036,StyleHub Product 21036,Books,Fiction,UrbanNest,243.6,444.43,Active
+21037,PureCare Product 21037,Beauty,Haircare,UrbanNest,2086.99,4258.51,Discontinued
+21038,ReadMore Product 21038,Fashion,Women,NovaTech,4462.96,6010.25,Active
+21039,FitPro Product 21039,Beauty,Personal Care,UrbanNest,410.24,592.6,Active
+21040,HomeEase Product 21040,Beauty,Haircare,UrbanNest,1438.19,2037.87,Discontinued
+21041,NovaTech Product 21041,Beauty,Haircare,StyleHub,3113.38,4603.15,Active
+21042,StyleHub Product 21042,Home & Kitchen,Home Decor,SmartBuy,3775.7,5254.53,Active
+21043,ReadMore Product 21043,Books,Education,SmartBuy,501.28,847.78,Discontinued
+21044,NovaTech Product 21044,Books,Education,HomeEase,1028.61,1577.67,Discontinued
+21045,SmartBuy Product 21045,Home & Kitchen,Appliances,PureCare,8041.61,10913.57,Active
+21046,PureCare Product 21046,Sports,Sportswear,FitPro,2421.48,4885.9,Active
+21047,PureCare Product 21047,Electronics,Computing,FitPro,21421.22,34009.92,Discontinued
+21048,FitPro Product 21048,Beauty,Haircare,FitPro,1430.58,2464.88,Active
+21049,HomeEase Product 21049,Books,Education,PureCare,831.4,1405.98,Discontinued
+21050,ReadMore Product 21050,Fashion,Footwear,PureCare,5336.94,9722.44,Discontinued
+21051,StyleHub Product 21051,Electronics,Computing,StyleHub,34868.9,47210.91,Active
+21052,ReadMore Product 21052,Home & Kitchen,Appliances,ReadMore,10229.35,16385.64,Active
+21053,FitPro Product 21053,Electronics,Mobile Accessories,FitPro,13623.4,28035.18,Active
+21054,UrbanNest Product 21054,Books,Non-Fiction,NovaTech,790.51,1084.01,Active
+21055,ReadMore Product 21055,Fashion,Women,UrbanNest,3780.17,5385.69,Active
+21056,SmartBuy Product 21056,Books,Non-Fiction,NovaTech,1428.27,2170.07,Active
+21057,PureCare Product 21057,Electronics,Mobile Accessories,UrbanNest,15054.59,32663.71,Discontinued
+21058,NovaTech Product 21058,Home & Kitchen,Appliances,NovaTech,7319.41,11647.32,Discontinued
+21059,PureCare Product 21059,Books,Education,SmartBuy,1089.91,1965.59,Active
+21060,StyleHub Product 21060,Sports,Outdoor,PureCare,5611.13,10229.29,Active
+21061,PureCare Product 21061,Home & Kitchen,Home Decor,StyleHub,2346.54,5112.42,Active
+21062,StyleHub Product 21062,Beauty,Skincare,FitPro,3189.5,5124.81,Active
+21063,HomeEase Product 21063, Fashion ,Women,UrbanNest,443.07,822.8,Active
+21064,HomeEase Product 21064,Electronics,Computing,UrbanNest,23481.72,37866.48,Active
+21065,NovaTech Product 21065,Books,Fiction,UrbanNest,1131.38,2129.9,Active
+21066,StyleHub Product 21066,Fashion,Footwear,SmartBuy,856.22,1128.38,Discontinued
+21067,ReadMore Product 21067,Sports,Outdoor,UrbanNest,4955.17,10286.44,Discontinued
+21068,UrbanNest Product 21068,Sports,Outdoor,UrbanNest,861.9,1801.12,Discontinued
+21069,ReadMore Product 21069,Electronics,Mobile Accessories,PureCare,6854.72,9291.42,Active
+21070,FitPro Product 21070,Beauty,Personal Care,ReadMore,1795.05,3428.87,Active
+21071,ReadMore Product 21071,Beauty,Personal Care,HomeEase,2232.05,3273.21,Active
+21072,FitPro Product 21072,Home & Kitchen,Home Decor,NovaTech,135.84,226.41,Active
+21073,HomeEase Product 21073,Beauty,Skincare,StyleHub,4255.22,5888.1,Active
+21074,UrbanNest Product 21074,Home & Kitchen,Appliances,StyleHub,723.7,1277.78,Active
+21075,SmartBuy Product 21075,Sports,Fitness,StyleHub,2548.8,4203.75,Active
+21076,HomeEase Product 21076,fashion,Men,HomeEase,4035.79,5839.44,Active
+21077,StyleHub Product 21077,Home & Kitchen,Kitchen,SmartBuy,9306.22,17686.82,Active
+21078,SmartBuy Product 21078,Fashion,Women,HomeEase,7462.94,9798.63,Discontinued
+21079,ReadMore Product 21079,Home & Kitchen,Appliances,HomeEase,8557.52,18369.02,Active
+21080,StyleHub Product 21080,Beauty,Personal Care,PureCare,836.95,1104.21,Discontinued
+21081,ReadMore Product 21081,Fashion,Men,SmartBuy,3639.71,5124.9,Active
+21082,FitPro Product 21082,Beauty,Skincare,ReadMore,1447.05,1985.11,Active
+21083,PureCare Product 21083,Electronics,Mobile Accessories,HomeEase,17279.1,36505.09,Active
+21084,SmartBuy Product 21084,Electronics,Mobile Accessories,FitPro,14021.36,20750.66,Discontinued
+21085,HomeEase Product 21085,Beauty,Personal Care,FitPro,1768.52,3484.03,Active
+21086,ReadMore Product 21086,Electronics,Audio,FitPro,27580.4,40020.13,Discontinued
+21087,FitPro Product 21087,Home & Kitchen,Kitchen,PureCare,11912.01,16870.49,Active
+21088,HomeEase Product 21088,Books,Fiction,StyleHub,463.48,939.5,Active
+21089,ReadMore Product 21089,Fashion,Women,PureCare,6085.29,9473.73,Active
+21090,StyleHub Product 21090,Home & Kitchen,Appliances,UrbanNest,9499.25,16569.96,Active
+21091,SmartBuy Product 21091,Fashion,Men,SmartBuy,1721.61,2378.58,Active
+21092,HomeEase Product 21092,Books,Non-Fiction,StyleHub,878.37,1895.75,Active
+21093,SmartBuy Product 21093,Sports,Sportswear,UrbanNest,1133.68,2513.89,Active
+21094,StyleHub Product 21094,Books,Education,ReadMore,1654.1,2251.17,Active
+21095,UrbanNest Product 21095,Sports,Sportswear,FitPro,1386.67,1845.66,Active
+21096,FitPro Product 21096,Beauty,Personal Care,ReadMore,3600.23,5001.5,Active
+21097,StyleHub Product 21097,Fashion,Men,UrbanNest,1786.13,2483.47,Active
+21098,StyleHub Product 21098,Home & Kitchen,Kitchen,NovaTech,2140.19,3978.74,Active
+21099,PureCare Product 21099,Books,Fiction,UrbanNest,61.25,107.71,Active
+21100,FitPro Product 21100,Fashion,Men,ReadMore,519.51,782.27,Active
+21101,NovaTech Product 21101,Sports,Sportswear,ReadMore,4985.58,7738.14,Active
+21102,PureCare Product 21102,Electronics,Audio,NovaTech,15012.24,25097.02,Active
+21103,ReadMore Product 21103,Books,Fiction,FitPro,254.7,374.34,Active
+21104,PureCare Product 21104,Beauty,Skincare,StyleHub,3944.54,5963.68,Active
+21105,ReadMore Product 21105,Fashion,Men,UrbanNest,2127.27,3891.95,Discontinued
+21106,StyleHub Product 21106,Sports,Outdoor,PureCare,2012.73,3520.95,Active
+21107,ReadMore Product 21107,Beauty,Haircare,ReadMore,527.74,792.23,Active
+21108,SmartBuy Product 21108,Fashion,Footwear,NovaTech,4132.94,5391.82,Discontinued
+21109,NovaTech Product 21109,Beauty,Haircare,HomeEase,399.58,673.41,Active
+21110,UrbanNest Product 21110,Beauty,Personal Care,ReadMore,300.69,428.06,Active
+21111,StyleHub Product 21111,Fashion,Women,SmartBuy,2408.34,3219.24,Active
+21112,PureCare Product 21112,Sports,Fitness,ReadMore,241.39,337.55,Discontinued
+21113,PureCare Product 21113,Sports,Sportswear,HomeEase,1215.74,2030.74,Active
+21114,HomeEase Product 21114,Home & Kitchen,Home Decor,StyleHub,210.33,326.72,Active
+21115,PureCare Product 21115,Beauty,Skincare,StyleHub,1397.45,2456.51,Active
+21116,StyleHub Product 21116,Sports,Outdoor,UrbanNest,3864.66,8023.18,Discontinued
+21117,UrbanNest Product 21117,Home & Kitchen,Home Decor,FitPro,6243.25,8476.71,Active
+21118,NovaTech Product 21118,Electronics,Computing,StyleHub,18242.52,37576.94,Discontinued
+21119,UrbanNest Product 21119,Fashion,Men,NovaTech,5045.01,7766.36,Active
+21120,HomeEase Product 21120,Beauty,Skincare,StyleHub,816.19,1564.6,Discontinued
+21121,UrbanNest Product 21121,Fashion,Men,NovaTech,3219.87,4304.83,Active
+21122,StyleHub Product 21122,Sports,Sportswear,ReadMore,4567.33,10058.01,Active
+21123,UrbanNest Product 21123,Sports,Outdoor,HomeEase,4022.26,6323.1,Active
+21124,HomeEase Product 21124,Fashion,Footwear,UrbanNest,3069.04,5515.04,Active
+21125,SmartBuy Product 21125,Fashion,Men,SmartBuy,1892.12,2448.25,Active
+21126,SmartBuy Product 21126,Beauty,Personal Care,FitPro,3638.13,5335.59,Discontinued
+21127,StyleHub Product 21127,Electronics,Audio,StyleHub,18870.41,36660.98,Discontinued
+21128,StyleHub Product 21128,Home & Kitchen,Home Decor,ReadMore,10817.14,19624.96,Active
+21129,UrbanNest Product 21129,Home & Kitchen,Home Decor,StyleHub,11093.08,18111.88,Discontinued
+21130,HomeEase Product 21130,Beauty,Skincare,PureCare,1282.02,2444.33,Active
+21131,UrbanNest Product 21131,Fashion,Women,PureCare,5148.74,7369.79,Active
+21132,NovaTech Product 21132,Sports,Fitness,SmartBuy,672.87,1317.45,Active
+21133,HomeEase Product 21133,Sports,Outdoor,StyleHub,2845.85,3886.76,Discontinued
+21134,FitPro Product 21134,Fashion,Footwear,PureCare,2126.01,3914.54,Active
+21135,StyleHub Product 21135,Beauty,Skincare,NovaTech,633.51,978.73,Active
+21136,PureCare Product 21136,Sports,Fitness,HomeEase,3020.37,6683.69,Discontinued
+21137,ReadMore Product 21137,Sports,Sportswear,StyleHub,413.89,811.46,Discontinued
+21138,PureCare Product 21138,Sports,Outdoor,NovaTech,487.98,963.71,Active
+21139,StyleHub Product 21139,Beauty,Skincare,SmartBuy,3845.02,5881.54,Active
+21140,StyleHub Product 21140,Books,Non-Fiction,NovaTech,1003.07,1968.12,Active
+21141,ReadMore Product 21141,Beauty,Skincare,SmartBuy,550.56,898.11,Active
+21142,HomeEase Product 21142,Beauty,Skincare,UrbanNest,2861.73,4533.51,Discontinued
+21143,FitPro Product 21143,Sports,Sportswear,SmartBuy,6632.91,9064.86,Discontinued
+21144,ReadMore Product 21144,Fashion,Women,UrbanNest,1061.57,2217.81,Discontinued
+21145,ReadMore Product 21145,Fashion,Men,NovaTech,2197.66,3790.6,Active
+21146,FitPro Product 21146,Fashion,Men,UrbanNest,7040.75,9750.49,Discontinued
+21147,StyleHub Product 21147,Electronics,Audio,HomeEase,3203.05,4732.49,Active
+21148,NovaTech Product 21148,Sports,Sportswear,ReadMore,2954.99,3950.74,Active
+21149,PureCare Product 21149,Fashion,Footwear,StyleHub,2176.35,4376.4,Active
+21150,FitPro Product 21150,Beauty,Haircare,HomeEase,3546.33,5613.54,Discontinued
+21151,FitPro Product 21151,Sports,Fitness,UrbanNest,6167.81,11978.63,Discontinued
+21152,HomeEase Product 21152,Electronics,Computing,PureCare,13860.73,19499.46,Discontinued
+21153,ReadMore Product 21153,Home & Kitchen,Appliances,HomeEase,1995.07,3754.0,Discontinued
+21154,HomeEase Product 21154,Home & Kitchen,Kitchen,NovaTech,1224.0,2171.39,Active
+21155,StyleHub Product 21155,Sports,Outdoor,ReadMore,6084.79,10179.53,Active
+21156,UrbanNest Product 21156,Sports,Outdoor,NovaTech,6437.05,9378.21,Discontinued
+21157,PureCare Product 21157,Home & Kitchen,Home Decor,NovaTech,1410.68,2536.06,Active
+21158,StyleHub Product 21158,Sports,Outdoor,StyleHub,568.81,980.32,Active
+21159,NovaTech Product 21159,Electronics,Mobile Accessories,SmartBuy,15246.22,30239.89,Active
+21160,StyleHub Product 21160,Electronics,Computing,UrbanNest,15842.31,20482.62,Discontinued
+21161,UrbanNest Product 21161,Home & Kitchen,Appliances,HomeEase,5089.97,9552.92,Discontinued
+21162,ReadMore Product 21162,Beauty,Haircare,HomeEase,3978.16,5279.74,Discontinued
+21163,ReadMore Product 21163,Home & Kitchen,Home Decor,SmartBuy,6235.01,10049.3,Discontinued
+21164,UrbanNest Product 21164,Electronics,Mobile Accessories,FitPro,5291.38,7161.2,Discontinued
+21165,HomeEase Product 21165,Electronics,Computing,UrbanNest,18932.24,27819.26,Active
+21166,SmartBuy Product 21166,Beauty,Skincare,NovaTech,1818.65,3689.13,Discontinued
+21167,NovaTech Product 21167,Fashion,Women,FitPro,6698.92,8708.79,Active
+21168,NovaTech Product 21168,Fashion,Women,HomeEase,497.03,979.02,Discontinued
+21169,SmartBuy Product 21169,Home & Kitchen,Kitchen,FitPro,10730.58,17120.01,Active
+21170,PureCare Product 21170,books,Fiction,UrbanNest,781.12,1006.85,Active
+21171,ReadMore Product 21171,Home & Kitchen,Kitchen,HomeEase,12776.25,18766.05,Discontinued
+21172,ReadMore Product 21172,Fashion,Men,UrbanNest,4641.11,6892.82,Discontinued
+21173,NovaTech Product 21173,Electronics,Audio,UrbanNest,9289.26,18629.78,Active
+21174,ReadMore Product 21174,Fashion,Women,StyleHub,1054.06,1559.31,Active
+21175,ReadMore Product 21175,Books,Fiction,NovaTech,1249.36,1880.64,Discontinued
+21176,ReadMore Product 21176,books,Fiction,FitPro,910.43,1484.96,Active
+21177,StyleHub Product 21177,Fashion,Footwear,ReadMore,4288.51,6342.41,Active
+21178,PureCare Product 21178,Home & Kitchen,Appliances,UrbanNest,6249.31,9987.97,Active
+21179,SmartBuy Product 21179,Home & Kitchen,Home Decor,HomeEase,12312.27,19695.36,Active
+21180,FitPro Product 21180,Beauty,Personal Care,SmartBuy,2658.73,3467.82,Active
+21181,SmartBuy Product 21181,Electronics,Mobile Accessories,StyleHub,22890.14,49879.55,Active
+21182,ReadMore Product 21182,Books,Fiction,HomeEase,1071.41,2305.68,Active
+21183,StyleHub Product 21183,Home & Kitchen,Appliances,StyleHub,2760.38,5852.28,Active
+21184,HomeEase Product 21184,Books,Education,StyleHub,582.67,1086.21,Active
+21185,NovaTech Product 21185,Electronics,Audio,HomeEase,22003.28,29632.6,Active
+21186,HomeEase Product 21186,Home & Kitchen,Appliances,StyleHub,4732.9,7650.03,Active
+21187,UrbanNest Product 21187,Sports,Fitness,NovaTech,5451.22,9201.84,Active
+21188,PureCare Product 21188,Fashion,Men,SmartBuy,6522.78,9302.55,Active
+21189,PureCare Product 21189,Sports,Outdoor,HomeEase,5893.4,11105.84,Active
+21190,UrbanNest Product 21190,Electronics,Mobile Accessories,SmartBuy,21985.57,32822.68,Active
+21191,ReadMore Product 21191,Electronics,Mobile Accessories,FitPro,14208.0,26937.98,Discontinued
+21192,UrbanNest Product 21192,Beauty,Personal Care,StyleHub,1675.64,2875.72,Active
+21193,PureCare Product 21193,beauty,Haircare,UrbanNest,3153.16,4718.75,Active
+21194,UrbanNest Product 21194,Home & Kitchen,Appliances,UrbanNest,5651.69,10890.56,Active
+21195,SmartBuy Product 21195,Books,Education,StyleHub,253.52,455.93,Active
+21196,UrbanNest Product 21196,Books,Education,ReadMore,1191.99,1930.16,Active
+21197,HomeEase Product 21197,Home & Kitchen,Kitchen,SmartBuy,3549.56,6851.32,Discontinued
+21198,PureCare Product 21198,Home & Kitchen,Kitchen,StyleHub,4317.85,9149.26,Active
+21199,HomeEase Product 21199,Home & Kitchen,Appliances,HomeEase,6923.83,8881.9,Active
+21200,HomeEase Product 21200,Electronics,Computing,ReadMore,15132.07,29341.85,Active
+21201,ReadMore Product 21201,Fashion,Footwear,UrbanNest,3070.11,4748.58,Active
+21202,SmartBuy Product 21202,Home & Kitchen,Appliances,NovaTech,6582.13,11088.0,Active
+21203,SmartBuy Product 21203,Electronics,Mobile Accessories,ReadMore,27896.05,49682.6,Active
+21204,SmartBuy Product 21204,Beauty,Haircare,ReadMore,1028.35,1871.89,Active
+21205,SmartBuy Product 21205,Home & Kitchen,Kitchen,ReadMore,1667.58,3265.93,Active
+21206,FitPro Product 21206,Fashion,Men,ReadMore,4837.97,9123.67,Discontinued
+21207,PureCare Product 21207,Beauty,Personal Care,FitPro,989.82,1805.77,Active
+21208,FitPro Product 21208,Sports,Fitness,StyleHub,2171.15,4192.33,Discontinued
+21209,NovaTech Product 21209,Home & Kitchen,Kitchen,ReadMore,6422.33,8298.16,Discontinued
+21210,FitPro Product 21210,Home & Kitchen,Home Decor,PureCare,6556.5,-12937.6,Discontinued
+21211,PureCare Product 21211,Home & Kitchen,Appliances,HomeEase,11339.47,17737.31,Active
+21212,ReadMore Product 21212,Beauty,Personal Care,FitPro,3467.18,5018.12,Discontinued
+21213,NovaTech Product 21213,Electronics,Audio,NovaTech,15767.61,22910.92,Active
+21214,PureCare Product 21214,Home & Kitchen,Home Decor,HomeEase,4118.0,9150.43,Discontinued
+21215,HomeEase Product 21215,Beauty,Personal Care,ReadMore,3634.26,5092.56,Active
+21216,NovaTech Product 21216,Sports,Fitness,FitPro,8076.01,11146.18,Active
+21217,FitPro Product 21217,Home & Kitchen,Home Decor,FitPro,13219.81,19445.52,Discontinued
+21218,HomeEase Product 21218,Sports,Sportswear,StyleHub,432.0,810.09,Active
+21219,SmartBuy Product 21219,Sports,Fitness,FitPro,2528.19,4716.58,Active
+21220,HomeEase Product 21220,Books,Non-Fiction,PureCare,1218.4,1738.91,Discontinued
+21221,StyleHub Product 21221,Books,Fiction,FitPro,373.71,694.88,Discontinued
+21222,UrbanNest Product 21222,Sports,Outdoor,StyleHub,240.5,421.09,Active
+21223,UrbanNest Product 21223,Electronics,Audio,SmartBuy,20751.48,31519.64,Discontinued
+21224,HomeEase Product 21224,Electronics,Mobile Accessories,PureCare,21331.03,28512.23,Discontinued
+21225,FitPro Product 21225,Fashion,Women,FitPro,8250.711,7857.82,Active
+21226,PureCare Product 21226,Sports,Sportswear,FitPro,6818.67,11807.63,Active
+21227,PureCare Product 21227,Beauty,Haircare,HomeEase,4022.09,5340.97,Discontinued
+21228,SmartBuy Product 21228,Fashion,Footwear,NovaTech,3944.64,5115.79,Discontinued
+21229,FitPro Product 21229,Books,Fiction,PureCare,324.72,475.27,Active
+21230,UrbanNest Product 21230,Home & Kitchen,Appliances,HomeEase,7433.79,10784.86,Active
+21231,SmartBuy Product 21231,Home & Kitchen,Kitchen,UrbanNest,1772.7,2797.48,Active
+21232,SmartBuy Product 21232,Electronics,Audio,FitPro,10300.11,15054.88,Discontinued
+21233,HomeEase Product 21233,Electronics,Audio,SmartBuy,22610.73,43892.79,Active
+21234,SmartBuy Product 21234,Books,Non-Fiction,SmartBuy,1805.328,1719.36,Active
+21235,UrbanNest Product 21235,Electronics,Computing,SmartBuy,27467.58,41798.66,Discontinued
+21236,HomeEase Product 21236,Books,Education,SmartBuy,802.81,1186.86,Active
+21237,StyleHub Product 21237,Fashion,Men,ReadMore,4507.23,7624.11,Active
+21238,ReadMore Product 21238,Home & Kitchen,Home Decor,NovaTech,1384.02,2124.35,Active
+21239,SmartBuy Product 21239,Books,Non-Fiction,PureCare,373.16,619.49,Active
+21240,FitPro Product 21240,Fashion,Women,UrbanNest,1174.8,1721.08,Discontinued
+21241,NovaTech Product 21241,Home & Kitchen,Home Decor,UrbanNest,11934.07,17223.69,Active
+21242,ReadMore Product 21242,Books,Non-Fiction,FitPro,362.1,771.82,Discontinued
+21243,NovaTech Product 21243,Beauty,Skincare,HomeEase,1226.82,1628.57,Active
+21244,FitPro Product 21244,Home & Kitchen,Home Decor,HomeEase,9404.97,13818.32,Discontinued
+21245,StyleHub Product 21245,Electronics,Mobile Accessories,ReadMore,13721.78,20958.76,Active
+21246,PureCare Product 21246,Fashion,Footwear,StyleHub,2804.37,4116.7,Active
+21247,FitPro Product 21247,Home & Kitchen,Appliances,PureCare,10969.18,17671.31,Active
+21248,StyleHub Product 21248,Sports,Outdoor,SmartBuy,1034.49,1533.61,Discontinued
+21249,ReadMore Product 21249,Fashion,Footwear,UrbanNest,449.76,610.67,Discontinued
+21250,PureCare Product 21250,Electronics,Mobile Accessories,NovaTech,7134.35,9968.12,Active
+21251,HomeEase Product 21251,Fashion,Women,SmartBuy,3009.04,4528.79,Active
+21252,SmartBuy Product 21252,Electronics,Computing,ReadMore,3731.84,-6315.69,Active
+21253,SmartBuy Product 21253,Home & Kitchen,Home Decor,FitPro,7724.13,16481.81,Active
+21254,HomeEase Product 21254,Sports,Fitness,HomeEase,7791.619500000001,7420.59,Active
+21255,StyleHub Product 21255,Fashion,Men,SmartBuy,6034.49,7836.92,Discontinued
+21256,StyleHub Product 21256,Beauty,Personal Care,SmartBuy,4294.16,5989.45,Active
+21257,UrbanNest Product 21257,Books,Education,FitPro,411.06,711.13,Active
+21258,PureCare Product 21258,Electronics,Computing,FitPro,23411.84,33762.74,Discontinued
+21259,SmartBuy Product 21259,Sports,Outdoor,PureCare,2667.66,4762.05,Active
+21260,NovaTech Product 21260,Beauty,Haircare,SmartBuy,818.83,1178.87,Active
+21261,UrbanNest Product 21261,Sports,Fitness,SmartBuy,234.82,463.72,Active
+21262,SmartBuy Product 21262,Sports,Fitness,NovaTech,983.26,1782.92,Active
+21263,UrbanNest Product 21263,Fashion,Men,NovaTech,5840.66,9508.92,Active
+21264,SmartBuy Product 21264,Fashion,Women,UrbanNest,1969.82,2747.27,Active
+21265,SmartBuy Product 21265,Home & Kitchen,Home Decor,FitPro,5372.85,9500.32,Active
+21266,NovaTech Product 21266,Electronics,Mobile Accessories,ReadMore,14399.73,25922.25,Active
+21267,PureCare Product 21267,Beauty,Skincare,UrbanNest,3124.9,4558.7,Active
+21268,NovaTech Product 21268,Fashion,Footwear,PureCare,2660.41,4228.28,Active
+21269,ReadMore Product 21269,Home & Kitchen,Home Decor,HomeEase,9389.34,17137.48,Active
+21270,ReadMore Product 21270,Sports,Outdoor,ReadMore,3861.69,8520.69,Active
+21271,HomeEase Product 21271,Fashion,Women,PureCare,2408.36,4298.05,Active
+21272,UrbanNest Product 21272,Beauty,Haircare,NovaTech,2818.73,3963.46,Active
+21273,PureCare Product 21273,Sports,Fitness,PureCare,2436.38,3381.73,Active
+21274,StyleHub Product 21274,Sports,Sportswear,UrbanNest,5030.36,9655.0,Discontinued
+21275,UrbanNest Product 21275,Home & Kitchen,Home Decor,HomeEase,6701.037,6381.94,Active
+21276,HomeEase Product 21276,Sports,Outdoor,FitPro,2610.87,3458.39,Active
+21277,StyleHub Product 21277,Sports,Outdoor,PureCare,1686.34,2222.23,Discontinued
+21278,FitPro Product 21278,Beauty,Haircare,UrbanNest,1713.66,2228.12,Active
+21279,HomeEase Product 21279,Sports,Sportswear,StyleHub,4277.81,6402.59,Discontinued
+21280,FitPro Product 21280,Sports,Outdoor,UrbanNest,3223.78,5743.5,Active
+21281,UrbanNest Product 21281,Electronics,Audio,HomeEase,12779.72,24993.65,Active
+21282,NovaTech Product 21282,Sports,Fitness,StyleHub,6725.97,9272.36,Discontinued
+21283,SmartBuy Product 21283,Fashion,Men,PureCare,2741.34,3796.35,Active
+21284,UrbanNest Product 21284,Sports,Fitness,FitPro,4813.17,8789.84,Active
+21285,NovaTech Product 21285,Books,Education,SmartBuy,715.24,1062.93,Active
+21286,ReadMore Product 21286,Books,Education,StyleHub,1139.93,1906.65,Active
+21287,StyleHub Product 21287,Electronics,Audio,StyleHub,33634.96,43801.74,Active
+21288,ReadMore Product 21288,Home & Kitchen,Home Decor,HomeEase,663.08,1253.75,Discontinued
+21289,StyleHub Product 21289,Fashion,Footwear,ReadMore,3293.56,5134.31,Active
+21290,SmartBuy Product 21290,Beauty,Personal Care,SmartBuy,908.89,1289.32,Active
+21291,FitPro Product 21291,Fashion,Men,StyleHub,4273.49,8184.44,Discontinued
+21292,SmartBuy Product 21292,Home & Kitchen,Appliances,SmartBuy,1970.97,3441.1,Active
+21293,UrbanNest Product 21293,Sports,Sportswear,PureCare,5867.26,11403.38,Active
+21294,HomeEase Product 21294,Home & Kitchen,Kitchen,StyleHub,12170.57,16050.67,Active
+21295,NovaTech Product 21295,Sports,Sportswear,FitPro,1577.66,2627.73,Active
+21296,UrbanNest Product 21296,Fashion,Women,HomeEase,984.64,1551.76,Active
+21297,PureCare Product 21297,Fashion,Footwear,UrbanNest,917.97,1318.9,Discontinued
+21298,NovaTech Product 21298,Home & Kitchen,Home Decor,UrbanNest,3030.38,5247.98,Active
+21299,SmartBuy Product 21299,Sports,Sportswear,SmartBuy,3159.78,6129.86,Active
+21300,PureCare Product 21300,Beauty,Haircare,UrbanNest,652.73,947.0,Active
+21301,PureCare Product 21301,Sports,Sportswear,UrbanNest,5096.72,7880.99,Active
+21302,FitPro Product 21302,Home & Kitchen,Home Decor,SmartBuy,2537.59,4591.55,Discontinued
+21303,StyleHub Product 21303,Beauty,Haircare,FitPro,1335.66,2123.3,Active
+21304,UrbanNest Product 21304,Books,Fiction,NovaTech,427.17,602.98,Active
+21305,SmartBuy Product 21305,Electronics,Audio,ReadMore,5668.09,10606.5,Active
+21306,StyleHub Product 21306,Beauty,Personal Care,ReadMore,934.53,1784.23,Active
+21307,PureCare Product 21307,Sports,Fitness,HomeEase,2242.41,4684.16,Active
+21308,SmartBuy Product 21308,Sports,Sportswear,UrbanNest,3506.64,6344.09,Active
+21309,NovaTech Product 21309,Books,Non-Fiction,NovaTech,1106.41,-2182.22,Discontinued
+21310,NovaTech Product 21310,Beauty,Skincare,HomeEase,1400.84,2491.77,Active
+21311,PureCare Product 21311,Beauty,Personal Care,HomeEase,2801.56,3818.52,Active
+21312,PureCare Product 21312,Fashion,Footwear,ReadMore,3102.54,6657.34,Active
+21313,UrbanNest Product 21313,Books,Non-Fiction,StyleHub,1716.25,2419.72,Active
+21314,HomeEase Product 21314,Sports,Outdoor,ReadMore,3738.54,6425.77,Active
+21315,PureCare Product 21315,Electronics,Mobile Accessories,PureCare,2528.06,5368.06,Discontinued
+21316,NovaTech Product 21316,Books,Fiction,PureCare,1170.18,2153.84,Active
+21317,FitPro Product 21317,Electronics,Mobile Accessories,NovaTech,8954.12,12277.6,Active
+21318,PureCare Product 21318,Home & Kitchen,Home Decor,HomeEase,3414.12,5673.87,Active
+21319,HomeEase Product 21319,Books,Education,PureCare,408.89,650.9,Active
+21320,StyleHub Product 21320,Sports,Outdoor,UrbanNest,3086.97,4487.29,Discontinued
+21321,PureCare Product 21321,Sports,Fitness,ReadMore,6094.45,9644.42,Active
+21322,StyleHub Product 21322,Home & Kitchen,Appliances,PureCare,811.89,1169.35,Active
+21323,NovaTech Product 21323,Sports,Outdoor,FitPro,5864.22,10133.46,Active
+21324,StyleHub Product 21324,Fashion,Footwear,HomeEase,465.75,924.61,Active
+21325,StyleHub Product 21325,Electronics,Computing,ReadMore,1588.86,2288.49,Discontinued
+21326,SmartBuy Product 21326,Electronics,Audio,StyleHub,2759.08,4374.76,Discontinued
+21327,PureCare Product 21327,Sports,Outdoor,UrbanNest,3968.99,5547.19,Discontinued
+21328,NovaTech Product 21328,Books,Education,StyleHub,1163.19,1623.89,Active
+21329,StyleHub Product 21329,Home & Kitchen,Home Decor,ReadMore,9594.33,15257.63,Active
+21330,FitPro Product 21330,Sports,Fitness,HomeEase,1022.91,1335.09,Active
+21331,ReadMore Product 21331,Home & Kitchen,Kitchen,StyleHub,10864.88,18454.08,Active
+21332,StyleHub Product 21332,Fashion,Men,FitPro,5293.96,7806.78,Active
+21333,StyleHub Product 21333,Fashion,Men,ReadMore,3839.06,6443.07,Active
+21334,PureCare Product 21334,Books,Education,UrbanNest,838.96,1657.75,Active
+21335,UrbanNest Product 21335,Books,Fiction,FitPro,70.42,132.84,Discontinued
+21336,SmartBuy Product 21336,Fashion,Women,FitPro,2411.21,5310.76,Active
+21337,ReadMore Product 21337,Books,Education,FitPro,120.05,266.66,Active
+21338,NovaTech Product 21338,Electronics,Mobile Accessories,StyleHub,4918.28,9973.5,Active
+21339,ReadMore Product 21339,Electronics,Mobile Accessories,SmartBuy,6678.12,11652.51,Active
+21340,SmartBuy Product 21340,Fashion,Women,SmartBuy,4670.27,7646.04,Active
+21341,HomeEase Product 21341,Sports,Sportswear,NovaTech,1929.03,3990.36,Active
+21342,ReadMore Product 21342,Fashion,Women,ReadMore,4122.87,8904.94,Discontinued
+21343,SmartBuy Product 21343,Electronics,Computing,FitPro,30751.17,41256.1,Active
+21344,FitPro Product 21344,Books,Non-Fiction,UrbanNest,798.13,1502.99,Discontinued
+21345,FitPro Product 21345,Books,Fiction,StyleHub,340.0,637.42,Active
+21346,StyleHub Product 21346,Books,Education,SmartBuy,723.13,1194.92,Active
+21347,StyleHub Product 21347,Beauty,Personal Care,SmartBuy,3169.39,5915.29,Active
+21348,PureCare Product 21348,Sports,Fitness,SmartBuy,2876.53,4460.17,Active
+21349,HomeEase Product 21349,Sports,Outdoor,HomeEase,5691.79,9336.72,Active
+21350,UrbanNest Product 21350,Fashion,Men,FitPro,3744.02,5696.42,Active
+21351,SmartBuy Product 21351,Home & Kitchen,Home Decor,StyleHub,906.64,1795.53,Active
+21352,StyleHub Product 21352,Home & Kitchen,Home Decor,SmartBuy,12501.33,18437.31,Discontinued
+21353,FitPro Product 21353,Electronics,Mobile Accessories,FitPro,12001.19,21802.36,Active
+21354,PureCare Product 21354,Sports,Outdoor,SmartBuy,4405.25,8297.34,Active
+21355,UrbanNest Product 21355,Books,Fiction,PureCare,1029.0,2234.83,Discontinued
+21356,StyleHub Product 21356,Fashion,Footwear,UrbanNest,1141.74,2150.27,Active
+21357,SmartBuy Product 21357,Fashion,Men,PureCare,3464.5,6908.18,Discontinued
+21358,NovaTech Product 21358,Electronics,Mobile Accessories,SmartBuy,7373.45,14420.24,Active
+21359,UrbanNest Product 21359,Books,Education,FitPro,1055.64,1407.16,Discontinued
+21360,PureCare Product 21360,Sports,Fitness,HomeEase,2736.92,5168.08,Discontinued
+21361,StyleHub Product 21361,Fashion,Women,PureCare,6149.13,8363.04,Active
+21362,ReadMore Product 21362,Books,Fiction,NovaTech,999.38,1632.13,Active
+21363,PureCare Product 21363,Books,Fiction,ReadMore,118.94,234.01,Active
+21364,UrbanNest Product 21364,Home & Kitchen,Appliances,NovaTech,6782.54,13463.18,Active
+21365,FitPro Product 21365,Fashion,Footwear,PureCare,2778.62,4264.04,Active
+21366,SmartBuy Product 21366,Home & Kitchen,Kitchen,HomeEase,476.62,1009.21,Active
+21367,UrbanNest Product 21367,Beauty,Skincare,PureCare,1348.66,2956.73,Active
+21368,StyleHub Product 21368,Books,Fiction,ReadMore,1480.57,2123.9,Discontinued
+21369,SmartBuy Product 21369,Home & Kitchen,Home Decor,HomeEase,5099.74,8413.16,Discontinued
+21370,SmartBuy Product 21370,Home & Kitchen,Kitchen,FitPro,2002.06,4266.63,Discontinued
+21371,FitPro Product 21371,Sports,Fitness,SmartBuy,6053.92,9147.78,Active
+21372,StyleHub Product 21372,Electronics,Mobile Accessories,ReadMore,7773.29,11793.53,Discontinued
+21373,ReadMore Product 21373,Books,Education,NovaTech,871.84,1380.22,Active
+21374,StyleHub Product 21374,Sports,Fitness,PureCare,5304.24,7122.8,Active
+21375,FitPro Product 21375,Home & Kitchen,Home Decor,StyleHub,11367.12,18318.01,Discontinued
+21376,HomeEase Product 21376,Sports,Sportswear,FitPro,2543.04,5458.64,Active
+21377,HomeEase Product 21377,Electronics,Computing,PureCare,10836.1,22901.11,Active
+21378,StyleHub Product 21378, Books ,Fiction,StyleHub,1385.28,2430.53,Discontinued
+21379,StyleHub Product 21379,Fashion,Men,NovaTech,5922.38,7783.14,Active
+21380,ReadMore Product 21380,Sports,Outdoor,PureCare,4341.87,5971.43,Active
+21381,NovaTech Product 21381,Sports,Fitness,ReadMore,3195.06,6013.07,Discontinued
+21382,HomeEase Product 21382,Beauty,Skincare,SmartBuy,2015.57,3819.48,Active
+21383,SmartBuy Product 21383,Sports,Sportswear,PureCare,1697.73,2362.2,Discontinued
+21384,NovaTech Product 21384,Fashion,Footwear,StyleHub,3358.26,5247.87,Discontinued
+21385,ReadMore Product 21385,Fashion,Footwear,PureCare,4231.52,6633.25,Active
+21386,PureCare Product 21386,Books,Fiction,SmartBuy,272.51,407.8,Active
+21387,StyleHub Product 21387,Home & Kitchen,Home Decor,HomeEase,2740.0,4947.78,Active
+21388,SmartBuy Product 21388,Books,Fiction,FitPro,291.65,579.39,Active
+21389,SmartBuy Product 21389,Electronics,Computing,SmartBuy,10800.18,19842.43,Discontinued
+21390,SmartBuy Product 21390,Fashion,Men,FitPro,4203.57,6029.09,Active
+21391,NovaTech Product 21391,Beauty,Haircare,NovaTech,3459.4,4810.42,Active
+21392,SmartBuy Product 21392,Fashion,Women,PureCare,6013.24,8858.17,Active
+21393,StyleHub Product 21393,Books,Non-Fiction,SmartBuy,469.79,660.92,Discontinued
+21394,PureCare Product 21394,Beauty,Personal Care,ReadMore,922.17,1412.78,Active
+21395,PureCare Product 21395,Sports,Fitness,PureCare,4326.93,6054.0,Active
+21396,FitPro Product 21396,Home & Kitchen,Appliances,NovaTech,7422.76,14478.52,Active
+21397,UrbanNest Product 21397,Home & Kitchen,Kitchen,StyleHub,13279.01,17208.44,Active
+21398,NovaTech Product 21398,Beauty,Skincare,PureCare,484.67,928.09,Active
+21399,HomeEase Product 21399,Books,Fiction,UrbanNest,277.97,452.06,Active
+21400,SmartBuy Product 21400,Home & Kitchen,Kitchen,UrbanNest,6690.15,14821.95,Active
+21401,StyleHub Product 21401,Fashion,Footwear,SmartBuy,6975.26,9959.76,Active
+21402,FitPro Product 21402,Books,Education,UrbanNest,590.47,1250.32,Active
+21403,HomeEase Product 21403,Home & Kitchen,Kitchen,StyleHub,7062.61,14171.88,Active
+21404,PureCare Product 21404,Fashion,Men,HomeEase,3053.82,3996.2,Active
+21405,PureCare Product 21405,Beauty,Haircare,HomeEase,240.5,459.52,Active
+21406,HomeEase Product 21406,Electronics,Audio,UrbanNest,24507.97,32411.73,Active
+21407,NovaTech Product 21407,Electronics,Mobile Accessories,FitPro,22081.95,39490.4,Active
+21408,HomeEase Product 21408,Fashion,Men,SmartBuy,2809.28,5350.94,Active
+21409,NovaTech Product 21409,Electronics,Computing,HomeEase,12224.26,21164.81,Active
+21410,SmartBuy Product 21410,Books,Education,UrbanNest,672.45,868.54,Discontinued
+21411,StyleHub Product 21411,Fashion,Men,SmartBuy,5353.15,8959.97,Active
+21412,FitPro Product 21412,sports,Fitness,StyleHub,6122.43,9981.48,Active
+21413,NovaTech Product 21413,Books,Non-Fiction,StyleHub,1618.1,2106.36,Active
+21414,StyleHub Product 21414,Electronics,Audio,ReadMore,13304.05,29534.4,Active
+21415,ReadMore Product 21415,Books,Education,SmartBuy,505.68,945.02,Active
+21416,StyleHub Product 21416,Home & Kitchen,Kitchen,HomeEase,13380.91,17292.83,Active
+21417,NovaTech Product 21417,Books,Education,NovaTech,154.01,248.97,Discontinued
+21418,SmartBuy Product 21418,Beauty,Personal Care,StyleHub,691.92,963.85,Active
+21419,SmartBuy Product 21419,Fashion,Women,UrbanNest,1557.82,2825.6,Discontinued
+21420,FitPro Product 21420,Fashion,Footwear,FitPro,4182.68,7751.96,Discontinued
+21421,StyleHub Product 21421,Fashion,Footwear,NovaTech,5279.95,7521.25,Active
+21422,UrbanNest Product 21422,Fashion,Women,NovaTech,845.89,1470.51,Active
+21423,NovaTech Product 21423,Electronics,Mobile Accessories,NovaTech,9035.47,19266.92,Discontinued
+21424,NovaTech Product 21424,Electronics,Mobile Accessories,ReadMore,2167.46,3433.53,Active
+21425,StyleHub Product 21425,Beauty,Personal Care,ReadMore,404.34,629.77,Active
+21426,UrbanNest Product 21426,Home & Kitchen,Home Decor,UrbanNest,152.28,292.46,Discontinued
+21427,NovaTech Product 21427,Electronics,Mobile Accessories,NovaTech,12344.39,17680.91,Active
+21428,PureCare Product 21428,Fashion,Women,PureCare,3040.02,5125.97,Active
+21429,ReadMore Product 21429,Beauty,Haircare,SmartBuy,2935.92,5482.63,Active
+21430,HomeEase Product 21430,Fashion,Footwear,UrbanNest,4134.34,5734.4,Active
+21431,StyleHub Product 21431,Fashion,Men,PureCare,5088.09,8778.54,Active
+21432,SmartBuy Product 21432,Electronics,Computing,UrbanNest,11456.7,25457.54,Active
+21433,PureCare Product 21433,Electronics,Audio,UrbanNest,7754.76,12906.05,Discontinued
+21434,FitPro Product 21434,Home & Kitchen,Appliances,StyleHub,4908.16,6848.64,Discontinued
+21435,ReadMore Product 21435,Beauty,Personal Care,PureCare,2219.94,3186.51,Active
+21436,HomeEase Product 21436,Home & Kitchen,Appliances,UrbanNest,11327.74,16107.18,Active
+21437,UrbanNest Product 21437,Electronics,Computing,SmartBuy,24272.49,37426.5,Active
+21438,UrbanNest Product 21438,Beauty,Personal Care,ReadMore,2210.57,3112.1,Active
+21439,StyleHub Product 21439,Electronics,Audio,NovaTech,7487.69,14033.71,Active
+21440,FitPro Product 21440,Fashion,Footwear,ReadMore,966.55,1523.67,Active
+21441,StyleHub Product 21441,Electronics,Audio,ReadMore,12455.46,24835.7,Discontinued
+21442,StyleHub Product 21442,Electronics,Audio,StyleHub,15153.13,26043.59,Active
+21443,ReadMore Product 21443,Electronics,Mobile Accessories,HomeEase,22780.02,35757.04,Active
+21444,HomeEase Product 21444,Sports,Sportswear,SmartBuy,3787.57,8336.51,Active
+21445,ReadMore Product 21445,Books,Non-Fiction,HomeEase,847.35,1637.54,Discontinued
+21446,NovaTech Product 21446,Books,Fiction,NovaTech,828.72,1077.0,Active
+21447,PureCare Product 21447,Fashion,Footwear,FitPro,807.54,1270.4,Discontinued
+21448,ReadMore Product 21448,Beauty,Personal Care,FitPro,3541.31,4738.16,Active
+21449,HomeEase Product 21449,Sports,Fitness,NovaTech,4528.8,8004.5,Discontinued
+21450,UrbanNest Product 21450,Electronics,Computing,SmartBuy,17710.87,32095.82,Active
+21451,HomeEase Product 21451,Sports,Outdoor,PureCare,4718.11,7877.56,Discontinued
+21452,UrbanNest Product 21452,Electronics,Audio,PureCare,25713.0,48333.7,Active
+21453,NovaTech Product 21453,Home & Kitchen,Appliances,SmartBuy,1100.47,1700.41,Active
+21454,NovaTech Product 21454,Electronics,Mobile Accessories,HomeEase,14644.02,21668.98,Discontinued
+21455,UrbanNest Product 21455,Sports,Outdoor,UrbanNest,8638.23,11837.48,Active
+21456,HomeEase Product 21456,Fashion,Footwear,FitPro,1013.39,1570.59,Active
+21457,StyleHub Product 21457,Electronics,Computing,PureCare,5102.69,7347.02,Active
+21458,UrbanNest Product 21458,Electronics,Mobile Accessories,SmartBuy,2636.51,3856.68,Discontinued
+21459,NovaTech Product 21459,Sports,Sportswear,UrbanNest,4032.71,5342.31,Active
+21460,HomeEase Product 21460,Home & Kitchen,Kitchen,PureCare,435.05,895.77,Active
+21461,ReadMore Product 21461,Sports,Fitness,SmartBuy,1874.17,2801.28,Discontinued
+21462,FitPro Product 21462,Home & Kitchen,Kitchen,PureCare,1432.74,1993.36,Active
+21463,ReadMore Product 21463,Fashion,Footwear,ReadMore,4963.86,6403.82,Active
+21464,UrbanNest Product 21464,Fashion,Women,FitPro,4676.36,7352.55,Active
+21465,StyleHub Product 21465,Books,Non-Fiction,UrbanNest,764.78,1184.3,Active
+21466,StyleHub Product 21466,Electronics,Computing,StyleHub,6448.61,11731.47,Active
+21467,FitPro Product 21467,Beauty,Skincare,UrbanNest,254.88,419.23,Active
+21468,UrbanNest Product 21468,Home & Kitchen,Appliances,ReadMore,9932.93,19547.85,Active
+21469,NovaTech Product 21469,Sports,Fitness,SmartBuy,1421.31,2550.33,Active
+21470,NovaTech Product 21470,Sports,Sportswear,SmartBuy,1073.99,2169.04,Discontinued
+21471,PureCare Product 21471,Electronics,Audio,ReadMore,22324.16,45215.44,Active
+21472,PureCare Product 21472,Home & Kitchen,Home Decor,ReadMore,6203.25,11403.15,Active
+21473,PureCare Product 21473,Books,Education,ReadMore,1480.87,2035.71,Active
+21474,StyleHub Product 21474,Beauty,Skincare,PureCare,1541.45,2404.56,Active
+21475,ReadMore Product 21475,Electronics,Mobile Accessories,HomeEase,17497.21,30667.71,Active
+21476,FitPro Product 21476,Fashion,Footwear,FitPro,1526.13,2967.14,Active
+21477,ReadMore Product 21477,Fashion,Women,HomeEase,5065.44,9700.36,Discontinued
+21478,NovaTech Product 21478,Home & Kitchen,Appliances,StyleHub,5332.78,7376.04,Active
+21479,HomeEase Product 21479,Books,Non-Fiction,FitPro,362.04,707.1,Active
+21480,UrbanNest Product 21480,Electronics,Mobile Accessories,NovaTech,4764.44,7165.92,Active
+21481,FitPro Product 21481,Books,Fiction,NovaTech,625.05,1048.24,Discontinued
+21482,NovaTech Product 21482,Fashion,Men,HomeEase,420.42,809.67,Active
+21483,FitPro Product 21483,Beauty,Skincare,SmartBuy,1185.4,2144.42,Active
+21484,PureCare Product 21484,Electronics,Mobile Accessories,UrbanNest,7506.0,10501.03,Active
+21485,PureCare Product 21485,Home & Kitchen,Kitchen,HomeEase,6017.98,12291.3,Active
+21486,NovaTech Product 21486,Fashion,Men,NovaTech,2775.41,5842.1,Active
+21487,FitPro Product 21487,Books,Fiction,SmartBuy,1035.83,2235.2,Discontinued
+21488,UrbanNest Product 21488,Home & Kitchen,Appliances,HomeEase,4770.52,-8154.84,Active
+21489,HomeEase Product 21489,Sports,Sportswear,HomeEase,2236.47,3296.48,Discontinued
+21490,NovaTech Product 21490,Books,Non-Fiction,NovaTech,906.83,1174.52,Discontinued
+21491,UrbanNest Product 21491,Books,Non-Fiction,NovaTech,527.75,1015.64,Active
+21492,FitPro Product 21492,Home & Kitchen,Appliances,HomeEase,13688.46,17833.22,Discontinued
+21493,UrbanNest Product 21493,Electronics,Computing,ReadMore,248.02,516.8,Active
+21494,SmartBuy Product 21494,Fashion,Women,StyleHub,1699.03,3466.04,Active
+21495,SmartBuy Product 21495,Fashion,Women,PureCare,6011.59,8615.6,Active
+21496,HomeEase Product 21496,Fashion,Footwear,PureCare,1934.59,2581.97,Active
+21497,HomeEase Product 21497,Sports,Sportswear,StyleHub,5440.45,7473.03,Active
+21498,HomeEase Product 21498,Books,Education,HomeEase,668.19,1392.31,Discontinued
+21499,SmartBuy Product 21499,Sports,Sportswear,HomeEase,742.79,1436.47,Active
+21500,NovaTech Product 21500,Beauty,Personal Care,SmartBuy,1325.68,2317.89,Active
+21501,SmartBuy Product 21501,Electronics,Audio,UrbanNest,10552.8,22479.18,Active
+21502,FitPro Product 21502, Books ,Non-Fiction,NovaTech,815.11,1694.49,Active
+21503,ReadMore Product 21503,Electronics,Computing,StyleHub,8552.31,11769.56,Discontinued
+21504,PureCare Product 21504,Electronics,Computing,HomeEase,13722.68,26668.16,Discontinued
+21505,NovaTech Product 21505,Electronics,Audio,SmartBuy,26927.7,44597.57,Active
+21506,SmartBuy Product 21506,Books,Education,HomeEase,564.25,827.57,Active
+21507,NovaTech Product 21507,Home & Kitchen,Home Decor,HomeEase,5092.63,8779.57,Active
+21508,NovaTech Product 21508,Books,Non-Fiction,PureCare,817.22,1412.57,Active
+21509,HomeEase Product 21509,Fashion,Footwear,UrbanNest,2153.34,3659.9,Discontinued
+21510,StyleHub Product 21510,Beauty,Personal Care,FitPro,1880.24,2619.09,Discontinued
+21511,PureCare Product 21511,Home & Kitchen,Appliances,SmartBuy,10217.62,14701.15,Discontinued
+21512,ReadMore Product 21512,Sports,Outdoor,NovaTech,6029.64,7755.24,Active
+21513,UrbanNest Product 21513,Sports,Outdoor,NovaTech,2447.23,3151.37,Active
+21514,FitPro Product 21514,Beauty,Personal Care,UrbanNest,1155.22,2212.34,Discontinued
+21515,HomeEase Product 21515,Electronics,Computing,FitPro,26386.58,38784.6,Discontinued
+21516,NovaTech Product 21516,Home & Kitchen,Kitchen,FitPro,1989.58,3217.08,Active
+21517,StyleHub Product 21517,Beauty,Haircare,HomeEase,3226.17,4440.94,Active
+21518,NovaTech Product 21518,Beauty,Personal Care,StyleHub,3125.4,5032.97,Discontinued
+21519,PureCare Product 21519,Electronics,Computing,StyleHub,7178.13,11887.17,Discontinued
+21520,NovaTech Product 21520,Sports,Sportswear,UrbanNest,7993.62,10989.72,Active
+21521,ReadMore Product 21521,Sports,Fitness,UrbanNest,4404.74,6369.59,Active
+21522,UrbanNest Product 21522,Electronics,Mobile Accessories,UrbanNest,24731.2,42875.59,Active
+21523,StyleHub Product 21523,Sports,Sportswear,StyleHub,1682.59,2269.72,Active
+21524,NovaTech Product 21524,Fashion,Men,FitPro,3772.31,6422.64,Active
+21525,FitPro Product 21525,Fashion,Footwear,StyleHub,3347.53,6419.61,Active
+21526,SmartBuy Product 21526,Home & Kitchen,Appliances,ReadMore,6422.75,9976.73,Discontinued
+21527,UrbanNest Product 21527,Beauty,Personal Care,StyleHub,420.45,787.57,Active
+21528,NovaTech Product 21528,Electronics,Mobile Accessories,NovaTech,15204.93,32594.79,Discontinued
+21529,FitPro Product 21529,Beauty,Haircare,NovaTech,1369.65,2616.63,Active
+21530,PureCare Product 21530,Sports,Sportswear,ReadMore,5801.03,9992.51,Active
+21531,StyleHub Product 21531,Sports,Sportswear,NovaTech,5841.23,7600.41,Active
+21532,HomeEase Product 21532,Beauty,Personal Care,StyleHub,3337.43,5709.23,Active
+21533,StyleHub Product 21533,Fashion,Footwear,ReadMore,4701.61,7669.91,Active
+21534,NovaTech Product 21534,Books,Education,UrbanNest,124.51,243.71,Active
+21535,StyleHub Product 21535,Books,Non-Fiction,NovaTech,1188.05,1626.61,Active
+21536,ReadMore Product 21536,Beauty,Personal Care,HomeEase,2739.13,5094.16,Discontinued
+21537,ReadMore Product 21537,Beauty,Personal Care,SmartBuy,1782.61,2639.61,Active
+21538,NovaTech Product 21538,Sports,Sportswear,NovaTech,2338.11,4256.07,Active
+21539,ReadMore Product 21539,Home & Kitchen,Home Decor,StyleHub,11144.73,14633.4,Discontinued
+21540,SmartBuy Product 21540,Fashion,Footwear,HomeEase,233.2,456.85,Active
+21541,SmartBuy Product 21541,Books,Non-Fiction,SmartBuy,118.13,207.96,Active
+21542,ReadMore Product 21542,Home & Kitchen,Home Decor,PureCare,12549.95,19043.25,Active
+21543,UrbanNest Product 21543,Beauty,Haircare,PureCare,2205.27,4507.65,Active
+21544,FitPro Product 21544,Sports,Outdoor,NovaTech,1600.21,3127.21,Active
+21545,UrbanNest Product 21545,Sports,Fitness,ReadMore,5396.61,9459.26,Active
+21546,NovaTech Product 21546,Fashion,Men,PureCare,2716.07,5644.43,Active
+21547,SmartBuy Product 21547,Sports,Outdoor,PureCare,2736.0,5422.52,Active
+21548,HomeEase Product 21548,Electronics,Audio,UrbanNest,5225.19,10742.54,Active
+21549,SmartBuy Product 21549,Beauty,Personal Care,StyleHub,698.63,1134.35,Active
+21550,FitPro Product 21550,Beauty,Skincare,ReadMore,1144.61,1553.19,Active
+21551,ReadMore Product 21551,Books,Education,HomeEase,339.97,448.76,Discontinued
+21552,NovaTech Product 21552,Beauty,Haircare,HomeEase,972.92,-1308.3,Active
+21553,SmartBuy Product 21553,Sports,Sportswear,SmartBuy,5547.02,7168.08,Active
+21554,SmartBuy Product 21554,Fashion,Women,PureCare,1792.86,2366.69,Active
+21555,PureCare Product 21555,Home & Kitchen,Home Decor,HomeEase,12126.75,18297.76,Active
+21556,UrbanNest Product 21556,Beauty,Personal Care,HomeEase,1417.81,2512.4,Discontinued
+21557,PureCare Product 21557,Home & Kitchen,Appliances,FitPro,11833.92,15900.7,Active
+21558,StyleHub Product 21558,Fashion,Women,SmartBuy,504.89,708.83,Active
+21559,ReadMore Product 21559,Books,Fiction,StyleHub,419.19,882.25,Active
+21560,SmartBuy Product 21560,Sports,Sportswear,SmartBuy,2940.35,3926.02,Active
+21561,FitPro Product 21561,Beauty,Skincare,StyleHub,2746.34,3950.06,Active
+21562,StyleHub Product 21562,Fashion,Men,ReadMore,1512.24,2257.79,Discontinued
+21563,NovaTech Product 21563,Beauty,Skincare,NovaTech,1537.95,2748.63,Active
+21564,SmartBuy Product 21564,Home & Kitchen,Appliances,SmartBuy,1246.05,1900.22,Active
+21565,SmartBuy Product 21565,Sports,Fitness,ReadMore,1188.38,2402.41,Discontinued
+21566,SmartBuy Product 21566,Electronics,Audio,StyleHub,13945.29,26227.21,Active
+21567,HomeEase Product 21567,Electronics,Computing,HomeEase,548.4,716.54,Discontinued
+21568,ReadMore Product 21568,Fashion,Footwear,FitPro,3748.72,4808.49,Active
+21569,SmartBuy Product 21569,Beauty,Personal Care,ReadMore,3104.11,4085.6,Active
+21570,ReadMore Product 21570,Sports,Outdoor,PureCare,5217.79,8863.28,Active
+21571,PureCare Product 21571,Electronics,Audio,NovaTech,25664.72,41724.41,Active
+21572,StyleHub Product 21572,Sports,Fitness,UrbanNest,7954.58,11101.01,Active
+21573,UrbanNest Product 21573,Home & Kitchen,Home Decor,ReadMore,3479.38,5486.36,Active
+21574,FitPro Product 21574,Electronics,Computing,HomeEase,21675.98,29158.57,Active
+21575,HomeEase Product 21575,Electronics,Mobile Accessories,StyleHub,27463.48,36423.5,Active
+21576,PureCare Product 21576,Beauty,Personal Care,ReadMore,1414.1,2555.02,Discontinued
+21577,SmartBuy Product 21577, Electronics ,Audio,NovaTech,23382.77,38922.95,Active
+21578,PureCare Product 21578,Home & Kitchen,Kitchen,StyleHub,9111.16,13219.77,Active
+21579,NovaTech Product 21579,Beauty,Skincare,PureCare,1580.15,3017.23,Active
+21580,UrbanNest Product 21580,Fashion,Footwear,HomeEase,705.18,1559.2,Discontinued
+21581,ReadMore Product 21581,Electronics,Computing,NovaTech,18502.2,27599.19,Active
+21582,PureCare Product 21582,Books,Education,FitPro,1288.32,2291.37,Discontinued
+21583,StyleHub Product 21583,Books,Education,ReadMore,156.99,293.68,Active
+21584,FitPro Product 21584,Electronics,Computing,HomeEase,6454.68,9007.7,Active
+21585,PureCare Product 21585,Fashion,Men,PureCare,5764.46,8464.8,Discontinued
+21586,NovaTech Product 21586,Fashion,Footwear,SmartBuy,3365.45,5652.35,Active
+21587,HomeEase Product 21587,Sports,Outdoor,NovaTech,4771.63,6510.04,Active
+21588,UrbanNest Product 21588,books,Fiction,UrbanNest,1134.47,1690.37,Active
+21589,SmartBuy Product 21589,Electronics,Computing,StyleHub,48182.001000000004,45887.62,Active
+21590,ReadMore Product 21590,Books,Fiction,StyleHub,324.8,590.94,Active
+21591,PureCare Product 21591,Fashion,Women,FitPro,4214.0,7415.47,Active
+21592,HomeEase Product 21592,Sports,Outdoor,NovaTech,5843.53,9009.73,Active
+21593,ReadMore Product 21593,Home & Kitchen,Kitchen,PureCare,13679.26,18648.01,Discontinued
+21594,PureCare Product 21594,Home & Kitchen,Kitchen,NovaTech,11920.04,15596.12,Discontinued
+21595,NovaTech Product 21595,Home & Kitchen,Appliances,PureCare,6039.85,12407.98,Active
+21596,ReadMore Product 21596,Books,Education,ReadMore,1098.78,1455.68,Active
+21597,StyleHub Product 21597,Fashion,Women,FitPro,4314.65,8286.57,Active
+21598,ReadMore Product 21598,Electronics,Mobile Accessories,StyleHub,35325.27,46083.38,Active
+21599,HomeEase Product 21599, Sports ,Sportswear,NovaTech,1708.76,2779.44,Discontinued
+21600,SmartBuy Product 21600,Fashion,Men,HomeEase,1562.65,2613.98,Discontinued
+21601,NovaTech Product 21601,Books,Fiction,FitPro,104.82,219.09,Active
+21602,HomeEase Product 21602,Home & Kitchen,Appliances,UrbanNest,1764.42,2474.79,Active
+21603,SmartBuy Product 21603,Books,Fiction,StyleHub,303.17,419.34,Active
+21604,UrbanNest Product 21604,Books,Non-Fiction,ReadMore,1115.87,2001.16,Discontinued
+21605,UrbanNest Product 21605,Electronics,Audio,ReadMore,20863.08,31002.01,Discontinued
+21606,FitPro Product 21606,Sports,Outdoor,HomeEase,7294.73,11530.62,Discontinued
+21607,NovaTech Product 21607,Electronics,Computing,PureCare,15393.33,33211.23,Discontinued
+21608,PureCare Product 21608,Beauty,Skincare,UrbanNest,540.68,759.27,Discontinued
+21609,UrbanNest Product 21609,Beauty,Haircare,ReadMore,99.84,151.92,Discontinued
+21610,UrbanNest Product 21610,Home & Kitchen,Kitchen,HomeEase,10652.55,18415.22,Active
+21611,UrbanNest Product 21611,Beauty,Personal Care,ReadMore,4013.64,5283.31,Discontinued
+21612,UrbanNest Product 21612,Sports,Fitness,UrbanNest,259.92,348.74,Active
+21613,PureCare Product 21613,Books,Education,UrbanNest,1825.37,2471.5,Active
+21614,NovaTech Product 21614,Beauty,Personal Care,UrbanNest,724.45,1139.69,Discontinued
+21615,HomeEase Product 21615,Books,Education,UrbanNest,210.63,298.04,Discontinued
+21616,NovaTech Product 21616,Beauty,Haircare,UrbanNest,1912.89,4193.9,Active
+21617,UrbanNest Product 21617,Beauty,Personal Care,SmartBuy,3583.94,4650.81,Discontinued
+21618,UrbanNest Product 21618,Beauty,Skincare,HomeEase,1231.63,2315.6,Discontinued
+21619,StyleHub Product 21619,Home & Kitchen,Kitchen,UrbanNest,9802.59,17196.27,Discontinued
+21620,NovaTech Product 21620,Beauty,Skincare,ReadMore,1129.82,1803.88,Active
+21621,PureCare Product 21621,Fashion,Women,FitPro,1693.23,3353.68,Discontinued
+21622,StyleHub Product 21622,Electronics,Mobile Accessories,HomeEase,17495.47,29744.82,Active
+21623,ReadMore Product 21623,Sports,Outdoor,SmartBuy,3331.88,5854.23,Active
+21624,HomeEase Product 21624,Electronics,Computing,UrbanNest,23643.55,43068.32,Discontinued
+21625,PureCare Product 21625,Books,Education,HomeEase,180.61,255.43,Active
+21626,FitPro Product 21626,Electronics,Computing,SmartBuy,1982.29,3215.69,Active
+21627,StyleHub Product 21627,Beauty,Skincare,HomeEase,3197.02,5262.15,Active
+21628,UrbanNest Product 21628,Beauty,Skincare,FitPro,2083.62,2908.93,Active
+21629,HomeEase Product 21629,Beauty,Skincare,HomeEase,2560.77,4858.52,Active
+21630,UrbanNest Product 21630,Home & Kitchen,Home Decor,NovaTech,4432.04,7637.48,Active
+21631,FitPro Product 21631,Home & Kitchen,Kitchen,HomeEase,3014.63,4326.15,Active
+21632,SmartBuy Product 21632,Electronics,Mobile Accessories,SmartBuy,20843.69,27265.27,Discontinued
+21633,ReadMore Product 21633,Sports,Fitness,UrbanNest,179.01,347.86,Discontinued
+21634,NovaTech Product 21634,Electronics,Audio,UrbanNest,25736.18,34924.66,Active
+21635,ReadMore Product 21635,Books,Education,HomeEase,623.9,1087.79,Active
+21636,UrbanNest Product 21636,Beauty,Skincare,SmartBuy,137.15,191.22,Discontinued
+21637,ReadMore Product 21637,Electronics,Computing,SmartBuy,18126.67,32564.44,Discontinued
+21638,UrbanNest Product 21638,Home & Kitchen,Home Decor,NovaTech,7955.01,15006.51,Active
+21639,PureCare Product 21639,Sports,Fitness,StyleHub,4446.39,8714.86,Active
+21640,PureCare Product 21640,Electronics,Audio,FitPro,20856.03,36005.56,Active
+21641,ReadMore Product 21641,Sports,Fitness,UrbanNest,2445.32,5065.67,Discontinued
+21642,NovaTech Product 21642,Home & Kitchen,Home Decor,SmartBuy,11417.83,18213.03,Active
+21643,HomeEase Product 21643,Electronics,Computing,NovaTech,5284.48,9747.35,Active
+21644,FitPro Product 21644,Electronics,Audio,FitPro,6932.66,13181.23,Active
+21645,HomeEase Product 21645,Home & Kitchen,Appliances,HomeEase,1083.96,1799.98,Active
+21646,HomeEase Product 21646,Home & Kitchen,Home Decor,SmartBuy,908.9,1751.91,Active
+21647,PureCare Product 21647,Books,Education,HomeEase,224.99,427.04,Active
+21648,FitPro Product 21648,Fashion,Women,StyleHub,2267.77,4594.29,Active
+21649,HomeEase Product 21649,Sports,Outdoor,FitPro,2164.96,4127.45,Active
+21650,HomeEase Product 21650,Books,Fiction,NovaTech,999.87,1788.14,Active
+21651,ReadMore Product 21651,Sports,Sportswear,StyleHub,4515.73,7839.58,Active
+21652,ReadMore Product 21652,Fashion,Footwear,HomeEase,3070.18,6465.81,Active
+21653,ReadMore Product 21653,Sports,Outdoor,ReadMore,5404.09,7739.4,Active
+21654,UrbanNest Product 21654,Fashion,Women,NovaTech,1432.36,2286.37,Active
+21655,SmartBuy Product 21655,Books,Fiction,NovaTech,545.5,1065.15,Discontinued
+21656,SmartBuy Product 21656,Fashion,Men,StyleHub,4874.42,6253.83,Active
+21657,StyleHub Product 21657,Electronics,Mobile Accessories,NovaTech,15957.46,27723.55,Discontinued
+21658,PureCare Product 21658,Books,Non-Fiction,NovaTech,345.04,710.1,Active
+21659,FitPro Product 21659,Books,Education,ReadMore,115.45,193.34,Active
+21660,UrbanNest Product 21660,Books,Education,PureCare,53.78,107.52,Active
+21661,PureCare Product 21661,Sports,Outdoor,SmartBuy,439.95,867.58,Active
+21662,SmartBuy Product 21662,Home & Kitchen,Home Decor,PureCare,4998.13,10383.62,Discontinued
+21663,FitPro Product 21663,Home & Kitchen,Kitchen,PureCare,6492.23,10368.14,Active
+21664,StyleHub Product 21664,Beauty,Personal Care,UrbanNest,2438.25,3346.17,Active
+21665,UrbanNest Product 21665,Electronics,Mobile Accessories,PureCare,3789.07,4947.71,Discontinued
+21666,UrbanNest Product 21666,Fashion,Women,ReadMore,1119.66,2071.22,Active
+21667,FitPro Product 21667,Beauty,Personal Care,PureCare,1296.45,2503.47,Active
+21668,HomeEase Product 21668,Books,Education,PureCare,215.01,423.3,Active
+21669,NovaTech Product 21669,Sports,Fitness,FitPro,539.73,816.19,Discontinued
+21670,HomeEase Product 21670,Beauty,Personal Care,UrbanNest,668.2,1311.03,Active
+21671,NovaTech Product 21671,Books,Non-Fiction,SmartBuy,1164.11,1498.05,Active
+21672,StyleHub Product 21672,Home & Kitchen,Kitchen,PureCare,844.52,1317.08,Active
+21673,PureCare Product 21673,Home & Kitchen,Home Decor,HomeEase,11823.05,17312.62,Active
+21674,ReadMore Product 21674,Electronics,Mobile Accessories,UrbanNest,6127.0545,5835.29,Active
+21675,UrbanNest Product 21675,Electronics,Mobile Accessories,NovaTech,13104.01,23381.27,Active
+21676,UrbanNest Product 21676,Electronics,Audio,SmartBuy,12305.65,22882.97,Discontinued
+21677,UrbanNest Product 21677,Books,Non-Fiction,FitPro,63.72,118.93,Active
+21678,FitPro Product 21678,Beauty,Personal Care,PureCare,1994.26,3279.07,Discontinued
+21679,StyleHub Product 21679,Home & Kitchen,Home Decor,HomeEase,9742.73,18364.85,Active
+21680,ReadMore Product 21680,Beauty,Skincare,SmartBuy,3298.85,4923.32,Active
+21681,PureCare Product 21681,Fashion,Women,PureCare,4567.8,9007.97,Active
+21682,StyleHub Product 21682,Beauty,Skincare,SmartBuy,534.54,693.65,Active
+21683,FitPro Product 21683,Beauty,Haircare,PureCare,3143.3,4464.83,Active
+21684,HomeEase Product 21684,Fashion,Women,HomeEase,3427.2,5944.31,Active
+21685,NovaTech Product 21685,Beauty,Personal Care,StyleHub,2036.8,4444.28,Active
+21686,StyleHub Product 21686,Electronics,Mobile Accessories,NovaTech,8586.95,12897.06,Active
+21687,SmartBuy Product 21687,Beauty,Haircare,UrbanNest,2153.61,4687.05,Active
+21688,SmartBuy Product 21688,Sports,Fitness,StyleHub,1925.82,3220.47,Active
+21689,SmartBuy Product 21689,Home & Kitchen,Kitchen,PureCare,5678.98,8835.89,Active
+21690,PureCare Product 21690,Fashion,Men,HomeEase,4161.0,5585.13,Active
+21691,UrbanNest Product 21691,Fashion,Footwear,NovaTech,3693.65,6174.82,Active
+21692,NovaTech Product 21692,fashion,Footwear,NovaTech,4154.0,8503.84,Discontinued
+21693,UrbanNest Product 21693,Fashion,Footwear,StyleHub,5902.91,9948.51,Active
+21694,FitPro Product 21694, Fashion ,Men,ReadMore,2387.04,5153.9,Active
+21695,ReadMore Product 21695,Fashion,Men,SmartBuy,4156.38,5844.49,Active
+21696,ReadMore Product 21696,Electronics,Mobile Accessories,NovaTech,13955.64,26667.7,Active
+21697,UrbanNest Product 21697,Beauty,Skincare,NovaTech,1258.58,2765.66,Active
+21698,PureCare Product 21698,Books,Fiction,NovaTech,451.85,833.96,Active
+21699,PureCare Product 21699,Fashion,Footwear,UrbanNest,5371.54,7284.24,Active
+21700,FitPro Product 21700,Fashion,Women,PureCare,1497.18,3157.17,Active
+21701,StyleHub Product 21701,Fashion,Footwear,ReadMore,2083.35,4129.57,Active
+21702,UrbanNest Product 21702,Books,Non-Fiction,FitPro,793.4,1176.2,Active
+21703,ReadMore Product 21703,Beauty,Personal Care,SmartBuy,2908.57,5543.27,Active
+21704,UrbanNest Product 21704,Home & Kitchen,Home Decor,ReadMore,4789.34,10029.87,Active
+21705,FitPro Product 21705,Home & Kitchen,Kitchen,UrbanNest,12229.86,17849.22,Active
+21706,PureCare Product 21706,Fashion,Footwear,SmartBuy,4218.49,7973.59,Active
+21707,StyleHub Product 21707,Home & Kitchen,Kitchen,StyleHub,7809.46,15414.94,Active
+21708,NovaTech Product 21708,Beauty,Skincare,StyleHub,1495.81,2596.74,Active
+21709,FitPro Product 21709,Home & Kitchen,Appliances,StyleHub,6606.65,13944.61,Active
+21710,ReadMore Product 21710,Beauty,Skincare,HomeEase,3044.38,4621.55,Active
+21711,PureCare Product 21711,Books,Fiction,UrbanNest,1178.76,2222.12,Active
+21712,StyleHub Product 21712,Electronics,Audio,FitPro,28032.58,38453.41,Active
+21713,StyleHub Product 21713,Fashion,Men,FitPro,3562.29,4701.02,Active
+21714,StyleHub Product 21714,Books,Fiction,UrbanNest,1331.16,1849.63,Active
+21715,HomeEase Product 21715,Home & Kitchen,Appliances,SmartBuy,5716.65,9654.02,Discontinued
+21716,UrbanNest Product 21716,Books,Non-Fiction,ReadMore,489.18,862.35,Active
+21717,SmartBuy Product 21717,Sports,Fitness,HomeEase,4435.81,6228.89,Discontinued
+21718,NovaTech Product 21718,Electronics,Audio,SmartBuy,23861.66,33374.48,Active
+21719,HomeEase Product 21719,Electronics,Mobile Accessories,UrbanNest,11287.65,16820.1,Discontinued
+21720,FitPro Product 21720,Fashion,Footwear,PureCare,2558.77,4002.03,Active
+21721,StyleHub Product 21721,Books,Education,ReadMore,274.08,531.6,Discontinued
+21722,HomeEase Product 21722,Fashion,Men,SmartBuy,3058.48,5750.87,Active
+21723,SmartBuy Product 21723,Beauty,Personal Care,HomeEase,823.08,1400.15,Active
+21724,FitPro Product 21724, Home & Kitchen ,Appliances,SmartBuy,11281.26,18121.27,Discontinued
+21725,ReadMore Product 21725,Home & Kitchen,Appliances,PureCare,1191.91,1855.52,Active
+21726,HomeEase Product 21726,Electronics,Audio,NovaTech,4657.9,9875.09,Active
+21727,FitPro Product 21727,Home & Kitchen,Home Decor,ReadMore,2552.93,4962.48,Discontinued
+21728,HomeEase Product 21728,Sports,Sportswear,FitPro,364.3,783.52,Active
+21729,NovaTech Product 21729,Beauty,Skincare,ReadMore,1325.8,2209.69,Active
+21730,PureCare Product 21730,Home & Kitchen,Home Decor,SmartBuy,10892.28,19641.05,Active
+21731,FitPro Product 21731,Books,Non-Fiction,HomeEase,1177.68,1537.22,Active
+21732,ReadMore Product 21732,Fashion,Women,HomeEase,385.53,521.84,Active
+21733,HomeEase Product 21733,Beauty,Skincare,HomeEase,703.23,1187.77,Discontinued
+21734,StyleHub Product 21734,Beauty,Skincare,PureCare,2571.96,4108.03,Active
+21735,FitPro Product 21735,Electronics,Computing,FitPro,21499.29,45973.86,Discontinued
+21736,FitPro Product 21736,Books,Education,FitPro,790.95,1127.8,Active
+21737,NovaTech Product 21737,Books,Education,FitPro,1299.49,2183.96,Discontinued
+21738,UrbanNest Product 21738,Books,Education,NovaTech,1168.5,2406.3,Active
+21739,NovaTech Product 21739,Electronics,Mobile Accessories,HomeEase,1861.88,2686.7,Active
+21740,FitPro Product 21740,Books,Education,PureCare,134.51,237.06,Discontinued
+21741,StyleHub Product 21741,Home & Kitchen,Appliances,FitPro,2933.21,4156.0,Discontinued
+21742,StyleHub Product 21742,Sports,Fitness,SmartBuy,1772.4,3570.82,Active
+21743,StyleHub Product 21743,Beauty,Skincare,UrbanNest,1891.35,3534.19,Active
+21744,ReadMore Product 21744,Sports,Fitness,UrbanNest,3567.6,6997.9,Active
+21745,StyleHub Product 21745,Fashion,Women,ReadMore,3350.52,5470.51,Discontinued
+21746,ReadMore Product 21746,Sports,Fitness,NovaTech,4024.78,5379.93,Discontinued
+21747,NovaTech Product 21747,Fashion,Women,HomeEase,1645.92,2168.51,Active
+21748,HomeEase Product 21748,Sports,Fitness,UrbanNest,6673.94,9807.31,Active
+21749,UrbanNest Product 21749,Fashion,Footwear,HomeEase,4254.86,8570.47,Discontinued
+21750,PureCare Product 21750,Electronics,Mobile Accessories,SmartBuy,18560.37,32084.4,Active
+21751,PureCare Product 21751,Books,Education,PureCare,1161.67,2106.21,Active
+21752,HomeEase Product 21752,Fashion,Men,SmartBuy,1693.04,2314.7,Active
+21753,UrbanNest Product 21753,Fashion,Women,FitPro,3056.11,4231.99,Active
+21754,FitPro Product 21754,Fashion,Footwear,StyleHub,927.7275,883.55,Discontinued
+21755,HomeEase Product 21755,Electronics,Mobile Accessories,NovaTech,6372.04,11583.11,Active
+21756,FitPro Product 21756,Fashion,Men,FitPro,6451.86,9700.13,Active
+21757,HomeEase Product 21757,Home & Kitchen,Home Decor,UrbanNest,11703.39,15507.57,Active
+21758,UrbanNest Product 21758,Books,Non-Fiction,ReadMore,861.96,1191.37,Active
+21759,StyleHub Product 21759,Fashion,Footwear,UrbanNest,3811.97,5751.43,Active
+21760,StyleHub Product 21760,Sports,Outdoor,PureCare,6092.8,10236.18,Active
+21761,NovaTech Product 21761,Books,Non-Fiction,HomeEase,929.26,1599.47,Discontinued
+21762,StyleHub Product 21762,Books,Non-Fiction,UrbanNest,915.19,1216.62,Active
+21763,UrbanNest Product 21763,Books,Fiction,NovaTech,770.4,1061.16,Active
+21764,NovaTech Product 21764,Fashion,Footwear,ReadMore,673.8,1075.72,Discontinued
+21765,ReadMore Product 21765,Books,Non-Fiction,ReadMore,736.2,976.96,Active
+21766,PureCare Product 21766,Beauty,Skincare,HomeEase,2216.92,4372.23,Active
+21767,NovaTech Product 21767,Electronics,Audio,SmartBuy,2605.6,5631.7,Active
+21768,SmartBuy Product 21768,Home & Kitchen,Kitchen,StyleHub,3268.77,4255.9,Active
+21769,NovaTech Product 21769,Sports,Sportswear,HomeEase,4910.35,10479.72,Active
+21770,FitPro Product 21770,Home & Kitchen,Home Decor,UrbanNest,2030.95,3735.22,Active
+21771,NovaTech Product 21771,Books,Education,StyleHub,1082.32,2105.47,Active
+21772,PureCare Product 21772,Beauty,Personal Care,NovaTech,952.11,2114.44,Active
+21773,ReadMore Product 21773,Beauty,Haircare,UrbanNest,392.62,656.07,Active
+21774,HomeEase Product 21774,Electronics,Mobile Accessories,HomeEase,5456.31,9823.77,Active
+21775,UrbanNest Product 21775,Books,Fiction,FitPro,595.86,868.73,Active
+21776,UrbanNest Product 21776,Beauty,Personal Care,FitPro,473.44,701.88,Active
+21777,NovaTech Product 21777,Home & Kitchen,Appliances,HomeEase,9459.49,16348.45,Discontinued
+21778,FitPro Product 21778,Electronics,Mobile Accessories,ReadMore,25451.97,45173.96,Active
+21779,ReadMore Product 21779,books,Fiction,HomeEase,97.85,126.24,Active
+21780,ReadMore Product 21780,Beauty,Personal Care,SmartBuy,2204.99,4529.82,Active
+21781,PureCare Product 21781,Fashion,Footwear,FitPro,2955.45,4405.28,Active
+21782,PureCare Product 21782,Beauty,Personal Care,ReadMore,2334.76,4940.93,Discontinued
+21783,NovaTech Product 21783,Books,Non-Fiction,NovaTech,848.36,1389.01,Active
+21784,SmartBuy Product 21784,Beauty,Personal Care,ReadMore,2527.14,4146.04,Discontinued
+21785,HomeEase Product 21785,Home & Kitchen,Appliances,HomeEase,10358.19,13510.06,Active
+21786,FitPro Product 21786,Home & Kitchen,Kitchen,NovaTech,4484.37,6447.35,Active
+21787,HomeEase Product 21787,Books,Non-Fiction,UrbanNest,615.18,1203.3,Active
+21788,UrbanNest Product 21788,Sports,Sportswear,PureCare,7739.98,11130.1,Active
+21789,PureCare Product 21789,Sports,Fitness,NovaTech,4414.06,9470.48,Discontinued
+21790,SmartBuy Product 21790,Sports,Fitness,SmartBuy,166.76,334.16,Active
+21791,UrbanNest Product 21791,Electronics,Mobile Accessories,UrbanNest,344.33,706.84,Active
+21792,PureCare Product 21792,Fashion,Footwear,NovaTech,4402.66,6526.34,Active
+21793,UrbanNest Product 21793,Sports,Outdoor,ReadMore,309.12,510.75,Discontinued
+21794,NovaTech Product 21794,Fashion,Footwear,UrbanNest,4255.74,6624.26,Active
+21795,PureCare Product 21795,Sports,Sportswear,StyleHub,2518.28,3464.56,Active
+21796,ReadMore Product 21796,Home & Kitchen,Home Decor,StyleHub,791.29,1567.56,Active
+21797,HomeEase Product 21797,Beauty,Skincare,NovaTech,395.82,606.55,Active
+21798,HomeEase Product 21798,Beauty,Skincare,PureCare,2479.97,4694.76,Active
+21799,ReadMore Product 21799,books,Fiction,FitPro,1195.43,2466.29,Active
+21800,StyleHub Product 21800,Fashion,Men,FitPro,2335.41,5189.65,Active
+21801,SmartBuy Product 21801,Books,Fiction,UrbanNest,750.07,1445.64,Active
+21802,HomeEase Product 21802,Fashion,Women,UrbanNest,5900.19,8423.21,Active
+21803,SmartBuy Product 21803,Sports,Sportswear,HomeEase,5224.04,11153.66,Active
+21804,HomeEase Product 21804,Sports,Outdoor,NovaTech,6081.66,9358.49,Active
+21805,FitPro Product 21805,Fashion,Women,NovaTech,6107.51,9294.51,Discontinued
+21806,NovaTech Product 21806,Books,Non-Fiction,StyleHub,302.06,513.5,Discontinued
+21807,ReadMore Product 21807,Home & Kitchen,Appliances,ReadMore,2944.14,4721.55,Active
+21808,SmartBuy Product 21808,Sports,Outdoor,UrbanNest,7473.16,11169.23,Active
+21809,PureCare Product 21809,Beauty,Haircare,ReadMore,585.33,847.15,Active
+21810,NovaTech Product 21810,Electronics,Computing,FitPro,25783.49,44623.38,Discontinued
+21811,SmartBuy Product 21811,Sports,Outdoor,HomeEase,1030.58,1486.47,Active
+21812,PureCare Product 21812,Sports,Fitness,FitPro,6072.68,8752.32,Active
+21813,HomeEase Product 21813,Books,Non-Fiction,NovaTech,772.06,1643.8,Discontinued
+21814,SmartBuy Product 21814,Sports,Fitness,HomeEase,5000.54,8249.39,Active
+21815,HomeEase Product 21815,Sports,Outdoor,ReadMore,3134.94,4699.82,Active
+21816,StyleHub Product 21816,Beauty,Skincare,NovaTech,2111.55,3859.22,Active
+21817,FitPro Product 21817,Home & Kitchen,Kitchen,HomeEase,9408.82,16606.52,Discontinued
+21818,PureCare Product 21818,books,Fiction,StyleHub,1580.11,2303.0,Active
+21819,FitPro Product 21819,Beauty,Haircare,FitPro,185.78,259.0,Active
+21820,HomeEase Product 21820,Electronics,Computing,SmartBuy,10929.85,15834.93,Active
+21821,PureCare Product 21821,Electronics,Computing,NovaTech,9102.0,13917.11,Active
+21822,NovaTech Product 21822,Electronics,Audio,ReadMore,5683.21,7449.38,Active
+21823,FitPro Product 21823,Home & Kitchen,Home Decor,ReadMore,12360.51,18643.94,Active
+21824,SmartBuy Product 21824,Fashion,Men,ReadMore,5418.14,8004.13,Active
+21825,HomeEase Product 21825, Beauty ,Personal Care,HomeEase,3838.02,5601.94,Active
+21826,StyleHub Product 21826,Books,Education,StyleHub,146.53,278.33,Active
+21827,PureCare Product 21827,Books,Non-Fiction,FitPro,1026.07,1588.76,Active
+21828,NovaTech Product 21828,Sports,Sportswear,PureCare,1386.38,2622.89,Active
+21829,HomeEase Product 21829,Fashion,Men,HomeEase,3490.82,5928.38,Active
+21830,NovaTech Product 21830,Sports,Sportswear,SmartBuy,2764.88,4487.45,Active
+21831,ReadMore Product 21831,Fashion,Women,UrbanNest,6283.81,8681.09,Active
+21832,FitPro Product 21832,Fashion,Men,ReadMore,4228.14,6457.8,Active
+21833,SmartBuy Product 21833,Beauty,Haircare,NovaTech,3050.33,4421.82,Active
+21834,HomeEase Product 21834,Electronics,Mobile Accessories,UrbanNest,35932.69,49093.71,Active
+21835,UrbanNest Product 21835,Sports,Sportswear,NovaTech,4380.69,8040.57,Active
+21836,ReadMore Product 21836,Home & Kitchen,Appliances,PureCare,2609.0,3786.93,Active
+21837,PureCare Product 21837,Home & Kitchen,Appliances,FitPro,1675.81,3433.83,Active
+21838,PureCare Product 21838,Electronics,Mobile Accessories,UrbanNest,18662.78,24399.94,Active
+21839,PureCare Product 21839,Books,Non-Fiction,UrbanNest,675.25,1498.11,Active
+21840,HomeEase Product 21840,Home & Kitchen,Appliances,SmartBuy,7635.43,13007.08,Active
+21841,UrbanNest Product 21841,Books,Education,NovaTech,610.66,1194.34,Active
+21842,FitPro Product 21842,Fashion,Men,ReadMore,6769.64,8992.4,Discontinued
+21843,StyleHub Product 21843,Home & Kitchen,Home Decor,StyleHub,9592.96,19125.17,Active
+21844,UrbanNest Product 21844,Sports,Sportswear,StyleHub,736.29,1173.33,Active
+21845,ReadMore Product 21845,Books,Non-Fiction,PureCare,1203.26,2325.61,Discontinued
+21846,PureCare Product 21846, Beauty ,Haircare,ReadMore,4020.22,5486.59,Active
+21847,PureCare Product 21847,Books,Non-Fiction,NovaTech,427.41,597.65,Discontinued
+21848,ReadMore Product 21848,Home & Kitchen,Appliances,SmartBuy,1577.31,3100.91,Discontinued
+21849,SmartBuy Product 21849,Sports,Sportswear,HomeEase,5832.59,7735.11,Active
+21850,ReadMore Product 21850,Home & Kitchen,Home Decor,ReadMore,3496.55,6654.94,Active
+21851,StyleHub Product 21851,Fashion,Women,FitPro,588.96,761.44,Active
+21852,HomeEase Product 21852,Home & Kitchen,Appliances,NovaTech,5073.16,10316.71,Discontinued
+21853,SmartBuy Product 21853,Beauty,Skincare,SmartBuy,2690.18,4444.76,Discontinued
+21854,ReadMore Product 21854,Home & Kitchen,Home Decor,ReadMore,8144.66,13269.63,Discontinued
+21855,FitPro Product 21855,Fashion,Men,ReadMore,1022.53,1435.58,Active
+21856,PureCare Product 21856,Home & Kitchen,Kitchen,SmartBuy,6905.08,8943.88,Active
+21857,ReadMore Product 21857,Books,Education,PureCare,1055.12,1378.4,Active
+21858,StyleHub Product 21858,Electronics,Computing,NovaTech,17757.71,29799.82,Active
+21859,StyleHub Product 21859,Beauty,Personal Care,FitPro,3460.96,5689.78,Active
+21860,HomeEase Product 21860, Beauty ,Skincare,FitPro,1670.8,3188.98,Active
+21861,ReadMore Product 21861,Electronics,Mobile Accessories,NovaTech,14313.65,24136.4,Discontinued
+21862,ReadMore Product 21862,Home & Kitchen,Kitchen,StyleHub,1387.21,1981.21,Active
+21863,NovaTech Product 21863,Electronics,Mobile Accessories,FitPro,21231.68,27996.31,Discontinued
+21864,HomeEase Product 21864,Home & Kitchen,Appliances,HomeEase,305.3,406.81,Active
+21865,SmartBuy Product 21865,Fashion,Women,PureCare,1711.4,2589.08,Active
+21866,SmartBuy Product 21866,Beauty,Skincare,FitPro,523.77,892.46,Active
+21867,ReadMore Product 21867,Sports,Outdoor,UrbanNest,5499.96,7265.44,Active
+21868,PureCare Product 21868,Home & Kitchen,Appliances,StyleHub,470.41,777.9,Active
+21869,StyleHub Product 21869,Sports,Sportswear,SmartBuy,7485.78,10668.74,Discontinued
+21870,SmartBuy Product 21870,Electronics,Mobile Accessories,PureCare,14691.81,19156.88,Active
+21871,SmartBuy Product 21871,Electronics,Computing,SmartBuy,9181.87,19742.51,Active
+21872,FitPro Product 21872,Sports,Fitness,FitPro,6117.86,11878.05,Active
+21873,PureCare Product 21873,Fashion,Men,NovaTech,3049.78,6089.64,Discontinued
+21874,StyleHub Product 21874,Electronics,Mobile Accessories,ReadMore,27565.18,36223.75,Discontinued
+21875,HomeEase Product 21875,Sports,Sportswear,HomeEase,4711.04,8076.11,Active
+21876,NovaTech Product 21876,sports,Sportswear,HomeEase,5274.84,9026.4,Active
+21877,UrbanNest Product 21877,Home & Kitchen,Kitchen,SmartBuy,2491.11,4038.89,Active
+21878,PureCare Product 21878,Beauty,Haircare,StyleHub,2779.05,4155.61,Active
+21879,PureCare Product 21879,Home & Kitchen,Kitchen,FitPro,6703.34,13501.59,Active
+21880,PureCare Product 21880,Electronics,Computing,HomeEase,8517.76,11863.07,Discontinued
+21881,PureCare Product 21881,Fashion,Men,ReadMore,6823.78,9265.7,Discontinued
+21882,StyleHub Product 21882,Books,Non-Fiction,NovaTech,792.99,1365.91,Active
+21883,NovaTech Product 21883,Home & Kitchen,Appliances,ReadMore,689.48,1080.85,Active
+21884,NovaTech Product 21884,Beauty,Personal Care,NovaTech,1315.34,1967.78,Active
+21885,SmartBuy Product 21885,Electronics,Audio,FitPro,11466.95,23543.1,Discontinued
+21886,HomeEase Product 21886,Electronics,Mobile Accessories,UrbanNest,27910.34,35845.12,Active
+21887,StyleHub Product 21887,Books,Fiction,FitPro,506.61,1051.5,Active
+21888,UrbanNest Product 21888,Books,Education,FitPro,1038.07,1620.11,Discontinued
+21889,ReadMore Product 21889,Home & Kitchen,Appliances,HomeEase,5348.79,10300.41,Discontinued
+21890,SmartBuy Product 21890,Home & Kitchen,Kitchen,FitPro,3861.75,6032.3,Discontinued
+21891,PureCare Product 21891,Home & Kitchen,Kitchen,PureCare,5422.1,10003.57,Active
+21892,PureCare Product 21892,Electronics,Audio,NovaTech,12017.71,18572.88,Discontinued
+21893,ReadMore Product 21893,Sports,Sportswear,FitPro,5260.18,10884.09,Active
+21894,FitPro Product 21894,Beauty,Personal Care,FitPro,3475.74,5824.67,Active
+21895,NovaTech Product 21895, Home & Kitchen ,Home Decor,HomeEase,9508.47,12724.38,Active
+21896,SmartBuy Product 21896,Electronics,Audio,ReadMore,1561.9,2272.93,Discontinued
+21897,SmartBuy Product 21897,Home & Kitchen,Appliances,FitPro,1886.82,2495.41,Active
+21898,NovaTech Product 21898,Books,Fiction,StyleHub,446.81,724.08,Active
+21899,ReadMore Product 21899,Beauty,Skincare,HomeEase,871.79,1363.65,Discontinued
+21900,UrbanNest Product 21900,Sports,Outdoor,FitPro,7192.24,-9816.64,Active
+21901,HomeEase Product 21901,Fashion,Men,StyleHub,207.24,314.54,Active
+21902,PureCare Product 21902,Home & Kitchen,Kitchen,SmartBuy,3708.45,6284.52,Active
+21903,FitPro Product 21903,Electronics,Computing,NovaTech,13644.76,26966.63,Active
+21904,NovaTech Product 21904,Books,Education,ReadMore,1367.86,2396.46,Active
+21905,FitPro Product 21905,Fashion,Footwear,NovaTech,2210.32,3421.26,Active
+21906,HomeEase Product 21906,Books,Fiction,PureCare,953.07,1498.49,Active
+21907,SmartBuy Product 21907,Electronics,Mobile Accessories,StyleHub,9720.1,19326.19,Active
+21908,NovaTech Product 21908,Electronics,Audio,PureCare,26573.05,35737.0,Discontinued
+21909,NovaTech Product 21909,Sports,Sportswear,PureCare,6428.79,10225.57,Active
+21910,FitPro Product 21910,Electronics,Audio,UrbanNest,6107.7,10051.28,Active
+21911,NovaTech Product 21911,Fashion,Men,FitPro,2828.32,5107.36,Active
+21912,StyleHub Product 21912,Books,Fiction,UrbanNest,827.88,1064.65,Active
+21913,ReadMore Product 21913,Books,Fiction,PureCare,1093.6,1820.7,Active
+21914,SmartBuy Product 21914,Home & Kitchen,Appliances,SmartBuy,8552.38,15021.58,Discontinued
+21915,FitPro Product 21915,Fashion,Women,HomeEase,2903.48,3753.55,Active
+21916,UrbanNest Product 21916,Beauty,Skincare,UrbanNest,2869.29,4001.56,Active
+21917,NovaTech Product 21917,Books,Fiction,ReadMore,1252.06,2037.47,Discontinued
+21918,ReadMore Product 21918,Fashion,Footwear,NovaTech,4189.1,6882.52,Discontinued
+21919,StyleHub Product 21919,Electronics,Audio,FitPro,15640.95,30229.36,Discontinued
+21920,UrbanNest Product 21920,Sports,Outdoor,UrbanNest,6894.5,9229.63,Active
+21921,HomeEase Product 21921,Sports,Fitness,StyleHub,4411.99,8315.99,Discontinued
+21922,SmartBuy Product 21922,Fashion,Men,UrbanNest,3332.26,6995.92,Active
+21923,SmartBuy Product 21923,Books,Fiction,UrbanNest,1356.92,2202.88,Active
+21924,FitPro Product 21924,Fashion,Women,UrbanNest,2998.08,6399.2,Active
+21925,UrbanNest Product 21925,Beauty,Skincare,FitPro,1293.98,1829.13,Active
+21926,HomeEase Product 21926,Sports,Fitness,StyleHub,2590.32,3695.43,Discontinued
+21927,FitPro Product 21927,Books,Non-Fiction,UrbanNest,733.99,1163.37,Active
+21928,NovaTech Product 21928,Books,Non-Fiction,UrbanNest,123.56,266.46,Active
+21929,FitPro Product 21929,Electronics,Mobile Accessories,ReadMore,12336.28,19558.59,Active
+21930,NovaTech Product 21930,Books,Fiction,UrbanNest,592.84,973.39,Active
+21931,PureCare Product 21931,Beauty,Haircare,HomeEase,956.21,1317.61,Active
+21932,ReadMore Product 21932,Electronics,Computing,HomeEase,18091.7,27191.0,Discontinued
+21933,UrbanNest Product 21933,Electronics,Computing,StyleHub,897.67,1168.62,Active
+21934,UrbanNest Product 21934,Beauty,Haircare,PureCare,2512.07,5545.24,Active
+21935,HomeEase Product 21935,Electronics,Mobile Accessories,NovaTech,4538.32,9348.74,Active
+21936,ReadMore Product 21936,Beauty,Skincare,PureCare,2571.43,3476.06,Discontinued
+21937,UrbanNest Product 21937,Sports,Sportswear,UrbanNest,3867.98,6806.41,Discontinued
+21938,HomeEase Product 21938,Beauty,Haircare,PureCare,2309.25,3432.15,Active
+21939,FitPro Product 21939,Books,Non-Fiction,StyleHub,779.51,1046.34,Active
+21940,ReadMore Product 21940,Beauty,Skincare,SmartBuy,1574.99,3474.56,Active
+21941,FitPro Product 21941,Home & Kitchen,Appliances,PureCare,11237.46,16442.6,Active
+21942,StyleHub Product 21942,Home & Kitchen,Appliances,StyleHub,3082.55,4787.78,Active
+21943,StyleHub Product 21943,Electronics,Mobile Accessories,StyleHub,27167.06,43553.91,Active
+21944,UrbanNest Product 21944,Sports,Fitness,PureCare,4957.49,9823.31,Discontinued
+21945,NovaTech Product 21945,Electronics,Audio,PureCare,22413.37,45858.51,Discontinued
+21946,ReadMore Product 21946,Fashion,Women,NovaTech,3627.82,5232.42,Active
+21947,NovaTech Product 21947,Electronics,Mobile Accessories,HomeEase,20517.3,44849.31,Active
+21948,HomeEase Product 21948,Home & Kitchen,Appliances,PureCare,8771.38,16232.46,Active
+21949,StyleHub Product 21949,Sports,Fitness,HomeEase,6230.69,10244.51,Active
+21950,SmartBuy Product 21950,Books,Non-Fiction,FitPro,789.53,1584.93,Discontinued
+21951,PureCare Product 21951,Books,Non-Fiction,StyleHub,944.61,1767.45,Active
+21952,UrbanNest Product 21952,Fashion,Footwear,HomeEase,671.75,1415.8,Active
+21953,SmartBuy Product 21953,Fashion,Men,FitPro,366.48,670.92,Discontinued
+21954,StyleHub Product 21954,Fashion,Footwear,FitPro,4753.59,8585.4,Active
+21955,UrbanNest Product 21955,Sports,Fitness,UrbanNest,5514.5,9743.84,Active
+21956,SmartBuy Product 21956,Home & Kitchen,Appliances,NovaTech,2191.93,3190.14,Active
+21957,StyleHub Product 21957,Fashion,Women,PureCare,1457.53,2692.47,Active
+21958,PureCare Product 21958,Sports,Outdoor,UrbanNest,1943.77,2931.89,Active
+21959,NovaTech Product 21959,Fashion,Women,FitPro,4296.41,6442.07,Active
+21960,UrbanNest Product 21960,Fashion,Women,StyleHub,3001.63,6489.76,Discontinued
+21961,HomeEase Product 21961,Books,Non-Fiction,SmartBuy,336.48,445.91,Active
+21962,SmartBuy Product 21962,Books,Non-Fiction,SmartBuy,595.89,1116.85,Active
+21963,SmartBuy Product 21963,Sports,Fitness,PureCare,3964.86,5462.38,Active
+21964,UrbanNest Product 21964,Beauty,Haircare,PureCare,1898.51,4097.21,Active
+21965,FitPro Product 21965,Books,Education,ReadMore,1047.43,2236.19,Active
+21966,FitPro Product 21966,Electronics,Computing,NovaTech,24607.21,36709.33,Active
+21967,UrbanNest Product 21967,Sports,Fitness,NovaTech,7376.99,10113.09,Active
+21968,SmartBuy Product 21968,Electronics,Mobile Accessories,FitPro,4103.66,7716.55,Discontinued
+21969,FitPro Product 21969,Beauty,Personal Care,HomeEase,1235.02,1954.62,Active
+21970,FitPro Product 21970,Beauty,Haircare,PureCare,1798.57,3209.69,Active
+21971,UrbanNest Product 21971,Fashion,Women,HomeEase,2364.41,3808.78,Active
+21972,HomeEase Product 21972,Beauty,Haircare,ReadMore,2461.31,-5004.12,Active
+21973,ReadMore Product 21973,sports,Fitness,ReadMore,3993.16,5893.51,Active
+21974,FitPro Product 21974,Beauty,Personal Care,FitPro,3272.24,4514.45,Active
+21975,NovaTech Product 21975,fashion,Women,SmartBuy,2501.7,4274.91,Discontinued
+21976,FitPro Product 21976, Sports ,Fitness,SmartBuy,1293.67,1896.76,Active
+21977,UrbanNest Product 21977,Home & Kitchen,Home Decor,StyleHub,4301.96,7014.47,Active
+21978,UrbanNest Product 21978, Sports ,Fitness,FitPro,5616.93,9118.91,Active
+21979,PureCare Product 21979,Electronics,Computing,SmartBuy,23128.93,41453.76,Active
+21980,NovaTech Product 21980,Books,Non-Fiction,HomeEase,81.24,135.84,Active
+21981,NovaTech Product 21981,Sports,Outdoor,StyleHub,2735.85,4455.61,Active
+21982,PureCare Product 21982,Fashion,Footwear,HomeEase,3753.18,4885.87,Discontinued
+21983,HomeEase Product 21983,Fashion,Women,SmartBuy,3413.67,6873.24,Active
+21984,ReadMore Product 21984,Beauty,Personal Care,SmartBuy,582.59,1262.6,Active
+21985,UrbanNest Product 21985,Electronics,Audio,StyleHub,33204.98,46557.75,Active
+21986,UrbanNest Product 21986,Books,Education,PureCare,340.81,563.43,Active
+21987,PureCare Product 21987,Home & Kitchen,Home Decor,NovaTech,4717.32,7446.82,Discontinued
+21988,HomeEase Product 21988,Books,Non-Fiction,StyleHub,1189.98,1581.88,Active
+21989,UrbanNest Product 21989,Fashion,Women,NovaTech,3328.14,6166.95,Active
+21990,ReadMore Product 21990, Beauty ,Haircare,UrbanNest,2217.2,3516.48,Active
+21991,PureCare Product 21991,Beauty,Skincare,ReadMore,487.09,983.54,Discontinued
+21992,SmartBuy Product 21992,Fashion,Footwear,NovaTech,4585.39,9546.23,Active
+21993,SmartBuy Product 21993,Electronics,Computing,NovaTech,22836.17,48574.86,Active
+21994,SmartBuy Product 21994,Electronics,Mobile Accessories,HomeEase,8014.49,11618.66,Active
+21995,FitPro Product 21995,Books,Fiction,PureCare,1081.55,1515.95,Active
+21996,FitPro Product 21996,Sports,Fitness,SmartBuy,1809.69,4003.43,Active
+21997,FitPro Product 21997,Fashion,Men,NovaTech,3921.87,6996.55,Discontinued
+21998,FitPro Product 21998,Books,Education,SmartBuy,318.74,467.66,Active
+21999,SmartBuy Product 21999,Fashion,Men,SmartBuy,4300.16,9019.77,Discontinued
+22000,UrbanNest Product 22000,Home & Kitchen,Home Decor,UrbanNest,4719.07,7167.55,Discontinued
