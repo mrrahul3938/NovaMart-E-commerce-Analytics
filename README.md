@@ -85,6 +85,7 @@ Key cleaning activities included:
 **Results:**
 
 * 150 exact duplicate customer records removed
+* 500 exact duplicate order records removed 
 * 50,000 unique customers retained
 * 30 invalid product pricing records identified and handled
 
@@ -165,9 +166,9 @@ The project provides visibility into:
 * High-value customers
 * Top revenue and profit-generating products
 * Monthly revenue trends
-* Customer concentration by geography
-* Product pricing patterns
 * Product return activity
+* Total return by month year
+* Total refund amount
 * Important data-quality issues
 
 These insights can support decisions related to **customer retention, product profitability, pricing, geographic targeting, and return reduction**.
@@ -177,28 +178,6 @@ These insights can support decisions related to **customer retention, product pr
 ## 🛠️ Tools & Technologies
 
 **Excel | SQL Server | SQL | Power BI | DAX | Power Query | Power BI Service | GitHub**
-
----
-
-## 📂 Repository Structure
-
-```text
-NovaMart-Ecommerce-Analytics/
-│
-├── README.md
-├── data/
-│
-├── sql/
-│   ├── data_cleaning.sql
-│   └── business_analysis.sql
-│
-├── powerbi/
-│   └── NovaMart_Analytics.pbix
-│
-├── screenshots/
-│
-└── documentation/
-```
 
 ---
 
